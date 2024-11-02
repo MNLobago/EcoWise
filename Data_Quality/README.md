@@ -1,6 +1,3 @@
-Sure! Here’s the updated README.md with a summary of the findings specifically regarding the KMeans clustering analysis, including the identification of the elbow point at cluster 7. This will provide more context for users regarding the optimal number of clusters.
-
-```markdown
 # Data Quality Assessment and Clustering Analysis
 
 This repository contains two Jupyter Notebooks aimed at assessing the quality of data used in Natural Language Processing (NLP) tasks. The first notebook focuses on fine-tuning a BERT model and analyzing the resulting data quality, while the second notebook employs clustering techniques on textual data to uncover patterns and similarities.
@@ -163,4 +160,3 @@ During the analysis, the elbow method indicated an optimal number of clusters at
 Feel free to submit issues or pull requests for enhancements. Contributions are welcome!
 
 ---
-```
