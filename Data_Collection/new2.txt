@@ -1,0 +1,3923 @@
+Science topics: [Economics](topic/Economics) [Environmental Economics](topic/Environmental-Economics) [Ecological Economics](topic/Ecological-Economics) [Ecological Footprint](topic/Ecological-Footprint)Carbon Footprint
+
+Science topic
+
+# Carbon Footprint - Science topic
+
+A measure of the total greenhouse gas emissions produced by an individual, organization, event, or product. It is measured in units of equivalent kilograms of CARBON DIOXIDE generated in a given time frame.
+
+Questions related to Carbon Footprint
+
+[2](https://www.researchgate.net/topic/Carbon-Footprint/2)
+
+[![Shiv Vendra Singh](https://i1.rgstatic.net/ii/profile.image/11431281206373656-1700667190030_Q64/Shiv-Vendra-Singh.jpg)](profile/Shiv-Vendra-Singh)
+
+[Shiv Vendra Singh](profile/Shiv-Vendra-Singh)
+
+- asked a question related to Carbon Footprint
+
+[Does Mean Residence Time (MRT) and Elemental Ratio give better understanding about Biochar Carbon stability?](post/Does_Mean_Residence_Time_MRT_and_Elemental_Ratio_give_better_understanding_about_Biochar_Carbon_stability)
+
+Question
+
+4 answers
+
+- 12 Jan 2020
+
+As MRT express the decay rate (average time that biochar can persist from decaying) and this rate decreases with time. Therefore, the incubation period becomes pivotal for the MRT calculation because shorter duration may lead to higher estimated mineralization rate and shorter MRT. So, can we consider other means of getting justifiable stability period?
+
+please suggest a methodology for above.
+
+Relevant answer
+
+[![Nils Borchard](https://i1.rgstatic.net/ii/profile.image/808381979828225-1569744691565_Q64/Nils-Borchard.jpg)](profile/Nils-Borchard)
+
+[Nils Borchard](profile/Nils-Borchard)
+
+- 17 Jan 2020
+
+Answer
+
+Dear Shiv,
+
+you may check following publications to get some ideas on how to proceed:
+
+Enders et al 2012 10.1016/j.biortech.2012.03.022
+
+Spokas 2010 10.4155/cmt.10.32
+
+Kuzyakov et al 2014 10.1016/j.soilbio.2013.12
+
+Wang et al 2016 10.1111/gcbb.12266
+
+Harvey et al 2012 10.1021/es2040398
+
+and more...
+
+BR
+
+Nils
+
+[View](post/Does_Mean_Residence_Time_MRT_and_Elemental_Ratio_give_better_understanding_about_Biochar_Carbon_stability)
+
+- 16 Recommendations
+
+[![Ravi Luckhun](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Ravi-Luckhun)
+
+[Ravi Luckhun](profile/Ravi-Luckhun)
+
+- asked a question related to Carbon Footprint
+
+[What is the best methodology to calculate carbon footprint for a private business?](post/What_is_the_best_methodology_to_calculate_carbon_footprint_for_a_private_business)
+
+Question
+
+3 answers
+
+- 5 Jan 2020
+
+The business is involved in the service sector and wants to reduce its carbon footprint.
+
+What is the best methodology that can be used?
+
+Relevant answer
+
+[![Yolanda M. Guerra Post Ph.D.](https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg)](profile/Yolanda-Guerra-Post-Phd)
+
+[Yolanda M. Guerra Post Ph.D.](profile/Yolanda-Guerra-Post-Phd)
+
+- 6 Jan 2020
+
+Answer
+
+Hello. I leave you with a couple of links that may be of helpe. Best of luck
+
+[https://eco-act.com/carbon-reporting/how-to-calculate-a-carbon-footprint-for-your-business/](https://www.researchgate.net/deref/https%3A%2F%2Feco-act.com%2Fcarbon-reporting%2Fhow-to-calculate-a-carbon-footprint-for-your-business%2F)
+
+[https://ec.europa.eu/environment/archives/eussd/pdf/Deliverable.pdf](https://www.researchgate.net/deref/https%3A%2F%2Fec.europa.eu%2Fenvironment%2Farchives%2Feussd%2Fpdf%2FDeliverable.pdf)
+
+[https://www.pre-sustainability.com/news/product-carbon-footprint-standards-which-standard-to-choose](https://www.researchgate.net/deref/https%3A%2F%2Fwww.pre-sustainability.com%2Fnews%2Fproduct-carbon-footprint-standards-which-standard-to-choose)
+
+[https://www.banktrack.org/download/understanding\_the\_issues\_around\_quantifying\_ghg\_emissions\_in\_the\_financial\_sector\_1/fichier\_v\_1\_eng\_understanding\_the\_issues\_around\_quantifying\_ghg\_emissions\_in\_the\_financial\_sector.pdf](https://www.researchgate.net/deref/https%3A%2F%2Fwww.banktrack.org%2Fdownload%2Funderstanding_the_issues_around_quantifying_ghg_emissions_in_the_financial_sector_1%2Ffichier_v_1_eng_understanding_the_issues_around_quantifying_ghg_emissions_in_the_financial_sector.pdf)
+
+[View](post/What_is_the_best_methodology_to_calculate_carbon_footprint_for_a_private_business)
+
+- 6 Recommendations
+
+[![Ariel Reznik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Ariel-Reznik-2)
+
+[Ariel Reznik](profile/Ariel-Reznik-2)
+
+- asked a question related to Carbon Footprint
+
+[What is the carbon footprint of various grain in Russia and the Ukraine?](post/What_is_the_carbon_footprint_of_various_grain_in_Russia_and_the_Ukraine)
+
+Question
+
+2 answers
+
+- 30 Dec 2019
+
+I'm looking for data on carbon footprint/global warming potential of various grain in Russia and the Ukraine.
+
+Mainly data on maize, wheat, barley, rye and also oil crops: sunflower and rapeseed would be much appreciated.
+
+Relevant answer
+
+[![Ariel Reznik](https://i1.rgstatic.net/ii/profile.image/805893293756417-1569151342334_Q64/Ariel-Reznik-2.jpg)](profile/Ariel-Reznik-2)
+
+[Ariel Reznik](profile/Ariel-Reznik-2)
+
+- 5 Jan 2020
+
+Answer
+
+Found a good source for most grains:
+
+[http://www.fao.org/partnerships/leap/database/ghg-crops/en/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.fao.org%2Fpartnerships%2Fleap%2Fdatabase%2Fghg-crops%2Fen%2F)
+
+Still need sources for oil seeds: sunflower and rapeseed
+
+[View](post/What_is_the_carbon_footprint_of_various_grain_in_Russia_and_the_Ukraine)
+
+- 0 Recommendations
+
+[![Divesh Roopowa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Divesh-Roopowa)
+
+[Divesh Roopowa](profile/Divesh-Roopowa)
+
+- asked a question related to Carbon Footprint
+
+[What methodologies are available to calculate Emission Factors?](post/What_methodologies_are_available_to_calculate_Emission_Factors)
+
+Question
+
+6 answers
+
+- 9 Dec 2016
+
+Where can I get the emission factors for a particular country?
+
+Relevant answer
+
+[![Muhammad Shoaib](https://i1.rgstatic.net/ii/profile.image/695963748421634-1542942096562_Q64/Muhammad-Shoaib-120.jpg)](profile/Muhammad-Shoaib-120)
+
+[Muhammad Shoaib](profile/Muhammad-Shoaib-120)
+
+- 4 Jan 2020
+
+Answer
+
+How can trade related emission factors calculated?
+
+[View](post/What_methodologies_are_available_to_calculate_Emission_Factors)
+
+- 0 Recommendations
+
+[![Mohammed Abdullah Issa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Mohammed-Issa-13)
+
+[Mohammed Abdullah Issa](profile/Mohammed-Issa-13)
+
+- asked a question related to Carbon Footprint
+
+[Why to use acid or base for the development of fluorescent carbon dots?](post/Why-to-use-acid-or-base-for-the-development-of-fluorescent-carbon-dots)
+
+Question
+
+3 answers
+
+- 5 Dec 2019
+
+Salam all. according to the reported work in the literature, some authors used strong acid (like refluxing with HNo3) in conjugation with carbon-based precursor, while others used base such as NaOH. It is well known that base can act as corrosive agent to accelerate the breakdown process of carbonaceous materials and at the same time provide CDs with OH groups. So what is the advantages of using strong acid? which one is more favorable to enhance the fluorescent quantum yield of CDs , acid or base?
+
+Relevant answer
+
+[![Fazeleh Feghhi](https://i1.rgstatic.net/ii/profile.image/11431281256011530-1719497478920_Q64/Fazeleh-Feghhi.jpg)](profile/Fazeleh-Feghhi)
+
+[Fazeleh Feghhi](profile/Fazeleh-Feghhi)
+
+- 8 Dec 2019
+
+Answer
+
+caLAm
+
+actually, strong acids are not necessary to produce normal blue fluorescent C dots. the main reason for using strong acids and bases or trying new precursors is to improve QY and photo-stability or engineering the emitted and adsorbed light to reach the NIR region. to achieve this goal it is needed to work on the C dot inner structure.
+
+I am working on the same area and I found this recently published review paper amazingly useful, all recent studies are summarized and very good mechanism explanations are gathered. hope you can use this article to understand the mechanism better.
+
+Article [Red carbon dots: Optical property regulations and applications](publication/333671444_Red_carbon_dots_Optical_property_regulations_and_applications)
+
+[View](post/Why-to-use-acid-or-base-for-the-development-of-fluorescent-carbon-dots)
+
+- 26 Recommendations
+
+[![Nafees Mohammad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Nafees-Mohammad)
+
+[Nafees Mohammad](profile/Nafees-Mohammad)
+
+- asked a question related to Carbon Footprint
+
+[Which sphere is contributing more toward climate change? Troposphere, stratosphere, mesosphere or ionosphere?](post/Which-sphere-is-contributing-more-toward-climate-change-Troposphere-stratosphere-mesosphere-or-ionosphere)
+
+Question
+
+7 answers
+
+- 17 Nov 2018
+
+Troposphere sphere contains 99℅ (by weight) of the total atmosphere. CO2 is water soluble and continuously washed during rain. Some CO2 is also get dissolved in surface water. A big percentage is trapped during photosynthesis. Still we blamed CO2 for global warming and climate change?
+
+Relevant answer
+
+[![Ehsan Sharokhi](https://i1.rgstatic.net/ii/profile.image/1010631427760131-1617964717524_Q64/Ehsan-Sharokhi.jpg)](profile/Ehsan-Sharokhi)
+
+[Ehsan Sharokhi](profile/Ehsan-Sharokhi)
+
+- 23 Nov 2019
+
+Answer
+
+Hello dear ,
+
+I think that is troposphere
+
+[View](post/Which-sphere-is-contributing-more-toward-climate-change-Troposphere-stratosphere-mesosphere-or-ionosphere)
+
+- 9 Recommendations
+
+[![Siraj Mammo Yimer](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Siraj-Yimer)
+
+[Siraj Mammo Yimer](profile/Siraj-Yimer)
+
+- asked a question related to Carbon Footprint
+
+[how to convert CO2 sequestration / Carbon stock into global energy market?](post/how-to-convert-CO2-sequestration-Carbon-stock-into-global-energy-market)
+
+Question
+
+5 answers
+
+- 13 Feb 2017
+
+how to convert CO2 sequestration / Carbon stock into global energy market?
+
+Relevant answer
+
+[![Ashok Kumar Nadda](https://i1.rgstatic.net/ii/profile.image/1065320873742337-1631003697402_Q64/Ashok-Nadda.jpg)](profile/Ashok-Nadda)
+
+[Ashok Kumar Nadda](profile/Ashok-Nadda)
+
+- 19 Nov 2019
+
+Answer
+
+Article [Energizing the CO2 utilization by Chemo-enzymatic approaches...](publication/337022874_Energizing_the_CO2_utilization_by_Chemo-enzymatic_approaches_and_potentiality_of_carbonic_anhydrases_A_review)
+
+[View](post/how-to-convert-CO2-sequestration-Carbon-stock-into-global-energy-market)
+
+- 0 Recommendations
+
+[![Ben Lenk-Ostendorf](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Ben-Lenk-Ostendorf)
+
+[Ben Lenk-Ostendorf](profile/Ben-Lenk-Ostendorf)
+
+- asked a question related to Carbon Footprint
+
+[How can I help you against climate change?](post/How-can-I-help-you-against-climate-change)
+
+Question
+
+11 answers
+
+- 25 Sept 2019
+
+Dear fellow researchers,
+
+for my PhD project I want to build an app to fight climate change. In this app I want to show the CO2 footprint the user has and take them on journeys (a collection of tasks) to commit to a climate positive cause. To be more specific: I measure how much energy in your household is needed and give you all the data you need to change your energy provider.
+
+Therefore, I would love to hear what features, ideas and functionalities you would absolutely want in a climate change app.
+
+Kind regards,
+
+Ben Lenk-Ostendorf
+
+Relevant answer
+
+[![Nicola Colonna](https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg)](profile/Nicola-Colonna)
+
+[Nicola Colonna](profile/Nicola-Colonna)
+
+- 25 Sept 2019
+
+Answer
+
+Easy to use...
+
+Simple interface
+
+Low data demanding
+
+To provide each user suggestion on how to change behaviour or how to invest to decrease energy consumption (direct or undirect)
+
+[View](post/How-can-I-help-you-against-climate-change)
+
+- 10 Recommendations
+
+[![Loai Aljerf](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Loai-Aljerf)
+
+[Loai Aljerf](profile/Loai-Aljerf)
+
+- asked a question related to Carbon Footprint
+
+[Is there any dissertation used cost-benefit analysis in dental management?](post/Is_there_any_dissertation_used_cost-benefit_analysis_in_dental_management)
+
+Question
+
+1 answer
+
+- 10 Jul 2019
+
+**Is there any dissertation used cost-benefit analysis in dental management? What is the dental carbon footprint? What are the greenhouse gas emissions of dental services? Is there a specific study?**
+
+Relevant answer
+
+[![Harpreet Grover](https://i1.rgstatic.net/ii/profile.image/11431281222416574-1707231288525_Q64/Harpreet-Grover-2.jpg)](profile/Harpreet-Grover-2)
+
+[Harpreet Grover](profile/Harpreet-Grover-2)
+
+- 1 Sept 2019
+
+Answer
+
+Dear Loai.Very interesting and unique questions .Most of the dental research is within stereotypical parameters. To my knowledge there aren't many studies on the research items which you have highlighted. Time for someone to take up on these interesting ideas!!
+
+[View](post/Is_there_any_dissertation_used_cost-benefit_analysis_in_dental_management)
+
+- 0 Recommendations
+
+[![A.M.R. Abdel-Mawgoud](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Amr-Abdel-Mawgoud)
+
+[A.M.R. Abdel-Mawgoud](profile/Amr-Abdel-Mawgoud)
+
+- asked a question related to Carbon Footprint
+
+[Carbon footprint...How effectively can be used in agriculture to mitigate climate changes?](post/Carbon-footprintHow-effectively-can-be-used-in-agriculture-to-mitigate-climate-changes)
+
+Question
+
+6 answers
+
+- 20 Aug 2019
+
+With increasing world population, agriculture has to do more using intensive agricultural systems to feed this growing population. However, the use of intensive agricultural systems usually is associated with more Greenhouse Gases (GHG) released to the atmosphere contributing to climate changes.
+
+The concept of carbon footprint has gained some attention recently as a tool to measure the contribution of the process of producing any product to the release of GHG.
+
+How effectively can we use this tool in agriculture to contribute to the mitigation of climate changes?
+
+Relevant answer
+
+[![Nii Nelson](https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg)](profile/Nii-Nelson)
+
+[Nii Nelson](profile/Nii-Nelson)
+
+- 21 Aug 2019
+
+Answer
+
+The idea of carbon footprint is to monitor our impacts on the atmosphere by reducing the amount of CO2 we emit into it. Carbon dioxide and methane are the biggest culprits in the climate change debate. Hence any activity that reduces the generation and release of Carbon dioxide and methane is a worthwhile activity as we strive hard to combat climate change. Agriculture is one area where we can reduce our carbon footprint. The beef industry for instance produces a lot of methane which eventually gets converted into carbon dioxide and causes global warming. Farmers can however reduce the amount of methane produced for every kg of beef produced. One of the key drivers is days to slaughter; an animal that is finished at 16 months compared to one at 30 months will have emitted substantially less methane during its lifetime. Therefore optimising animal performance is key. Genetics, animal health and nutrition all play a key role when it comes to the performance of any animal. This is something that farmers need to improve on.
+
+Some oils such as linseed, coconut, garlic and cotton oil are considered to be amongst the most effective additives for methane mitigation. Adding fats to the cow's diet offers a promising solution for reducing methanogenesis, without having a significant negative impact on other functions of the cattle.
+
+[View](post/Carbon-footprintHow-effectively-can-be-used-in-agriculture-to-mitigate-climate-changes)
+
+- 5 Recommendations
+
+[![Marcos Andrés Osorio Ortega](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Marcos-Osorio-Ortega)
+
+[Marcos Andrés Osorio Ortega](profile/Marcos-Osorio-Ortega)
+
+- asked a question related to Carbon Footprint
+
+[How to calculate carbon footprint for only pulping and making paper processes, using Ethanol-organosolv process, known as Alcell?](post/How-to-calculate-carbon-footprint-for-only-pulping-and-making-paper-processes-using-Ethanol-organosolv-process-known-as-Alcell)
+
+Question
+
+1 answer
+
+- 11 Jul 2019
+
+Please help me, how can I calculate this specif carbon footprint, is there a protocol or calculation method methodology for carbon footprint of a manufacturing process and their individual processes?
+
+Relevant answer
+
+[![Jorge Luis García-Alcaraz](https://i1.rgstatic.net/ii/profile.image/272477368614966-1441975075723_Q64/Jorge-Garcia-Alcaraz.jpg)](profile/Jorge-Garcia-Alcaraz)
+
+[Jorge Luis García-Alcaraz](profile/Jorge-Garcia-Alcaraz)
+
+- 4 Aug 2019
+
+Answer
+
+There are several software that calculate that: Simapro, GABI... among others.
+
+Also, there are some free calculators, as [http://www.footprintcalculator.org/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.footprintcalculator.org%2F)
+
+Please read about the ISO 14040 for Life Cycle Analysis
+
+[View](post/How-to-calculate-carbon-footprint-for-only-pulping-and-making-paper-processes-using-Ethanol-organosolv-process-known-as-Alcell)
+
+- 0 Recommendations
+
+[![Saeideh Baghanian](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Saeideh-Baghanian)
+
+[Saeideh Baghanian](profile/Saeideh-Baghanian)
+
+- asked a question related to Carbon Footprint
+
+[How can we calculate the concentration of 1000 tons of carbon dioxide in the air in PPM?](post/How-can-we-calculate-the-concentration-of-1000-tons-of-carbon-dioxide-in-the-air-in-PPM)
+
+Question
+
+5 answers
+
+- 2 Aug 2019
+
+Dear All scientists;
+
+How can we calculate the concentration of CO2 emitted in the air in PPM?
+
+shall we use PPMv(Volume PPM) or Mass PPM is also acceptable?
+
+Regards
+
+Relevant answer
+
+[![Douglas Nuttall](https://i1.rgstatic.net/ii/profile.image/467662179442690-1488510760955_Q64/Douglas-Nuttall.jpg)](profile/Douglas-Nuttall)
+
+[Douglas Nuttall](profile/Douglas-Nuttall)
+
+- 3 Aug 2019
+
+Answer
+
+No - the mass of the air it mixes with, not the volume. And within a very few years it can be assumed to be fully mixed.
+
+So, if the atmosphere has a pressure of 101.15 kPa at the earth's surface, in a gravitational field of 9.81 N/kg, then there is a mass of 10.3 T of air over every square meter of land, which turns into 5.26 e18 kg. If the atmosphere was 'thick' relative to the diameter of the earth, then the calculation would be much more sophisticated. As the vast majority of the atmosphere is within 100km of the surface, and the radius o the planet is about 6400 km, it is relatively 'thin', so this complexity can be ignored.
+
+So, 1000T of CO2 adds 1.9e-7 ppm to what is there right now.
+
+[View](post/How-can-we-calculate-the-concentration-of-1000-tons-of-carbon-dioxide-in-the-air-in-PPM)
+
+- 12 Recommendations
+
+[![Sajjad Raza](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Sajjad-Raza-2)
+
+[Sajjad Raza](profile/Sajjad-Raza-2)
+
+- asked a question related to Carbon Footprint
+
+[Why pH decreases faster after CaCO3 depletion from soil?](post/Why_pH_decreases_faster_after_CaCO3_depletion_from_soil)
+
+Question
+
+4 answers
+
+- 22 Jun 2019
+
+CaCO3 has high buffering capacity and resist change in soil pH. After CaCO3 is lost from soil, the decrease in soil pH becomes rapid. Is it because other buffers are weak? I need papers or a diagram showing the phenomenon of pH decline.
+
+Relevant answer
+
+[![Sajjad Raza](https://i1.rgstatic.net/ii/profile.image/11431281188489510-1694644729119_Q64/Sajjad-Raza-2.jpg)](profile/Sajjad-Raza-2)
+
+[Sajjad Raza](profile/Sajjad-Raza-2)
+
+- 24 Jun 2019
+
+Answer
+
+Dear Sir [Rob Keller](profile/Rob-Keller) Thank you very much for the answer. The attachments you shared have been very valuable and thoroughly improved my understanding on the subject. Blessings.
+
+[View](post/Why_pH_decreases_faster_after_CaCO3_depletion_from_soil)
+
+- 0 Recommendations
+
+[![G. Venkatesh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/G-Venkatesh-2)
+
+[G. Venkatesh](profile/G-Venkatesh-2)
+
+- asked a question related to Carbon Footprint
+
+[Difference in carbon footprint between imported and locally produced food?](post/Difference-in-carbon-footprint-between-imported-and-locally-produced-food)
+
+Question
+
+3 answers
+
+- 29 May 2019
+
+Field to fork studies....any papers or on going research?
+
+Relevant answer
+
+[![Bartek Felski](https://i1.rgstatic.net/ii/profile.image/705157834752002-1545134137330_Q64/Bartek-Felski-2.jpg)](profile/Bartek-Felski-2)
+
+[Bartek Felski](profile/Bartek-Felski-2)
+
+- 2 Jun 2019
+
+Answer
+
+In my opinion the difference is in transportation impact from one hand (imported food =produced food + storage + transportation, shopping, ect.). From the other hand, the problem of environmental impact of impored food "in situ" - imported food means produced propably on large scale and in that case the polution and co2 impact are olso large in the place of production.
+
+[View](post/Difference-in-carbon-footprint-between-imported-and-locally-produced-food)
+
+- 0 Recommendations
+
+[![Fazleh Mahomed](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Fazleh-Mahomed)
+
+[Fazleh Mahomed](profile/Fazleh-Mahomed)
+
+- asked a question related to Carbon Footprint
+
+[Cars for the environment](post/Cars-for-the-environment)
+
+Question
+
+23 answers
+
+- 9 May 2019
+
+Full electric versus Hybrid: which is better on all round assessment?
+
+Hybrid cars combine a petrol engine with an electric driven component.
+
+Eg: [https://auto.howstuffworks.com/fuel-efficiency/hybrid-technology/toyota-prius.htm](https://www.researchgate.net/deref/https%3A%2F%2Fauto.howstuffworks.com%2Ffuel-efficiency%2Fhybrid-technology%2Ftoyota-prius.htm)
+
+Relevant answer
+
+[![Mahir Hashim](https://i1.rgstatic.net/ii/profile.image/11431281090419265-1666049808444_Q64/Mahir-Hashim-2.jpg)](profile/Mahir-Hashim-2)
+
+[Mahir Hashim](profile/Mahir-Hashim-2)
+
+- 11 May 2019
+
+Answer
+
+What do you want to know from your question?
+
+[View](post/Cars-for-the-environment)
+
+- 56 Recommendations
+
+[![Milad Moradibistouni](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Milad-Moradibistouni)
+
+[Milad Moradibistouni](profile/Milad-Moradibistouni)
+
+- asked a question related to Carbon Footprint
+
+[Calculating life cycle Carbon Footprint of timber elements in a building?](post/Calculating_life_cycle_Carbon_Footprint_of_timber_elements_in_a_building)
+
+Question
+
+3 answers
+
+- 17 Apr 2019
+
+I am calculating the life cycle Carbon Footprint of a house with some timber elements. The point is that timber can locks up CO2 while it will release it finally after it burnt or decay. On the other word the CO2 coefficient of timber is negative. Now the question is, considering I am going to replace the timber elements, for example 3 times , during the life of the building, shall I add 3 negative value together, or considering that CO2 are gonna be released, I should calculate it once or etc. A reference or idea about what others did, would be perfect.
+
+Relevant answer
+
+[![Aryan Shahabian](https://i1.rgstatic.net/ii/profile.image/990860250476544-1613250901202_Q64/Aryan-Shahabian-2.jpg)](profile/Aryan-Shahabian-2)
+
+[Aryan Shahabian](profile/Aryan-Shahabian-2)
+
+- 21 Apr 2019
+
+Answer
+
+BEHAVIOUR AND DESIGN OF TIMBER-WOOD LIGHTWEIGHT CONCRETE-COMPOSITE FLOOR SYSTEMS Alireza Fadai, Christoph Radlherr
+
+[https://www.google.com/url?sa=t&source=web&rct=j&url=https://indico.conference4me.psnc.pl/event/171/session/389/contribution/329/material/paper/1.pdf&ved=2ahUKEwiU6dirieDhAhXypYsKHUR\_BxgQFjARegQICBAB&usg=AOvVaw2y52wk4EhTPuHPrlZ1wFc4&cshid=1555811480200](https://www.researchgate.net/deref/https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26source%3Dweb%26rct%3Dj%26url%3Dhttps%3A%2F%2Findico.conference4me.psnc.pl%2Fevent%2F171%2Fsession%2F389%2Fcontribution%2F329%2Fmaterial%2Fpaper%2F1.pdf%26ved%3D2ahUKEwiU6dirieDhAhXypYsKHUR_BxgQFjARegQICBAB%26usg%3DAOvVaw2y52wk4EhTPuHPrlZ1wFc4%26cshid%3D1555811480200)
+
+[View](post/Calculating_life_cycle_Carbon_Footprint_of_timber_elements_in_a_building)
+
+- 5 Recommendations
+
+[![Muhammad Ahmed Waqas](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Muhammad-Waqas-128)
+
+[Muhammad Ahmed Waqas](profile/Muhammad-Waqas-128)
+
+- asked a question related to Carbon Footprint
+
+[What measures are being taken to reduce carbon footprints of grain production (wheat, maize, rice) in India ?](post/What-measures-are-being-taken-to-reduce-carbon-footprints-of-grain-production-wheat-maize-rice-in-India)
+
+Question
+
+3 answers
+
+- 14 Apr 2019
+
+Like changes in irrigation, sowing, or fertilization methods or in other crop management practices?
+
+Relevant answer
+
+[![Paul Reed Hepperly](https://i1.rgstatic.net/ii/profile.image/11431281207180213-1701125759174_Q64/Paul-Hepperly.jpg)](profile/Paul-Hepperly)
+
+[Paul Reed Hepperly](profile/Paul-Hepperly)
+
+- 15 Apr 2019
+
+Answer
+
+since about one half of the total cereal grain carbon foot print is for supplemental nitrogen the use of legumes is highly recommended. The use of legumes and the organic amendment of manures and composts can eliminate any requirement for supplemental nitrogen.
+
+Besides carbon footprint the ability to get carbon sequestration from the agricultural system can be critical. In the monsoon environment of India the efficiency of water usage is dependent of the soil organic matter which has largely been depleted in may subcontinent areas. One of the best ways to increasing both soil organic matter and the ability to have high crop production is the integration of the plant and animal systems. When winter small grain can be used to establish a permanent mixed forage this stimulates a grassland type of environment which maximizes soil improvement.
+
+Beside the establishment of legume foundation and mixed agricultural system the efficiency of the system depend on getting the high soil pH and balancing the soil nutrition through addressing deficiencies and toxicities.
+
+By focusing on the biological input in the soil the requirements for agrichemical inputs and their issues can be avoided. The use of tillage practices can aid by using no till methods and substituting biological controls for the agrichemical.s
+
+The system approach starts with a baselining of the soil conditions the use of soil analysis which leads to soil conservation and remediation plan.
+
+The periodic assay of the soil and plant analyses serves as a way of monitoring and indicating when adjustments are needed.
+
+This type of approach would ideally utilize teams of farmers and scientists who can interact together in the goals which would be applied in generalized regional approaches to extend the benefits from the approach and use the input efficiently.
+
+Practices of production can be quantified for their carbon footprint and the results on the soil are used to determine sequestration as ongoing evaluation and adaptation.
+
+[View](post/What-measures-are-being-taken-to-reduce-carbon-footprints-of-grain-production-wheat-maize-rice-in-India)
+
+- 10 Recommendations
+
+[![Aryan Shahabian](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Aryan-Shahabian-2)
+
+[Aryan Shahabian](profile/Aryan-Shahabian-2)
+
+- asked a question related to Carbon Footprint
+
+[Any valid, new and free inventory for energy and carbon of construction materials?](post/Any_valid_new_and_free_inventory_for_energy_and_carbon_of_construction_materials)
+
+Question
+
+7 answers
+
+- 22 Jan 2019
+
+I use the ICE version 2 by the university of Bath. It's easy to use and based on valid methodology but it's a bit old.
+
+I would appreciate it if you could introduce a new database.
+
+Relevant answer
+
+[![Linda Hildebrand](https://i1.rgstatic.net/ii/profile.image/608475700809729-1522083320246_Q64/Linda-Hildebrand.jpg)](profile/Linda-Hildebrand)
+
+[Linda Hildebrand](profile/Linda-Hildebrand)
+
+- 27 Mar 2019
+
+Answer
+
+If still relevant- I would recommend the German open access Ökobaudat ( [https://www.oekobaudat.de](https://www.researchgate.net/deref/https%3A%2F%2Fwww.oekobaudat.de)). I would be careful with ICE since it refers to the british context. If you look at projects in your country ecoinvent is closest but not open access.
+
+[View](post/Any_valid_new_and_free_inventory_for_energy_and_carbon_of_construction_materials)
+
+- 5 Recommendations
+
+[![Nilesh Vaidya](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Nilesh-Vaidya-3)
+
+[Nilesh Vaidya](profile/Nilesh-Vaidya-3)
+
+- asked a question related to Carbon Footprint
+
+[How to calculate carbon footprint manually for bricks of different materials?](post/How-to-calculate-carbon-footprint-manually-for-bricks-of-different-materials)
+
+Question
+
+4 answers
+
+- 25 Mar 2019
+
+various bricks that are sustainable, i have to check in detail the carbon footprint calculations and analysis of the bricks.
+
+Relevant answer
+
+[![Felipe Ossio](https://i1.rgstatic.net/ii/profile.image/812629106884609-1570757285152_Q64/Felipe-Ossio.jpg)](profile/Felipe-Ossio)
+
+[Felipe Ossio](profile/Felipe-Ossio)
+
+- 26 Mar 2019
+
+Answer
+
+Hello, maybe the article " [https://www.researchgate.net/publication/320395791\_Benchmarking\_the\_Environmental\_Impact\_of\_Green\_and\_Traditional\_Masonry\_Wall\_Constructions](https://www.researchgate.net/publication/320395791_Benchmarking_the_Environmental_Impact_of_Green_and_Traditional_Masonry_Wall_Constructions)" ( [Shady Attia 阿提亚](profile/Shady-Attia-atiya)) can be useful.
+
+[View](post/How-to-calculate-carbon-footprint-manually-for-bricks-of-different-materials)
+
+- 2 Recommendations
+
+[![Joy Sarkar](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Joy-Sarkar-5)
+
+[Joy Sarkar](profile/Joy-Sarkar-5)
+
+- asked a question related to Carbon Footprint
+
+[Is there any free and reliable tool to assess the Carbon Footprint of any Manufacturing System?](post/Is-there-any-free-and-reliable-tool-to-assess-the-Carbon-Footprint-of-any-Manufacturing-System)
+
+Question
+
+4 answers
+
+- 22 Jan 2019
+
+Want to assess the Carbon Footprint of Apparel Manufacturing or Leather manufacturing system. That's why want to know about the tools available and if there is any free tool.
+
+Relevant answer
+
+[![Sarif Patwary](https://i1.rgstatic.net/ii/profile.image/619527691845640-1524718320526_Q64/Sarif-Patwary.jpg)](profile/Sarif-Patwary)
+
+[Sarif Patwary](profile/Sarif-Patwary)
+
+- 21 Mar 2019
+
+Answer
+
+Yes, there are a lot of softwares in market. Some of them are Simapro, GaBi, OpenLCA etc...
+
+[View](post/Is-there-any-free-and-reliable-tool-to-assess-the-Carbon-Footprint-of-any-Manufacturing-System)
+
+- 8 Recommendations
+
+[![Praharsha Repalle](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Praharsha-Repalle)
+
+[Praharsha Repalle](profile/Praharsha-Repalle)
+
+- asked a question related to Carbon Footprint
+
+[what are different sustainable practices adopted by different universities to make their campus carbon neutral?](post/what-are-different-sustainable-practices-adopted-by-different-universities-to-make-their-campus-carbon-neutral)
+
+Question
+
+14 answers
+
+- 20 Feb 2019
+
+Looking for different Practices/ideas that include the following:
+
+1\. Energy: Energy conservation methods, Renewable Energy, Smart Monitoring
+
+2\. Water: Water management, recycle and reuse
+
+3\. Waste: Reduction Techniques, Segregation, 5R's, convert to Energy
+
+4\. Transport: Ev's, bicycles, alternate modes
+
+5\. Biodiversity
+
+6\. Society Engagement programs
+
+Relevant answer
+
+[![Krishna Kumar Yadav](https://i1.rgstatic.net/ii/profile.image/819010916601867-1572278827908_Q64/Krishna-Yadav-48.jpg)](profile/Krishna-Yadav-48)
+
+[Krishna Kumar Yadav](profile/Krishna-Yadav-48)
+
+- 21 Feb 2019
+
+Answer
+
+Following
+
+[View](post/what-are-different-sustainable-practices-adopted-by-different-universities-to-make-their-campus-carbon-neutral)
+
+- 12 Recommendations
+
+[![Brian Collins](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Brian-Collins-6)
+
+[Brian Collins](profile/Brian-Collins-6)
+
+- asked a question related to Carbon Footprint
+
+[Water and carbon footprint of computer calculations/simulations?](post/Water_and_carbon_footprint_of_computer_calculations_simulations)
+
+Question
+
+9 answers
+
+- 17 Dec 2018
+
+I am interested to know about the water and carbon footprint of computer calculations/simulations. For instance, how much water is consumed (over the whole process) to make an hour / a unit of mathematical calculations with a computer possible and how much emission is created? My search didn't lead to any scientific study on the topic. Any suggestion/idea?
+
+Relevant answer
+
+[![Amila Abeynayaka](https://i1.rgstatic.net/ii/profile.image/11431281168824611-1687160544415_Q64/Amila-Abeynayaka.jpg)](profile/Amila-Abeynayaka)
+
+[Amila Abeynayaka](profile/Amila-Abeynayaka)
+
+- 14 Feb 2019
+
+Answer
+
+[Brian Collins](profile/Brian-Collins-6) , sorry for not reading the question properly,
+
+_**"...make an hour / a unit of mathematical calculations with a computer possible and how much emission is created..."**_
+
+it seems your objective is to quantify the pollution load (such as carbon footprint, water footprints) for a unit run of your computer.
+
+In that context, I agree with what [Tomasz Nitkiewicz](profile/Tomasz-Nitkiewicz) and
+
+Davide Tosches
+
+suggested. Energy consumption and computer life loss are the important factors to be considered (consumptions). These data available at standard LCA data bases like ecoinvent. then you may need a software like SimaPro (or openLCA) or simple excel program.
+
+However, I would like to open up your objectives and scope bit more.
+
+For example, lets see the possibilities of social and other gains. Some computers consume more energy but need more human assistance to complete the mathematical calculation. then lets say the operator has to switch on the screen and press a key. Some may not required. in such cases, there is social/health and other aspects to be considers (I understand your objective is not a research but a simple calculation), but then **Why are you doing this?** with that question, then we can agree with what [Gianvito Scaringi](profile/Gianvito-Scaringi) said."firm or your university spends electricity to feed your computer, this is already accounted for".
+
+[View](post/Water_and_carbon_footprint_of_computer_calculations_simulations)
+
+- 3 Recommendations
+
+[![Bartek Felski](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Bartek-Felski-2)
+
+[Bartek Felski](profile/Bartek-Felski-2)
+
+- asked a question related to Carbon Footprint
+
+[What is the built-in energy and carbon footprint for PV panels based on perovskite photovoltaic cells?](post/What_is_the_built-in_energy_and_carbon_footprint_for_PV_panels_based_on_perovskite_photovoltaic_cells)
+
+Question
+
+4 answers
+
+- 4 Feb 2019
+
+Dear colleagues,
+does any of you have access to information - what kind of carbon footprint have panels based on perovskite photovoltaic cells? Is it the same as with "ordinary" monocrystalline or polycrystalline panels? How is the built-in energy for the cells?
+
+I've found only these:
+
+monocrystal PV modules - c.a. 4750MJ/m2 and 242kgCO2/m2
+
+policrystal PV modules - c.a. 4070MJ/m2 and 208kgCO2/m2
+
+_source:_
+
+_"Inventory od Carbon & Energy" by Geoff Hammond, Craig Jones_
+
+Relevant answer
+
+[![Abdelhalim abdelnaby Zekry](https://i1.rgstatic.net/ii/profile.image/497169632960514-1495545885697_Q64/Abdelhalim-Zekry.jpg)](profile/Abdelhalim-Zekry)
+
+[Abdelhalim abdelnaby Zekry](profile/Abdelhalim-Zekry)
+
+- 6 Feb 2019
+
+Answer
+
+Dear Bartek,
+
+welcome,
+
+The perovskite solar cells has to go long way before commercialization for using in the field. This is because the instability of the solar cells in the long run. In addition to the toxic lead inclusion in the solar cells.
+
+Any how this is not the major issue of the question raised here. As the perovskite solar cell is fabricated at low temperature hence it will consume much lower energy for fabrication even less than the polycrystalline silicon. I would assume to save the same increment of energy as the difference from single to polycrystal.
+
+As per your data in the question this energy increment of 700 MJ/m^2.
+
+So i would assume that the pervoskite panels will consume about 3300 MJ/m^2
+
+with emission of 172 kg CO2/m^2
+
+Best wishes
+
+[View](post/What_is_the_built-in_energy_and_carbon_footprint_for_PV_panels_based_on_perovskite_photovoltaic_cells)
+
+- 24 Recommendations
+
+[![Gerardo G. Naumis](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gerardo-Naumis)
+
+[Gerardo G. Naumis](profile/Gerardo-Naumis)
+
+- asked a question related to Carbon Footprint
+
+[Scientific careers and carbon footprints](post/Scientific_careers_and_carbon_footprints)
+
+Question
+
+5 answers
+
+- 26 Nov 2018
+
+A good scientific needs to travel in order to diffuse results and learn from colleges. Yet there is a carbon footprint for all this activity.
+
+My question is how to achieve a good scientific career with a minimal carbon footprint.
+
+So please share your opinions and estimates about this point, for example, correlations between h factor and carbon footprint, etc, etc.
+
+Some strategies that I use are:
+
+a) When travel, try to optimize conferences by carefully design a meeting plan. For example, make 1 flight per year to Europe, but use trains to go to many meetings once you are in Europe. Visit colleges who work nearby your landing place.
+
+b) Find nearby meetings, accessible by train or short flights.
+
+c) Use virtual conferences
+
+d) See videos from important meetings.
+
+e) Plant trees by yourself each year
+
+Add your reponse....
+
+Relevant answer
+
+[![Gerardo G. Naumis](https://i1.rgstatic.net/ii/profile.image/917941759516673-1595865778654_Q64/Gerardo-Naumis.jpg)](profile/Gerardo-Naumis)
+
+[Gerardo G. Naumis](profile/Gerardo-Naumis)
+
+- 11 Dec 2018
+
+Answer
+
+I made a research on this topic and there is no agreement on the question, what is more ecological, to read in books or eprints? Some experts claim that if you plan to spend more than 10 min in a page, it is better to print.
+
+[View](post/Scientific_careers_and_carbon_footprints)
+
+- 5 Recommendations
+
+[![Mohammed Khandaker](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Mohammed-Khandaker)
+
+[Mohammed Khandaker](profile/Mohammed-Khandaker)
+
+- asked a question related to Carbon Footprint
+
+[Carbon footprint during air transport](post/Carbon_footprint_during_air_transport)
+
+Question
+
+4 answers
+
+- 3 Dec 2018
+
+Hi,
+
+I am conducting research on carbon footprinting for transporting produce during air transportation.
+
+Does anybody have any resource related to Carbon footprinting?
+
+Thank you in advance.
+
+Regards,
+
+Mohammed
+
+Relevant answer
+
+[![Md Iftakharul Muhib](https://i1.rgstatic.net/ii/profile.image/446679670366209-1483508140284_Q64/Md-Iftakharul-Muhib.jpg)](profile/Md-Iftakharul-Muhib)
+
+[Md Iftakharul Muhib](profile/Md-Iftakharul-Muhib)
+
+- 5 Dec 2018
+
+Answer
+
+Article [Carbon dioxide emissions from international air freight](publication/252887750_Carbon_dioxide_emissions_from_international_air_freight)
+
+Article [Assessment of carbon emission costs for air cargo transportation](publication/264241586_Assessment_of_carbon_emission_costs_for_air_cargo_transportation)
+
+you may also check these
+
+[View](post/Carbon_footprint_during_air_transport)
+
+- 2 Recommendations
+
+[![Avijit Ghosh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Avijit-Ghosh-2)
+
+[Avijit Ghosh](profile/Avijit-Ghosh-2)
+
+- asked a question related to Carbon Footprint
+
+[How to measure CO2 emissions by trees or crops?](post/How-to-measure-CO2-emissions-by-trees-or-crops)
+
+Question
+
+10 answers
+
+- 17 Oct 2018
+
+Dear friends/Sir/Madam,
+
+As we know plant respires during night time, but is ththere any instrument/device/procedures/methodology to measure how much CO2 is being emitted by a plant/tree in field condition over a specific period of time?
+
+Please let me know!
+
+Relevant answer
+
+[![Manmohan J. Dobriyal](https://i1.rgstatic.net/ii/profile.image/914987602169858-1595161452815_Q64/Manmohan-Dobriyal.jpg)](profile/Manmohan-Dobriyal)
+
+[Manmohan J. Dobriyal](profile/Manmohan-Dobriyal)
+
+- 22 Oct 2018
+
+Answer
+
+[www.fao.org/docrep/015/i2560e/i2560e04.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fwww.fao.org%2Fdocrep%2F015%2Fi2560e%2Fi2560e04.pdf)
+
+[www.worldagroforestry.org/downloads/Publications/PDFS/MN16217.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fwww.worldagroforestry.org%2Fdownloads%2FPublications%2FPDFS%2FMN16217.pdf)
+
+[View](post/How-to-measure-CO2-emissions-by-trees-or-crops)
+
+- 6 Recommendations
+
+[![Shahrzad Roohy Gohar](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Shahrzad-Roohy-Gohar)
+
+[Shahrzad Roohy Gohar](profile/Shahrzad-Roohy-Gohar)
+
+- asked a question related to Carbon Footprint
+
+[Reliable resource for environmental impact of objects and appliances?](post/Reliable_resource_for_environmental_impact_of_objects_and_appliances)
+
+Question
+
+6 answers
+
+- 24 Jul 2018
+
+Do you know a reliable resource or a database that can give me information on either of CO2/GHG emission, energy consumption, water consumption of objects (furniture and appliances etc) so that I can measure a baseline environmental performance for a bedroom or a room? I assume this information should have calculated the life-cycle of the objects and appliances.
+
+I appreciate your help or any advice in this respect.
+
+Relevant answer
+
+[![Shahrzad Roohy Gohar](https://i1.rgstatic.net/ii/profile.image/819517848551425-1572399689252_Q64/Shahrzad-Roohy-Gohar.jpg)](profile/Shahrzad-Roohy-Gohar)
+
+[Shahrzad Roohy Gohar](profile/Shahrzad-Roohy-Gohar)
+
+- 9 Aug 2018
+
+Answer
+
+[Mehdi Aliehyaei](profile/Mehdi-Aliehyaei) Thanks.
+
+[View](post/Reliable_resource_for_environmental_impact_of_objects_and_appliances)
+
+- 8 Recommendations
+
+[![Isa Olalekan Elegbede](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Isa-Elegbede)
+
+[Isa Olalekan Elegbede](profile/Isa-Elegbede)
+
+- asked a question related to Carbon Footprint
+
+[What are the tools and applications to calculate, model or estimate ecological footprint, biocapacity and carbonfootprint?](post/What_are_the_tools_and_applications_to_calculate_model_or_estimate_ecological_footprint_biocapacity_and_carbonfootprint)
+
+Question
+
+4 answers
+
+- 1 Jul 2018
+
+It will be nice to have suggestions and contribution of calculating carbon footprint, ecological footprint and bio capacity. Scientific methods including software that can be used will be appreciated.
+
+Relevant answer
+
+[![Eberhard Weber](https://i1.rgstatic.net/ii/profile.image/752248770551814-1556361491313_Q64/Eberhard-Weber.jpg)](profile/Eberhard-Weber)
+
+[Eberhard Weber](profile/Eberhard-Weber)
+
+- 1 Jul 2018
+
+Answer
+
+There is much information available in the www about measuring these. There are even online tools that can be adapted to one own's purpose.
+
+Here a link to a fairly recent publication, but as I wrote: there is plenty of information in the www.
+
+Article [Global environmental impact of informal settlements and perc...](publication/319632047_Global_environmental_impact_of_informal_settlements_and_perceptions_of_local_environmental_threats_An_empirical_case_study_in_Suva_Fiji)
+
+[View](post/What_are_the_tools_and_applications_to_calculate_model_or_estimate_ecological_footprint_biocapacity_and_carbonfootprint)
+
+- 6 Recommendations
+
+[![Nafees Mohammad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Nafees-Mohammad)
+
+[Nafees Mohammad](profile/Nafees-Mohammad)
+
+- asked a question related to Carbon Footprint
+
+[Looking into discussion on climate change and global warming accross the globe, is there any reason for hope to reverse the charge?](post/Looking-into-discussion-on-climate-change-and-global-warming-accross-the-globe-is-there-any-reason-for-hope-to-reverse-the-charge)
+
+Question
+
+26 answers
+
+- 19 Jun 2018
+
+Scientists have been warning since the 1980s that strong policies were needed to limit emissions. Various countries and international community are with efforts to cope with the situation. But I don't think there is any decrease in carbon emissions. Similarly deforestation is also on its way toward increase. Till now we have no concrete policy to be adopted for climate change. Question arises, why to be hopeful about any positive change?
+
+Relevant answer
+
+[![Mahesh Kumar](https://i1.rgstatic.net/ii/profile.image/950872871800835-1603717167400_Q64/Mahesh-Kumar-69.jpg)](profile/Mahesh-Kumar-69)
+
+[Mahesh Kumar](profile/Mahesh-Kumar-69)
+
+- 19 Jun 2018
+
+Answer
+
+Global warming refers to the upward temperature trend across the entire Earth since the early 20th century, and most notably since the late 1970s, due to the increase in fossil fuel emissions since the industrial revolution. Worldwide since 1880, the average surface temperature has gone up by about 0.8 °C (1.4 °F), relative to the mid-20th-century baseline (of 1951-1980). Climate change refers to a broad range of global phenomena created predominantly by burning fossil fuels, which add heat-trapping gases to Earth’s atmosphere. These phenomena include the increased temperature trends described by global warming, but also encompass changes such as sea level rise; ice mass loss in Greenland, Antarctica, the Arctic and mountain glaciers worldwide; shifts in flower/plant blooming; and extreme weather events.
+
+Both issues are very serious and need due attention and the required effort to control these phenomena. I am agree with Dr Nafees Mohammad that no concrete policy has been adopted to fight against these serious problems.
+
+[View](post/Looking-into-discussion-on-climate-change-and-global-warming-accross-the-globe-is-there-any-reason-for-hope-to-reverse-the-charge)
+
+- 70 Recommendations
+
+[![Lala Behari Sukla](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Lala-Sukla)
+
+[Lala Behari Sukla](profile/Lala-Sukla)
+
+- asked a question related to Carbon Footprint
+
+[What Concrete steps to be urgently taken towards a low carbon footprint?](post/What_Concrete_steps_to_be_urgently_taken_towards_a_low_carbon_footprint)
+
+Question
+
+127 answers
+
+- 11 Jun 2018
+
+Recent environment regulations have mandated industry to comply with new emission regulations, not only on particulate matter, but also on gaseous emissions, heavy metals and water. Regulators have adopted a system of online reporting of emissions from stacks and their remote calibration.
+
+Relevant answer
+
+[![Armen Avagyan](https://i1.rgstatic.net/ii/profile.image/11431281078844345-1660286509062_Q64/Armen-Avagyan-2.jpg)](profile/Armen-Avagyan-2)
+
+[Armen Avagyan](profile/Armen-Avagyan-2)
+
+- 14 Jun 2018
+
+Answer
+
+Kenneth I am sure that you well known about used term **Public/Private Partnership. Hence, there is well known separation.** The Paragraph 67 of the UN General Assembly resolution 70/1, top climate change officials and the Marrakech Partnership for Global Climate Action call to all businesses to apply their creativity and innovation in the direction of solving sustainable development challenges and investment gaps, and the UN will promote both public and private investment in energy infrastructure and clean energy technologies including carbon capture and storage (CCS) technologies as well as declared as imperative action - harnessing innovation, enterprise and investment to fast track development of Climate change solutions by effective plan aimed at incentives transformation technical guidelines and procedures .
+
+**Armen B Avagyan 2018. Algae to Energy and Sustainable Development. Technologies, Resources, Economics and System Analyses. New Design of Global Environmental Policy and Live Conserve Industry. Amazon, ISBN-13:** **978-1718722552,** **ISBN-10:** **1718722559** **BISAC:** **Technology & Engineering/Environmental/Waste Management, 220p.** **[https://www.amazon.com/dp/1718722559/ref=sr\_1\_1?s=books&ie=UTF8&qid=1527001872&sr=1-1&refinements=p\_27%3ADr.+Armen+B+Avagyan](https://www.researchgate.net/deref/https%3A%2F%2Fwww.amazon.com%2Fdp%2F1718722559%2Fref%3Dsr_1_1%3Fs%3Dbooks%26ie%3DUTF8%26qid%3D1527001872%26sr%3D1-1%26refinements%3Dp_27%253ADr.%2BArmen%2BB%2BAvagyan)**
+
+[View](post/What_Concrete_steps_to_be_urgently_taken_towards_a_low_carbon_footprint)
+
+- 15 Recommendations
+
+[![Johnson Adedeji Olusola](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Johnson-Olusola)
+
+[Johnson Adedeji Olusola](profile/Johnson-Olusola)
+
+- asked a question related to Carbon Footprint
+
+[What parameters do we look into when creating a model for carbon footprint calculation in tertiary institutions?](post/What-parameters-do-we-look-into-when-creating-a-model-for-carbon-footprint-calculation-in-tertiary-institutions)
+
+Question
+
+4 answers
+
+- 28 Mar 2018
+
+I am working on sustainable models for carbon footprint; A study of Ekiti State University, Ado Ekiti, Nigeria
+
+Relevant answer
+
+[![Robert Istvan Radics](https://i1.rgstatic.net/ii/profile.image/694763896467458-1542656029796_Q64/Robert-Radics.jpg)](profile/Robert-Radics)
+
+[Robert Istvan Radics](profile/Robert-Radics)
+
+- 28 Mar 2018
+
+Answer
+
+I do not think the method is different than in any other businesses. Maybe if you want to choose the right functional unit, like CO2/ students successfully finished. Potentially you can calculate net carbon footprint, especially if you have dormitories, you can consider that your students would have there own carbon footprint somewhere else, maybe larger than in your community.
+
+[View](post/What-parameters-do-we-look-into-when-creating-a-model-for-carbon-footprint-calculation-in-tertiary-institutions)
+
+- 4 Recommendations
+
+[![Drlatief Ahmad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Drlatief-Ahmad)
+
+[Drlatief Ahmad](profile/Drlatief-Ahmad)
+
+- asked a question related to Carbon Footprint
+
+[Ways/methods to increase carbon sequestration through agriculture and it's allied branches?](post/Ways_methods_to_increase_carbon_sequestration_through_agriculture_and_its_allied_branches)
+
+Question
+
+20 answers
+
+- 18 Mar 2018
+
+To minimise carbon footprints
+
+Relevant answer
+
+[![Anoop Kumar Srivastava](https://i1.rgstatic.net/ii/profile.image/774303205322755-1561619678166_Q64/Anoop-Srivastava.jpg)](profile/Anoop-Srivastava)
+
+[Anoop Kumar Srivastava](profile/Anoop-Srivastava)
+
+- 18 Mar 2018
+
+Answer
+
+Increasing yield of a crop on a given soil is also a kind of carbon sequestration, especially when you consider perennial crops.The NPP (Net primary productivity) is far more higher than many of the yropucal rain forests..And why should we should we minimise cabon footprint, it should be maximised.Dont you feel , higher cabon footprint is directly proportional to crop yield..??
+
+[View](post/Ways_methods_to_increase_carbon_sequestration_through_agriculture_and_its_allied_branches)
+
+- 12 Recommendations
+
+[![Drlatief Ahmad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Drlatief-Ahmad)
+
+[Drlatief Ahmad](profile/Drlatief-Ahmad)
+
+- asked a question related to Carbon Footprint
+
+[What do you mean by carbon footprinting in agriculture?](post/What-do-you-mean-by-carbon-footprinting-in-agriculture)
+
+Question
+
+14 answers
+
+- 27 Feb 2018
+
+Want to know detailed explanation
+
+Relevant answer
+
+[![Beemnet Mengesha Kassahun](https://i1.rgstatic.net/ii/profile.image/627810167164948-1526693016742_Q64/Beemnet-Kassahun.jpg)](profile/Beemnet-Kassahun)
+
+[Beemnet Mengesha Kassahun](profile/Beemnet-Kassahun)
+
+- 6 Mar 2018
+
+Answer
+
+Dear Drlatief Ahmad, it is an interesting issue.
+
+The agriculture sector contributes significantly to global carbon emissions from diverse sources such as product and machinery manufacture, transport of materials and direct and indirect soil greenhouse gas emissions.
+
+Scientists defined carbon foot print as a measure of the total amount of carbon dioxide and methane emissions of a defined population, system or activity, considering all relevant sources, sinks and storage within the spatial and temporal boundary of the population, system or activity of interest. Calculated as carbon dioxide equivalent using the relevant 100-year global warming potential (GWP100).
+
+I have found an interesting article on related to this issue and please go through it.
+
+- [The carbon footprints of food crop producti\\
+\\
+on.pdf](profile/Beemnet-Kassahun/post/What-do-you-mean-by-carbon-footprinting-in-agriculture/attachment/5a9e01054cde266d588f7210/AS%3A601014323380224%401520304389000/download/The+carbon+footprints+of+food+crop+production.pdf) 613 kB
+
+[View](post/What-do-you-mean-by-carbon-footprinting-in-agriculture)
+
+- 8 Recommendations
+
+[![Neeran Jasim](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Neeran-Jasim)
+
+[Neeran Jasim](profile/Neeran-Jasim)
+
+- asked a question related to Carbon Footprint
+
+[Are you know any thing about to how we find environmentally friendly and low-cost alternatives to fossil fuels ?](post/Are-you-know-any-thing-about-to-how-we-find-environmentally-friendly-and-low-cost-alternatives-to-fossil-fuels)
+
+Question
+
+8 answers
+
+- 26 Dec 2017
+
+Every day, we produce tons of carbon and add it into the atmosphere as we move on with our daily lives. We’ve been using – rather abusing – fossil fuels as a source of energy since the industrial revolution, and have done considerable damage to the globe. Our carbon footprints will remain in the atmosphere for at least another hundred years.
+
+There are several problems associated with using fossil fuels as a source of energy. It took millions of years for plant and animal matter to decay, compress and turn into fossil fuels beneath the surface of the earth. It cannot be regenerated at the same rate at which we use them. Sooner or later, we are bound to run out of it
+
+With the advancement of science and technology, we have come to realize that we don’t need to burn fossil fuels any more to power our houses, automobiles and factories. We have sources that are sustainable and renewable...so we thinking to fined alternatives ways....
+
+Relevant answer
+
+[![Nabel Kadum Abd-Ali](https://i1.rgstatic.net/ii/profile.image/900279855742976-1591654852121_Q64/Nabel-Abd-Ali-2.jpg)](profile/Nabel-Abd-Ali-2)
+
+[Nabel Kadum Abd-Ali](profile/Nabel-Abd-Ali-2)
+
+- 26 Dec 2017
+
+Answer
+
+daer doctor neeran
+
+The largest solar farm in Africa, the Jasper PV Project located in South Africa, was completed in October 2014, with the capacity to to deliver 180,000 megawatt-hours of electricity every year to over 80,000 homes. In mid-2015, the Africa Progress Panel launched a report that set out a plan to make electricity accessible to every single person on the African continent by 2030. The report, titled Power, People, Planet, Africa, called for this to be done with renewable electricity, effectively asking leaders of African nations to leapfrog using fossil fuels. The Africa Progress Panel aims to provide low-cost solar panels that would make energy accessible to the 621 million people lacking access to electricity today. The estimated amount of money needed is 55 billion USD. According to the Panel, half this amount could be generated from within the African continent by increasing sub-Saharan Africa's tax-to GDP ratio by one percent of GDP. Another 20 billion would come from a new 'connectivity fund' of which half would come from Africa itself and another half from bilateral aid.
+
+best wishes
+
+[View](post/Are-you-know-any-thing-about-to-how-we-find-environmentally-friendly-and-low-cost-alternatives-to-fossil-fuels)
+
+- 15 Recommendations
+
+[![Anoop Kumar Srivastava](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Anoop-Srivastava)
+
+[Anoop Kumar Srivastava](profile/Anoop-Srivastava)
+
+- asked a question related to Carbon Footprint
+
+[Do you feel, carbon footprint and water footprint of a crop are inter-related?](post/Do_you_feel_carbon_footprint_and_water_footprint_of_a_crop_are_inter-related)
+
+Question
+
+38 answers
+
+- 17 Nov 2017
+
+The concept of water footprint is primarily rooted in the links between water use and water resource management vis-a-vis crop performance. Likewise, carbon footprint of a crop is an indication , how good or bad , the given crop is , with regard to adoption or mitigation of the kind of stresses the crop is exposed . These concepts are interchangeably utilised to define the production sustainability of a given crops or cropping sequence . And often , beyond the sustainability of agriculture , carbon and water footprints are used to define the type of climate change and its ultimate implications as well. In this background , i propose the following questions to our learned colleagues to share their wisdom :
+
+\\* What is water footprint accounting?
+
+\\* How are water footprint and nutrient density of a crop related to each other?
+
+\\* How are water footprint and soil fertility related to each other ?
+
+\\* What is the maximum sustainable limit of water footprint ?. What kind of relation, does it display with crop performance sustainability ?
+
+\\* How does origin and characteristics of water and carbon footprints affect the sustainability of agriculture?
+
+\\* What is the consequential effect(s) of changes in water footprint or carbon footprint on crop performance ?
+
+Thanks and Regards
+
+Relevant answer
+
+[![Suresh K Malhotra](https://i1.rgstatic.net/ii/profile.image/1071016465932288-1632361632454_Q64/Suresh-Malhotra.jpg)](profile/Suresh-Malhotra)
+
+[Suresh K Malhotra](profile/Suresh-Malhotra)
+
+- 10 Dec 2017
+
+Answer
+
+Carbon footprint and water footprint of a crop are inter-related. The water footprint within a geographically delineated area – be it a province, nation, catchment area or river basin – is equal to the sum of the water footprints of all processes taking place in that area. The total water footprint of humanity is equal to the sum of the water footprints of all consumers of the world, which is equal to the sum of the water footprints of all final consumer goods and services consumed annually and also equal to the sum of all water-consuming or polluting processes in the world.
+
+Source: file:///C:/Users/Acer/Downloads/1%20(6).pdf
+
+[View](post/Do_you_feel_carbon_footprint_and_water_footprint_of_a_crop_are_inter-related)
+
+- 35 Recommendations
+
+[![Andrea Lache M](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Andrea-Lache-M)
+
+[Andrea Lache M](profile/Andrea-Lache-M)
+
+- asked a question related to Carbon Footprint
+
+[Please, where can I find official information about emission factors for south american countries?](post/Please_where_can_I_find_official_information_about_emission_factors_for_south_american_countries)
+
+Question
+
+4 answers
+
+- 31 Oct 2017
+
+I have been searching in climate change, energy and environmental official websites per country, but it is not easy found the information for 2016 in order to do carbon footprint estimation
+
+Relevant answer
+
+[![Susantha Jayasundara](https://i1.rgstatic.net/ii/profile.image/11431281091298581-1666378053112_Q64/Susantha-Jayasundara.jpg)](profile/Susantha-Jayasundara)
+
+[Susantha Jayasundara](profile/Susantha-Jayasundara)
+
+- 1 Nov 2017
+
+Answer
+
+The link below is for the IPCC emission factor database. Perhaps it might be useful.
+
+[http://www.ipcc-nggip.iges.or.jp/EFDB/main.php](https://www.researchgate.net/deref/http%3A%2F%2Fwww.ipcc-nggip.iges.or.jp%2FEFDB%2Fmain.php)
+
+[View](post/Please_where_can_I_find_official_information_about_emission_factors_for_south_american_countries)
+
+- 8 Recommendations
+
+[![Md. Sirajul Islam](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Md-Sirajul-Islam-3)
+
+[Md. Sirajul Islam](profile/Md-Sirajul-Islam-3)
+
+- asked a question related to Carbon Footprint
+
+[Interested know about the latest development in Virtual Water related research, i.e virtual water in global scale water scarcity analysis ?](post/Interested-know-about-the-latest-development-in-Virtual-Water-related-research-ie-virtual-water-in-global-scale-water-scarcity-analysis)
+
+Question
+
+3 answers
+
+- 24 Oct 2017
+
+\- country based study.
+
+\- global grid based, including international trade of food products.
+
+\- scientific update on calculation of virtual water values of different commodities.
+
+\- coupling it with carbon footprint, etc.
+
+Relevant answer
+
+[![Anoop Kumar Srivastava](https://i1.rgstatic.net/ii/profile.image/774303205322755-1561619678166_Q64/Anoop-Srivastava.jpg)](profile/Anoop-Srivastava)
+
+[Anoop Kumar Srivastava](profile/Anoop-Srivastava)
+
+- 24 Oct 2017
+
+Answer
+
+**Abstract:** y importing food and agricultural goods, countries cope with the heterogeneous global water distribution and often rely on water resources available abroad. The virtual displacement of the water used to produce such goods (known as _virtual water_) connects together, in a global water system, all countries participating to the international trade network. Local food-production crises, having social, economic or environmental origin, propagate in this network, modifying the virtual water trade and perturbing local and global food availability, quantified in terms of virtual water. We analyze here the possible effects of local crises by developing a new propagation model, parsimonious but grounded on data-based and statistically-verified assumptions, whose effectiveness is proved on the Argentinean crisis in 2008–09. The model serves as the basis to propose indicators of crisis impact and country vulnerability to external food-production crises, which highlight that countries with largest water resources have the highest impact on the international trade, and that not only water-scarce but also wealthy and globalized countries are among the most vulnerable to external crises. The temporal analysis reveals that global average vulnerability has increased over time and that stronger effects of crises are now found in countries with low food (and water) availability. Source ;
+
+**Global effects of local food-production crises: a virtual water perspective,** _Scientific Reports_ **6**, Article number: 18803 (2016)doi:10.1038/srep18803
+
+**Abstrac** t: Water can be redistributed through, in physical terms, water transfer projects and virtually, embodied water for the production of traded products. Here, we explore whether such water redistributions can help mitigate water stress in China. This study, for the first time to our knowledge, both compiles a full inventory for physical water transfers at a provincial level and maps virtual water flows between Chinese provinces in 2007 and 2030. Our results show that, at the national level, physical water flows because of the major water transfer projects amounted to 4.5% of national water supply, whereas virtual water flows accounted for 35% (varies between 11% and 65% at the provincial level) in 2007. Furthermore, our analysis shows that both physical and virtual water flows do not play a major role in mitigating water stress in the water-receiving regions but exacerbate water stress for the water-exporting regions of China. Future water stress in the main water-exporting provinces is likely to increase further based on our analysis of the historical trajectory of the major governing socioeconomic and technical factors and the full implementation of policy initiatives relating to water use and economic development. Improving water use efficiency is key to mitigating water stress, but the efficiency gains will be largely offset by the water demand increase caused by continued economic development. We conclude that much greater attention needs to be paid to water demand management rather than the current focus on supply-oriented management.Physical and virtual water transfers for regional water stress alleviation in China. Source : **Physical and virtual water transfers for regional water stress alleviation in China** doi: 10.1073/pnas.1404130112
+
+[View](post/Interested-know-about-the-latest-development-in-Virtual-Water-related-research-ie-virtual-water-in-global-scale-water-scarcity-analysis)
+
+- 10 Recommendations
+
+[![Antonis A Zorpas](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Antonis-Zorpas)
+
+[Antonis A Zorpas](profile/Antonis-Zorpas)
+
+- asked a question related to Carbon Footprint
+
+[Can we really do a detailed Life Cycle Analysis?](post/Can_we_really_do_a_detailed_Life_Cycle_Analysis)
+
+Question
+
+10 answers
+
+- 13 Oct 2017
+
+Life Cycle Analysis plays significant role in many research proposals and is one of the main significant criteria that exist during the evaluation process. It’s mainly used (beside others) to calculate the carbon footprint of several operations and or several procedures. However, remain unclear if a complete and detailed LCA can be done, in order to compare with the state of the art. In addition, this because systems boundaries can change all the time. What is your opinion?
+
+Relevant answer
+
+[![Robert Istvan Radics](https://i1.rgstatic.net/ii/profile.image/694763896467458-1542656029796_Q64/Robert-Radics.jpg)](profile/Robert-Radics)
+
+[Robert Istvan Radics](profile/Robert-Radics)
+
+- 13 Oct 2017
+
+Answer
+
+It depends on your target. Comparative LCAs work very well. Establishing an environmental impact analysis for the life of a product is a different animal. LCA impact categories hide details. The methodology of the LCA, the approach, and the standardized impact categories, data bases are pretty useful.
+
+I prefer to work with raw data, have the process map, analyze all emissions and impacts one by one, or choose the significant ones as indicators. For climate change impact I vot for using emission calculations instead of LCA.
+
+[View](post/Can_we_really_do_a_detailed_Life_Cycle_Analysis)
+
+- 28 Recommendations
+
+[![Divesh Roopowa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Divesh-Roopowa)
+
+[Divesh Roopowa](profile/Divesh-Roopowa)
+
+- asked a question related to Carbon Footprint
+
+[What methodologies are available to calculate the Personal Carbon Footprint of an individual with regards to Household Energy Use?](post/What-methodologies-are-available-to-calculate-the-Personal-Carbon-Footprint-of-an-individual-with-regards-to-Household-Energy-Use)
+
+Question
+
+4 answers
+
+- 5 May 2017
+
+In particular, how to **calculate the Carbon Emission for Electricity and LPG consumption** as a result of **Household Energy Use**.
+
+Relevant answer
+
+[![Florian Glodeanu](https://i1.rgstatic.net/ii/profile.image/305049354342402-1449740842984_Q64/Florian-Glodeanu.jpg)](profile/Florian-Glodeanu)
+
+[Florian Glodeanu](profile/Florian-Glodeanu)
+
+- 5 May 2017
+
+Answer
+
+See reference:
+
+[http://www.carbonfootprint.com/calculator.aspx](https://www.researchgate.net/deref/http%3A%2F%2Fwww.carbonfootprint.com%2Fcalculator.aspx)
+
+[View](post/What-methodologies-are-available-to-calculate-the-Personal-Carbon-Footprint-of-an-individual-with-regards-to-Household-Energy-Use)
+
+- 4 Recommendations
+
+[![Gobinath Rajendran](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gobinath-Rajendran-2)
+
+[Gobinath Rajendran](profile/Gobinath-Rajendran-2)
+
+- asked a question related to Carbon Footprint
+
+[How can i get the details of eddy co-variance usage in green house gas emission analysis in the paddy fields and cost of the instrument?](post/How_can_i_get_the_details_of_eddy_co-variance_usage_in_green_house_gas_emission_analysis_in_the_paddy_fields_and_cost_of_the_instrument)
+
+Question
+
+9 answers
+
+- 29 Apr 2017
+
+Cost and resource person in India details required.
+
+Relevant answer
+
+[![Gobinath Rajendran](https://i1.rgstatic.net/ii/profile.image/303540667387905-1449381142835_Q64/Gobinath-Rajendran-2.jpg)](profile/Gobinath-Rajendran-2)
+
+[Gobinath Rajendran](profile/Gobinath-Rajendran-2)
+
+- 1 May 2017
+
+Answer
+
+Thank you Sir.
+
+[View](post/How_can_i_get_the_details_of_eddy_co-variance_usage_in_green_house_gas_emission_analysis_in_the_paddy_fields_and_cost_of_the_instrument)
+
+- 0 Recommendations
+
+[![Makuachukwu Gabriel Ojide](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Makuachukwu-Ojide-2)
+
+[Makuachukwu Gabriel Ojide](profile/Makuachukwu-Ojide-2)
+
+- asked a question related to Carbon Footprint
+
+[What is the true cost of wood charcoal production in Africa?](post/What_is_the_true_cost_of_wood_charcoal_production_in_Africa)
+
+Question
+
+4 answers
+
+- 17 Mar 2017
+
+Europe uses more than 800,000 tons of charcoal every year. Production of one ton of wood-based charcoal requires between 5 and 12 tons of wood. Approximately 70% of the charcoal utilized in Europe annually, (that is, 570,000 tons), is imported. Incidentally, Nigeria is the biggest charcoal supplier to Europe. Namibia, Egypt, South Africa, and Ivory Coast also export to Europe. On the whole, Africa supplies 40% of all European charcoal imports (TFT research, 2015). Nigeria supplied 24% of wood charcoal imported in Europe in 2013 (FAO, 2013).
+
+Nigeria, a major supplier of charcoal to the EU has some of the highest levels of deforestation in the world (Olden, 2015).
+
+It becomes expedient to ask: what is the true cost of charcoal production in Africa?
+
+Relevant answer
+
+[![Nils Borchard](https://i1.rgstatic.net/ii/profile.image/808381979828225-1569744691565_Q64/Nils-Borchard.jpg)](profile/Nils-Borchard)
+
+[Nils Borchard](profile/Nils-Borchard)
+
+- 17 Mar 2017
+
+Answer
+
+Dear Makuachukwu, CIFOR is doing some research in Zambia that fits to your question. See for instance [http://blog.cifor.org/26226/zambia-charcoal-deforestation-carbon-emissions-redd?fnl=en](https://www.researchgate.net/deref/http%3A%2F%2Fblog.cifor.org%2F26226%2Fzambia-charcoal-deforestation-carbon-emissions-redd%3Ffnl%3Den) and contact person Davison Gumbo [http://www.cifor.org/scientific-staff-detail/1591/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.cifor.org%2Fscientific-staff-detail%2F1591%2F). Good luck and best regards Nils
+
+[View](post/What_is_the_true_cost_of_wood_charcoal_production_in_Africa)
+
+- 4 Recommendations
+
+[![Rajamohan Natarajan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Rajamohan-Natarajan)
+
+[Rajamohan Natarajan](profile/Rajamohan-Natarajan)
+
+- asked a question related to Carbon Footprint
+
+[How to estimate water foot print?](post/How_to_estimate_water_foot_print)
+
+Question
+
+5 answers
+
+- 8 Mar 2017
+
+As a sustainability and environmental engineer ,I am looking for ways to reduce the water footprint at organization level.
+
+Where can I find data for water consumption per person for educational environment?
+
+If you have any data or formulas to estimate the water footprint, please share.
+
+Relevant answer
+
+[![Jorge M.R. Tavares](https://i1.rgstatic.net/ii/profile.image/11431281250133775-1717760400561_Q64/Jorge-Tavares-8.jpg)](profile/Jorge-Tavares-8)
+
+[Jorge M.R. Tavares](profile/Jorge-Tavares-8)
+
+- 9 Mar 2017
+
+Answer
+
+Dear Rajamohan,
+
+Currently, the concept of water foot print is not well accepted by cientific and academic communities. However, they are some authors you can use as reference:
+
+[http://waterfootprint.org/media/downloads/TheWaterFootprintAssessmentManual\_2.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fwaterfootprint.org%2Fmedia%2Fdownloads%2FTheWaterFootprintAssessmentManual_2.pdf)
+
+and also: [https://www.iso.org/files/live/sites/isoorg/files/archive/pdf/en/iso14046\_briefing\_note.pdf](https://www.researchgate.net/deref/https%3A%2F%2Fwww.iso.org%2Ffiles%2Flive%2Fsites%2Fisoorg%2Ffiles%2Farchive%2Fpdf%2Fen%2Fiso14046_briefing_note.pdf)
+
+[View](post/How_to_estimate_water_foot_print)
+
+- 0 Recommendations
+
+[![Salman Jafar](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Salman-Jafar)
+
+[Salman Jafar](profile/Salman-Jafar)
+
+- asked a question related to Carbon Footprint
+
+[What approaches and methods are mostly used to assess the carbon footprint of machine tools?](post/What-approaches-and-methods-are-mostly-used-to-assess-the-carbon-footprint-of-machine-tools)
+
+Question
+
+5 answers
+
+- 4 Mar 2017
+
+whole life cycle assessment (cradle to cradle, cradle to grave) or a partial assessment ( cradle to gate )
+
+Relevant answer
+
+[![Ilaria Barletta](https://i1.rgstatic.net/ii/profile.image/750436978003975-1555929526526_Q64/Ilaria-Barletta.jpg)](profile/Ilaria-Barletta)
+
+[Ilaria Barletta](profile/Ilaria-Barletta)
+
+- 7 Mar 2017
+
+Answer
+
+Dear Salman,
+
+are you asking for the methodology to calculate the carbon footprint of machine tools  or the scope of analysis once you apply a specific methodology? To my knowledge, you can apply Life Cycle Assessment (LCA, from ISO 14040:2006) and select the scope that suits the purpose of the analysis. Do you want to assess the raw material extraction and production of the machine (cradle to gate) or also the use phase and disposal of it? (cradle to gate). If you consider the use phase, you need to estimate the production demand and the product mix to be processed by the machine. I have found two articles that might be of interest to you:
+
+[https://link.springer.com/chapter/10.1007/978-981-4451-48-2\_35](https://www.researchgate.net/deref/https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-4451-48-2_35)
+
+[https://link.springer.com/chapter/10.1007/978-981-4451-48-2\_35](https://www.researchgate.net/deref/https%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-981-4451-48-2_35)
+
+plus, the link to the standard [https://www.iso.org/standard/37456.html](https://www.researchgate.net/deref/https%3A%2F%2Fwww.iso.org%2Fstandard%2F37456.html)
+
+Good luck
+
+Ilaria
+
+[View](post/What-approaches-and-methods-are-mostly-used-to-assess-the-carbon-footprint-of-machine-tools)
+
+- 4 Recommendations
+
+[![Gino Sturla](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gino-Sturla)
+
+[Gino Sturla](profile/Gino-Sturla)
+
+- asked a question related to Carbon Footprint
+
+[Information on the collection of royalties for the use of water to mining or hydroelectric?](post/Information-on-the-collection-of-royalties-for-the-use-of-water-to-mining-or-hydroelectric)
+
+Question
+
+3 answers
+
+- 4 Feb 2017
+
+I would like to know if anyone has information on studies carried out on payment for the use of water in different countries, particularly in the mining and electricity sectors
+
+Relevant answer
+
+[![William F. Hansen](https://i1.rgstatic.net/ii/profile.image/322235351404544-1453838302231_Q64/William-Hansen-4.jpg)](profile/William-Hansen-4)
+
+[William F. Hansen](profile/William-Hansen-4)
+
+- 7 Feb 2017
+
+Answer
+
+Water laws and rights can vary with country and location.  In USA, we have western water laws that are different from eastern laws.  Very simply, the western laws give priority to those first appliers for water rights, and the eastern laws (riparian water rights) give each landowner with water flowing across land some right to reasonable use.  There are also public waters managed by the states and in some instances Crown lands with water rights that may be reserved such on federal lands.  I remember some mining water rights granted in western USA, but do not think there was any royalty for the water.  The eastern USA has some difference in mining as well as water laws, but I am still not familiar with any royalty payments for the water, but a negotiation would occur if a miner was going to mine on lands not owned, but the royalty is probably a percentage of the minerals, such as 10%.  As far as hydroelectric, I am not specifically aware of royalties paid, usually the lands are acquired and former landowners paid for land by agreement or condemnation if a public project.  On private lands, use of water for generating power may be granted a water right in the west if applied for, however some of the run of the stream generators that do not require dams may be working without any right to water or any royalties involved.  In the east US, a landowner can make a reasonable use of water, but would need permits to build a dam and control water.  I am not aware of any royalties to do this as long as other riparian right users are not affected and minimum instream flows for aquatic organisms are maintained.
+
+There is some potential for payment of royalties for use of land and resources, and also potential for incurring costs for water quality or quantity mitigation from both mining and various hydroelectric projects, but each circumstance may be more of a case by case analysis, than any well defined rules or regulations that apply to all.  In USA, there are several to many laws to consider  relative to these activities and that is why development of dams and various types of mining operations with surface damages are likely to need an Environmental Analysis of varying intensity and possibly permits before proceeding.  In some instances, the use of the public waters involves permitting with costs of various types and a degree of taxation that is not a royalty, but does return some of the proceeds back for public benefit.
+
+In addition, some activities such as panning for gold or using very small dredges in washed channel substrates or very small headwater hydroelectric generators for home use that do not require dams or inchannel structures are sometimes exempted or limited from most regulation if their effects are negligible.
+
+[View](post/Information-on-the-collection-of-royalties-for-the-use-of-water-to-mining-or-hydroelectric)
+
+- 3 Recommendations
+
+[![Divesh Roopowa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Divesh-Roopowa)
+
+[Divesh Roopowa](profile/Divesh-Roopowa)
+
+- asked a question related to Carbon Footprint
+
+[What approaches are available to forecast the carbon emissions of an individual?](post/What_approaches_are_available_to_forecast_the_carbon_emissions_of_an_individual)
+
+Question
+
+5 answers
+
+- 22 Jan 2017
+
+Relevant answer
+
+[![Divesh Roopowa](https://i1.rgstatic.net/ii/profile.image/437624360968193-1481349186087_Q64/Divesh-Roopowa.jpg)](profile/Divesh-Roopowa)
+
+[Divesh Roopowa](profile/Divesh-Roopowa)
+
+- 28 Jan 2017
+
+Answer
+
+Hi Sathish the link that you have provided above is not accessible. It would be great if you could check same.
+
+[View](post/What_approaches_are_available_to_forecast_the_carbon_emissions_of_an_individual)
+
+- 0 Recommendations
+
+[![Rafael D'Almeida Martins](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Rafael-Martins-24)
+
+[Rafael D'Almeida Martins](profile/Rafael-Martins-24)
+
+- asked a question related to Carbon Footprint
+
+[Does anyone know good experiences of National Climate Change Monitoring Systems to monitor the implementation of climate change policies?](post/Does_anyone_know_good_experiences_of_National_Climate_Change_Monitoring_Systems_to_monitor_the_implementation_of_climate_change_policies)
+
+Question
+
+5 answers
+
+- 22 Jan 2017
+
+I am looking for concrete experiences of national systems to monitor climate change policy implementation.
+
+Relevant answer
+
+[![Albert K. Smith](https://i1.rgstatic.net/ii/profile.image/279834849759283-1443729235936_Q64/Albert-Smith.jpg)](profile/Albert-Smith)
+
+[Albert K. Smith](profile/Albert-Smith)
+
+- 26 Jan 2017
+
+Answer
+
+I know there has been the National Secchi Dip-In every year for several years running.  Although simplistic in nature, there would be several years of data spanning a broad geographic area.  [http://www.secchidipin.org/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.secchidipin.org%2F)
+
+[View](post/Does_anyone_know_good_experiences_of_National_Climate_Change_Monitoring_Systems_to_monitor_the_implementation_of_climate_change_policies)
+
+- 4 Recommendations
+
+[![Aryan Shahabian](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Aryan-Shahabian-2)
+
+[Aryan Shahabian](profile/Aryan-Shahabian-2)
+
+- asked a question related to Carbon Footprint
+
+[Do you have a list for Embodied Energy in different strength classes of concrete?](post/Do-you-have-a-list-for-Embodied-Energy-in-different-strength-classes-of-concrete)
+
+Question
+
+3 answers
+
+- 19 Jan 2017
+
+I am looking for a list of amounts of **embodied energy** in different strength classes of concrete (e.g. c30/37, c40/50, c60/75, etc.). I could find some data about embodied carbon but nothing about the embodied energy of high strength concretes (above c60). Any help would be appreciated.
+
+Relevant answer
+
+[![Messaoud Saïdani](https://i1.rgstatic.net/ii/profile.image/1069461046063105-1631990791548_Q64/Messaoud-Saidani.jpg)](profile/Messaoud-Saidani)
+
+[Messaoud Saïdani](profile/Messaoud-Saidani)
+
+- 21 Jan 2017
+
+Answer
+
+Hi Aryan,
+
+The following paper by Purnell may hold the answer to your question as it gives curves for different grades of concrete:
+
+[http://eprints.whiterose.ac.uk/78456/1/adcr25-0362.pdf](https://www.researchgate.net/deref/http%3A%2F%2Feprints.whiterose.ac.uk%2F78456%2F1%2Fadcr25-0362.pdf)
+
+I hope it helps.
+
+Best wishes.
+
+[View](post/Do-you-have-a-list-for-Embodied-Energy-in-different-strength-classes-of-concrete)
+
+- 4 Recommendations
+
+[![Gino Sturla](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gino-Sturla)
+
+[Gino Sturla](profile/Gino-Sturla)
+
+- asked a question related to Carbon Footprint
+
+[When calculating the carbon footprint using the input output matrix in Chile, mining increases its emissions by 3 times. Results for other economies?](post/When-calculating-the-carbon-footprint-using-the-input-output-matrix-in-Chile-mining-increases-its-emissions-by-3-times-Results-for-other-economies)
+
+Question
+
+4 answers
+
+- 4 Jan 2017
+
+This is because the carbon footprint has generally been measured on the basis of the fuel and electricity used by the sectors, however, using this approach captures the effect of consumption of dirty inputs.
+
+Someone is working on something similar, especially thinking about economic signals to reduce CO2 emissions? I would like to know other investigations.
+
+Relevant answer
+
+[![Aly Kothur](https://i1.rgstatic.net/ii/profile.image/694730551738375-1542648079406_Q64/Aly-Kothur.jpg)](profile/Aly-Kothur)
+
+[Aly Kothur](profile/Aly-Kothur)
+
+- 8 Jan 2017
+
+Answer
+
+pl refer to geology dept , iit - Hyderabad, india
+
+[View](post/When-calculating-the-carbon-footprint-using-the-input-output-matrix-in-Chile-mining-increases-its-emissions-by-3-times-Results-for-other-economies)
+
+- 2 Recommendations
+
+[![Peyman Babashamsi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Peyman-Babashamsi)
+
+[Peyman Babashamsi](profile/Peyman-Babashamsi)
+
+- asked a question related to Carbon Footprint
+
+[Request a name for a software?](post/Request_a_name_for_a_software)
+
+Question
+
+8 answers
+
+- 17 Dec 2016
+
+I have developed a software in **Sustainable Airport Pavement Management**. This software is the integrated of life cycle cost analysis (LCCA) and life cycle assessment (LCA). This tool can compare three different pavement design in deterministic and probabilistic method and choose the cheapest option and shows environmental impacts of each alternative during their life-cycle.
+
+I named it _**L2C3A2**_ (because of LCCA+LCA) but I need your help if you have any better suggestion name for it (my friends said it is very robotic name!).
+
+ANY SUGGESTED NAME IS HIGHLY APPRECIATED.
+
+Best regards
+
+Relevant answer
+
+[![Patrice A. Marchand](https://i1.rgstatic.net/ii/profile.image/754446380306435-1556885442580_Q64/Patrice-Marchand-2.jpg)](profile/Patrice-Marchand-2)
+
+[Patrice A. Marchand](profile/Patrice-Marchand-2)
+
+- 2 Jan 2017
+
+Answer
+
+EcoPave is quite clear indeed, simple, comprehensible, and short !
+
+[View](post/Request_a_name_for_a_software)
+
+- 0 Recommendations
+
+[![Boris I. Sedunov](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Boris-Sedunov-2)
+
+[Boris I. Sedunov](profile/Boris-Sedunov-2)
+
+- asked a question related to Carbon Footprint
+
+[What Human activity can contribute in the Global Warming more than the CO2 emission?](post/What_Human_activity_can_contribute_in_the_Global_Warming_more_than_the_CO2_emission)
+
+Question
+
+34 answers
+
+- 27 Oct 2016
+
+Many scientists think that the CO2 emission by the Industry is not so important as the CO2 emission from the Ocean. What then other Human made factors may cause the Global temperature growth and ice melting?
+
+I can name some factors:
+
+The pollution of the Ocean suface diminishing its cooling via evaporisation;
+
+The pollution of snow, leading to its accelerated melting;
+
+The growth of deserts with elevation of their surface temperature;
+
+The cutting off forests, also leading to the growth of the soil temperature;
+
+What other factors and are they so influential as the greenhouse effect?
+
+Relevant answer
+
+[![Mirza Arshad Ali Beg](https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg)](profile/Mirza-Beg-5)
+
+[Mirza Arshad Ali Beg](profile/Mirza-Beg-5)
+
+- 9 Nov 2016
+
+Answer
+
+Kenneth M Towe, Boris and Colleagues,
+
+The two graphs still show the mismatch, and why not!! The 2 billion increase in population between 1987 and now has a cumulative addition of only 50 ppm. This is not proportional to observations recorded in 1958 at the US Mauna Loa weather station and the South Pole which showed that atmospheric CO2 was 315.2 ppm; the world population then was 2.9 billion. The level of CO2 with no anthropogenic activity has been deduced from Ice core analyses in Greenland. It has been found that 18,000 years ago CO2 levels were 225 ppm; they rose to 271 ppm around 1300 A.D. when the continental glaciers started melting.
+
+Changing patterns of climate, energy generation and consumption, deforestation and desertification are some anomalies that contribute to the rising trend of CO2. In other words development and harnessing of technology by the growing population and not just the increase in population, has contributed to increases in the level of CO2. This is aptly derived by Ehlrich’s equation:
+
+I (impact) = P (population) x A (affluence) x T (technology).
+
+For developing countries with a large weightage of population (P), low weightage for Technology (T) and Affluence (A), the value of Impact factor (I) will be (-).
+
+I = (-)      Large (P).Low(T).Low(A)
+
+Control of population will, in case of developing countries, have an average impact if the values of both (T) and (A) are reasonably high.
+
+I = ≥       Large (P).High(T).Low(A)
+
+The impact will be much more negative if the impact of social pollution, given by Corruption Perception Index (CPI) devised by Transparency International, is also taken into account.
+
+I = (--)    Large (P).Low(T).Low(A).High(CPI)
+
+Based on the above modifications of Ehrich’s equation, the following is expected to induce a practical, non-violent and humane approach to development and optimization of the ecological footprint:
+
+Application of
+
+a) appropriate technology (AT);
+
+b) drastic reduction in consumerism;
+
+c) restraining consumption and economic growth rate to match up with availability of resources; and
+
+d) reducing social pollution to the extent that the CPI is much above 8.0 instead of 1.0 to 4.0 as generally observed for developing as well as developed countries,
+
+Consumerism is contrary to the norms of conservationism and its slow down will not be acceptable to industrialized and industrializing countries with high (T) and (A), low population (P) and average (CPI in the 4-8 range). In the case of reduction in consumerism they will have to cut down their growth rate.
+
+Cutting down the growth rate will imply application of appropriate technology (AT) as against high technology (HT), reduction in affluence (A) and saving the Earth’s resources from impoverishment and the Earth from over-exploitation. Conservation of resources and development within the limits of resource availability will therefore have to be adopted for the sake of sustainability.
+
+The developed countries have however attained affluence and superiority in trade and weapons by applying technology; they are least inclined to retract because they would fall back into average category. They would rather prefer to allow migrants to settle and thus replace the retiring/ aging work force.
+
+Climate is, however, influenced more by natural factors than just the anthropogenic factors the former include changes within the solar system, changes in Earth’s orbit, and intensity of Intergalactic Gravitational Forces (IGF):
+
+Internal energy that maintains the mantle convection and drives the tectonic plates is only 0.019 percent of the energy that moves through the Earth. The energy being transferred from the interstellar space in particular the solar system is nevertheless high enough to induce: i) convection and compression in the interior of the Earth and ii) tides in the oceans in the hydrosphere. This paper has tried to illustrate that: Tectonic movement is astronomically related to changes in movement and orientation of the Earth, while intensification of intergalactic gravitational forces results in the onset of convection and compression waves in the interior of the Earth followed by earthquakes.
+
+Ø  Changes occurring in the sun itself can affect the intensity of the sunlight that reaches Earth’s surface, and also alters the intensity of IGF. Alteration in the intensity of electromagnetic radiation from the Sun affects the pull and push forces comprising the IGF. It causes warming during periods of stronger solar intensity, and cooling during periods of weaker solar intensity. The Sun is known to follow a natural 11-year cycle of small variation in intensity; the effect on climate of the Earth is small but significant.
+
+Ø  Changes in the shape of orbit as well as obliquity of the axis of the Earth affect the amount of electromagnetic radiation reaching its surface.
+
+Changes in Earth’s orbit have had a big impact on climate over tens of thousands of years. In fact, the amount of summer sunshine on the Northern Hemisphere, which is affected by changes in the planet’s orbit, appears to control the advance and retreat of ice sheets. These changes appear to be the primary cause of past cycles of ice ages, in which Earth has experienced long periods of cold temperatures (ice ages), as well as shorter interglacial periods (periods between ice ages) of relatively warmer temperatures.
+
+[View](post/What_Human_activity_can_contribute_in_the_Global_Warming_more_than_the_CO2_emission)
+
+- 8 Recommendations
+
+[![Al Amin bin Mohamed Sultan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Al-Amin-Mohamed-Sultan)
+
+[Al Amin bin Mohamed Sultan](profile/Al-Amin-Mohamed-Sultan)
+
+- asked a question related to Carbon Footprint
+
+[How to select the best (minimum) option that have two different parameters (e.g. Distance and Carbon footprint)?](post/How-to-select-the-best-minimum-option-that-have-two-different-parameters-eg-Distance-and-Carbon-footprint)
+
+Question
+
+9 answers
+
+- 18 Oct 2016
+
+There are 4 options with the different distance and carbon footprint value (as per in attachment). What is the method that can be used to choose the best minimum value for both distance and carbon footprint from those 4 options.
+
+Individually the minimum distance is Option 4, but the minimum carbon footprint is Option 3. How can the option be selected by considering both distance and carbon footprint in that data set?
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)
+
+- [optimisati\\
+\\
+on.jpg](profile/Al-Amin-Mohamed-Sultan/post/How-to-select-the-best-minimum-option-that-have-two-different-parameters-eg-Distance-and-Carbon-footprint/attachment/59d624f66cda7b8083a20b88/AS%3A418561949487115%401476804354650/download/optimisation.jpg) 18.4 kB
+
+Relevant answer
+
+[![N. Epicoco](https://i1.rgstatic.net/ii/profile.image/314488648077317-1451991344573_Q64/N-Epicoco.jpg)](profile/N-Epicoco)
+
+[N. Epicoco](profile/N-Epicoco)
+
+- 20 Oct 2016
+
+Answer
+
+Try with the data Envelopment Analysis,  which does not require normalizatioin of data and allows selecting a pareto-optimal solution under conflicting objectives. Thanks to the assurance regions you can also give more relevance to one of these criteria.However you would need more than 2 evaluating criteria.
+
+[View](post/How-to-select-the-best-minimum-option-that-have-two-different-parameters-eg-Distance-and-Carbon-footprint)
+
+- 9 Recommendations
+
+[![Janak Valaki (PhD)](https://www.researchgate.net/topic/Carbon-Footprint/PhD)](profile/Janak-Valaki-phd)
+
+[Janak Valaki (PhD)](profile/Janak-Valaki-phd)
+
+- asked a question related to Carbon Footprint
+
+[How to calculate carbon footprints for a manufacturing process?](post/How-to-calculate-carbon-footprints-for-a-manufacturing-process)
+
+Question
+
+4 answers
+
+- 3 Aug 2016
+
+Kinldy help me to calculate carbon footprints of a manufacturing process...
+
+Relevant answer
+
+[![Bruno Durand](https://i1.rgstatic.net/ii/profile.image/756665569775617-1557414538551_Q64/Bruno-Durand-2.jpg)](profile/Bruno-Durand-2)
+
+[Bruno Durand](profile/Bruno-Durand-2)
+
+- 6 Aug 2016
+
+Answer
+
+To calculate carbon footprints for a manufacturing process you have, first, to make it for raw materials carbon footprint.
+
+[View](post/How-to-calculate-carbon-footprints-for-a-manufacturing-process)
+
+- 3 Recommendations
+
+[![Guo Zhang](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Guo-Zhang-15)
+
+[Guo Zhang](profile/Guo-Zhang-15)
+
+- asked a question related to Carbon Footprint
+
+[How to calculate economic cost of farming practices during crop production?](post/How_to_calculate_economic_cost_of_farming_practices_during_crop_production)
+
+Question
+
+4 answers
+
+- 21 Jul 2016
+
+Currently I want to calculate economic cost of crop production from soil preparation to crop harvest according to life cycle assessment (LCA), but I am puzzled by:
+
+(1) Is there a term "economic footprint" to define this estimation, like carbon footprint?
+
+(2) What should I think about during the calculation?
+
+Relevant answer
+
+[![Prem Baboo](https://i1.rgstatic.net/ii/profile.image/11431281206740514-1700881226920_Q64/Prem-Baboo.jpg)](profile/Prem-Baboo)
+
+[Prem Baboo](profile/Prem-Baboo)
+
+- 21 Jul 2016
+
+Answer
+
+Dear Guo Zhang,
+
+Choosing what crops or livestock to produce is an essential decision of any farm business. One critical factor in making that decision is the cost of producing the "enterprises" being considered. This is known as enterprise budgeting or cost of production budgeting. Enterprises are a single crop or livestock commodity that produces a marketable product. Cost of Production (COP) budgeting consists of estimating the costs associated with an enterprise and the expected revenue. This Factsheet outlines the process and use of COP budgeting for farm-level decision-making.
+
+In economic cost analysis, the objectives of the analysis provide the standard against which costs and benefits are defined. Simply put, a cost is anything that redWhat Is A COP Budget
+
+While the format of COP budgets can vary they typically include the following sections.
+
+1 Revenue: the gross revenue from crop or livestock sales before any expenses have been deducted.
+
+2 Direct Variable Costs: expenses for the production of a specific commodity. These change depending on the level of production (i.e., seed, fertilizer, pesticides and feed).
+
+3 Indirect Variable Costs: expenses used in producing all commodities on the farm (i.e., fuel, labour and utilities). These also change depending on the level of production.
+
+4 Fixed Costs: expenses that remain the same regardless of the level of production (i.e., property taxes, fire insurance and depreciation).
+
+5 Net Profit (loss): revenue minus all variable and fixed costs.
+
+Costs of Agricultural Projects
+
+1\. Physical goods
+
+2\. Labor
+
+3\. Land
+
+4\. Contingency allowances
+
+5\. Taxes
+
+6\. Debt service
+
+7\. Sunk costs
+
+8\. Tangible Benefits of Agricultural
+
+9\. Increased production
+
+10\. Quality improvement
+
+11\. Change in time of sale
+
+12\. Change in location of sale
+
+13\. Changes in product form (grading and processing)
+
+14\. Cost reduction through mechanization
+
+15\. Reduced transport costs
+
+16\. Losses avoided
+
+17\. Other kinds of tangible benefits
+
+18\. Secondary Costs and Benefits
+
+19\. Intangible Costs and Benefits
+
+uces an objective, and a benefit is anything that contributes to an objective.
+
+[https://www.researchgate.net/publication/215524569\_Energy\_economic\_of\_small\_farming\_crop\_production\_operations?ev=prf\_pub](https://www.researchgate.net/publication/215524569_Energy_economic_of_small_farming_crop_production_operations?ev=prf_pub)
+
+[http://www.omafra.gov.on.ca/english/busdev/facts/08-055.htm](https://www.researchgate.net/deref/http%3A%2F%2Fwww.omafra.gov.on.ca%2Fenglish%2Fbusdev%2Ffacts%2F08-055.htm)
+
+Article [Energy economic of small farming crop production operations](publication/215524569_Energy_economic_of_small_farming_crop_production_operations)
+
+[View](post/How_to_calculate_economic_cost_of_farming_practices_during_crop_production)
+
+- 15 Recommendations
+
+[![Georgios K. Ntinas](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Georgios-Ntinas)
+
+[Georgios K. Ntinas](profile/Georgios-Ntinas)
+
+- asked a question related to Carbon Footprint
+
+[Can anybody suggest CED and a CO2-eq emission factors for Vinasse fertilizer?](post/Can_anybody_suggest_CED_and_a_CO2-eq_emission_factors_for_Vinasse_fertilizer)
+
+Question
+
+5 answers
+
+- 8 Jul 2016
+
+I want to calculate the carbon footprint (CF) and cumulative energy demand (CED) of Vinasse fertilizer and their participation in CF and CED of greenhouse tomato production.
+
+Relevant answer
+
+[![Prem Baboo](https://i1.rgstatic.net/ii/profile.image/11431281206740514-1700881226920_Q64/Prem-Baboo.jpg)](profile/Prem-Baboo)
+
+[Prem Baboo](profile/Prem-Baboo)
+
+- 8 Jul 2016
+
+Answer
+
+Dear Georgios,
+
+The  Fertilizer use can contributes to GHG emissions in the following  ways:
+
+(a) CO2 emissions from the energy intensive production process
+
+(b) CO2 emissions from the energy used in the transport of fertilizer from the production facility to farm-gate
+
+(c) CO2 emissions from the energy use in machinery required for fertilizer application (this applies only if machinery is used for fertilizer spreading which is very common in large scale farming in industrialized countries)
+
+nitrous oxide since this component is extraneous to the production process. The plausibility of nitrous oxide releases from nitrogen based fertilizers is a massive GHG concern. This is because of its higher global warming potential (GWP) than CO2.
+
+Nitrous oxide (N2O) emissions from soils after application of N containing fertilizer is the other pathway.  Although I mentioned this last in the list, this is the most important contributor to GHG emissions.  Intergovernmental Panel for Climate Change (IPCC) protocols provide an average N2O emission factor of 1.25 kg N2O-N/kg N applied.  However, this emission factor could range from 0.05 – 1.5 kg N2O-N/kg N applied, depending on the climatic and soil conditions as well as method and timing of N fertilizer application.
+
+the CO2 emission factors for NPK fertilizer production, mixing and transport in your region.  For North America the average CO2 emission factors for NPK are as follows:
+
+2.792 kg CO2 equivalents / kg N
+
+0.738 kg CO2 equivalents / kg P2O5
+
+0.352 kg CO2 equivalents / kg K2O
+
+Regards,
+
+Prem Baboo
+
+[https://www.researchgate.net/post/How\_does\_the\_fertilizer\_use\_affect\_GHG\_emission?\_tpcectx=profile\_questions](https://www.researchgate.net/post/How_does_the_fertilizer_use_affect_GHG_emission?_tpcectx=profile_questions)
+
+[https://www.researchgate.net/file.PostFileLoader.html?id=561096c46225ffb9538b45af&assetKey=AS%3A280667465240606%401443927746588](https://www.researchgate.net/file.PostFileLoader.html?id=561096c46225ffb9538b45af&assetKey=AS%3A280667465240606%401443927746588)
+
+[https://www.researchgate.net/file.PostFileLoader.html?id=561096c46225ffb9538b45af&assetKey=AS%3A280667465240622%401443927746966](https://www.researchgate.net/file.PostFileLoader.html?id=561096c46225ffb9538b45af&assetKey=AS%3A280667465240622%401443927746966)
+
+- [carbon\_footprint\_web\_\\
+\\
+V4.pdf](profile/Prem-Baboo/post/Can_anybody_suggest_CED_and_a_CO2-eq_emission_factors_for_Vinasse_fertilizer/attachment/59d634dc79197b80779927e4/AS%3A381587746246658%401467989016955/download/carbon_footprint_web_V4.pdf) 766 kB
+- [122597\_2013\_Carbon\_footprint-of\_AN\_Method\_of\_calculati\\
+\\
+on.pdf](profile/Prem-Baboo/post/Can_anybody_suggest_CED_and_a_CO2-eq_emission_factors_for_Vinasse_fertilizer/attachment/59d634dc79197b80779927e6/AS%3A381587750440961%401467989017114/download/122597_2013_Carbon_footprint-of_AN_Method_of_calculation.pdf) 93.6 kB
+- [Appendix\\
+\\
+7.pdf](profile/Prem-Baboo/post/Can_anybody_suggest_CED_and_a_CO2-eq_emission_factors_for_Vinasse_fertilizer/attachment/59d634dc79197b80779927e5/AS%3A381587750440960%401467989017021/download/Appendix+7.pdf) 33.4 kB
+
+[View](post/Can_anybody_suggest_CED_and_a_CO2-eq_emission_factors_for_Vinasse_fertilizer)
+
+- 2 Recommendations
+
+[![Jeremy Bakker](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Jeremy-Bakker)
+
+[Jeremy Bakker](profile/Jeremy-Bakker)
+
+- asked a question related to Carbon Footprint
+
+[Looking for embodied energy and embodied carbon data ?](post/Looking_for_embodied_energy_and_embodied_carbon_data)
+
+Question
+
+11 answers
+
+- 22 Jun 2016
+
+I am an intern from Yacht Carbon Offset (YCO2) and I am looking for the embodied energy and embodied carbon for the following material: steel, stainless steel, aluminium and glass.
+
+These data will serve to determine the lifecycle and carbon footprint of yachts or charters. Our current database used is the Inventory of Carbon and Energy (ICE, 2011). However, it seems that it becomes to be outdated and it would be great to find a new set of data.
+
+Thus, I would like to know if by any chance, you know a more recent database that could apply to the yacht industry.
+
+Thank you in advance for your help,
+
+Best regards,
+
+Jeremy Bakker
+
+Environmental services at YCO2
+
+Relevant answer
+
+[![Jeremy Bakker](https://i1.rgstatic.net/ii/profile.image/376102490001410-1466681229578_Q64/Jeremy-Bakker.jpg)](profile/Jeremy-Bakker)
+
+[Jeremy Bakker](profile/Jeremy-Bakker)
+
+- 28 Jun 2016
+
+Answer
+
+Did someone use the ecoinvent database ? as to access the database, a payment need to be done...Does someone know if I can find the embodied energy (MJ/KG) and embodied carbon of the material I'm looking for ?
+
+[View](post/Looking_for_embodied_energy_and_embodied_carbon_data)
+
+- 5 Recommendations
+
+[![Jayme Walenta](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Jayme-Walenta)
+
+[Jayme Walenta](profile/Jayme-Walenta)
+
+- asked a question related to Carbon Footprint
+
+[Where the term 'carbon footprint' come from?](post/Where-the-term-carbon-footprint-come-from)
+
+Question
+
+9 answers
+
+- 16 Jun 2016
+
+I know it is conceptually linked to ecological footprint. Does anyone know where/when/by whom the term was first uttered? Citations are more helpful than vague references please.
+
+Relevant answer
+
+[![Patrick Ehlert](https://i1.rgstatic.net/ii/profile.image/363733588168705-1463732253600_Q64/Patrick-Ehlert.jpg)](profile/Patrick-Ehlert)
+
+[Patrick Ehlert](profile/Patrick-Ehlert)
+
+- 17 Jun 2016
+
+Answer
+
+Carbon footprint evolved as a part of the 'ecological footprint' concept which was devised by William Rees and Mathis Wackernagel. In this paper from jan 1996
+
+[https://www.researchgate.net/publication/226184045\_Revisiting\_Carrying\_Capacity\_Area-Based\_Indicators\_of\_Sustainability](https://www.researchgate.net/publication/226184045_Revisiting_Carrying_Capacity_Area-Based_Indicators_of_Sustainability)
+
+William Rees described how carbon-assimilation is part of the ecological footprint but here he used the term 'energy footprint' and not carbon footprint.
+
+I'm not sure who first used the term, but I do know that it wasn't until 2006 that it became more widespread. One of the earliest references to carbon footprint I am aware of is this patent filed in oct 2005 [https://www.google.com/patents/US20060089851](https://www.researchgate.net/deref/https%3A%2F%2Fwww.google.com%2Fpatents%2FUS20060089851) but I don't think that's the first usage of the term. According to Google Trends the term was already used occasionally when Google started collecting query data in 2004: [https://www.google.com/trends/explore#q=%22carbon%20footprint%22](https://www.researchgate.net/deref/https%3A%2F%2Fwww.google.com%2Ftrends%2Fexplore%23q%3D%2522carbon%2520footprint%2522)
+
+Article [Revisiting Carrying Capacity: Area-Based Indicators of Sustainability](publication/226184045_Revisiting_Carrying_Capacity_Area-Based_Indicators_of_Sustainability)
+
+[View](post/Where-the-term-carbon-footprint-come-from)
+
+- 8 Recommendations
+
+[![Nadia Akhtar](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Nadia-Akhtar-4)
+
+[Nadia Akhtar](profile/Nadia-Akhtar-4)
+
+- asked a question related to Carbon Footprint
+
+[How to deal with textile dyes in an Life Cycle Analysis study focused on carbon footprint?](post/How-to-deal-with-textile-dyes-in-an-Life-Cycle-Analysis-study-focused-on-carbon-footprint)
+
+Question
+
+4 answers
+
+- 11 May 2016
+
+I am carrying out a study on carbon footprint of textile dyeing and finishing process based on Life Cycle Assessment Approach. I am using Simapro software, but unfortunatelyi am unable to find out textile dyes in the databases. Please help me out overcome this issue.
+
+Relevant answer
+
+[![Nadia Akhtar](https://i1.rgstatic.net/ii/profile.image/11431281237671231-1713627378906_Q64/Nadia-Akhtar-4.jpg)](profile/Nadia-Akhtar-4)
+
+[Nadia Akhtar](profile/Nadia-Akhtar-4)
+
+- 12 Jun 2016
+
+Answer
+
+Thank You Dalia for sharing wonderful work with me. Yes we have now subsituted some of the dyes. Now main problems is with pigments (Pigmasol) used in printing process. Data for this pigment is not available in LCI.
+
+[View](post/How-to-deal-with-textile-dyes-in-an-Life-Cycle-Analysis-study-focused-on-carbon-footprint)
+
+- 0 Recommendations
+
+[![Fabien Cerutti](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Fabien-Cerutti)
+
+[Fabien Cerutti](profile/Fabien-Cerutti)
+
+- asked a question related to Carbon Footprint
+
+[Any idea of the carbon footprint of paper recycling process ?](post/Any_idea_of_the_carbon_footprint_of_paper_recycling_process)
+
+Question
+
+5 answers
+
+- 12 May 2016
+
+Hi all,
+
+anybody to help me estimate the CO2 footprint of paper recycling ? I would like to know how much CO2 is produced for 1ton of recycled paper, and roughly where are the sources of CO2 production in the papermaking process.
+
+Thanks a lot !
+
+Relevant answer
+
+[![Ola Eriksson](https://i1.rgstatic.net/ii/profile.image/272449803649043-1441968503344_Q64/Ola-Eriksson-2.jpg)](profile/Ola-Eriksson-2)
+
+[Ola Eriksson](profile/Ola-Eriksson-2)
+
+- 12 May 2016
+
+Answer
+
+There are numerous of data sources on paper recycling, check EcoInvent.
+
+We made a review of data for the Nordic countries of Europe, look for Climate benefit of material recycling on my ResearchGate site.
+
+Technical Report [Climate Benefits of Material Recycling Inventory of Average ...](publication/280315880_Climate_Benefits_of_Material_Recycling_Inventory_of_Average_Greenhouse_Gas_Emissions_for_Denmark_Norway_and_Sweden)
+
+[View](post/Any_idea_of_the_carbon_footprint_of_paper_recycling_process)
+
+- 16 Recommendations
+
+[![Sujoy Barua](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Sujoy-Barua)
+
+[Sujoy Barua](profile/Sujoy-Barua)
+
+- asked a question related to Carbon Footprint
+
+[How can be found Emission Factor data?](post/How_can_be_found_Emission_Factor_data)
+
+Question
+
+12 answers
+
+- 25 Feb 2016
+
+CarbonFootprint is needed to calculate to find out carbon emission of LPG, Diesel and others fuel in India and Bangladesh. So Emission Factor (EF) is important to make the calculation of a certain amount of carbon in tCO2 per amount.
+
+Relevant answer
+
+[![Pijus Mandal](https://i1.rgstatic.net/ii/profile.image/11431281107294644-1671012510006_Q64/Pijus-Mandal.jpg)](profile/Pijus-Mandal)
+
+[Pijus Mandal](profile/Pijus-Mandal)
+
+- 12 May 2016
+
+Answer
+
+How to calculate latest CO2  Equivalent in terms of KgCO2 Eq per unit consumption  of  Diesel,Petrol,and LPG(Unit consumption in KG) for making Carbon Foot print report.
+
+Can anybody help me.
+
+[View](post/How_can_be_found_Emission_Factor_data)
+
+- 5 Recommendations
+
+[![Gino OLIVE](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gino-Olive)
+
+[Gino OLIVE](profile/Gino-Olive)
+
+- asked a question related to Carbon Footprint
+
+[Over what time scale can we expect to store carbon through irrigation and photosynthesis in arid land?](post/Over-what-time-scale-can-we-expect-to-store-carbon-through-irrigation-and-photosynthesis-in-arid-land)
+
+Question
+
+31 answers
+
+- 16 Feb 2015
+
+I strongly think and hope very large scale desalination of sea water to irrigate arid zone is the second way to fight against global warming and its consequences as rise in sea level and accelerated desertification of arid.
+
+Of course, the first is the sustainable behavior; desalination might be performed and funded by ecological means.
+
+In a previous discussion :
+
+[https://www.researchgate.net/post/Would\_the\_desalination\_in\_an\_ecological\_way\_of\_ten\_thousand\_billion\_cubic\_meters\_of\_sea\_water\_have\_a\_significant\_effect\_of\_the\_rise\_of\_sea\_level/1](https://www.researchgate.net/post/Would_the_desalination_in_an_ecological_way_of_ten_thousand_billion_cubic_meters_of_sea_water_have_a_significant_effect_of_the_rise_of_sea_level/1)
+
+Pr K. M.Towe said :"There is no way for "photosynthesis" to "pay" for it's subsequent LONG TERM microorganisms aerobic recycling". I must specify : recycling humans, animals and plants carbon. I wonder how is it possible reforestation would not have any significant effect on carbon footprint and over what time period photosynthesis is much greater than the aerobic respiration of microorganisms.
+
+If respiration of microorganisms always prevailed over that of plants, a long time ago we would have no more oxygen. Do the rainforests have a negative balance sheet of oxygen/carbon?
+
+At a rate of two dollars per cubic meter of desalinated water, what would be carbon foot print over several years of a cubic meters of desalted water in arid and sunny area? That is the question?
+
+Relevant answer
+
+[![Gino OLIVE](https://i1.rgstatic.net/ii/profile.image/438733959897089-1481613735131_Q64/Gino-Olive.jpg)](profile/Gino-Olive)
+
+[Gino OLIVE](profile/Gino-Olive)
+
+- 2 Mar 2016
+
+Answer
+
+Another argument: [https://www.linkedin.com/pulse/carbon-energy-balance-cropping-systems-karuppan-sakadevan?trk=hp-feed-article-title-comment](https://www.researchgate.net/deref/https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fcarbon-energy-balance-cropping-systems-karuppan-sakadevan%3Ftrk%3Dhp-feed-article-title-comment)
+
+[View](post/Over-what-time-scale-can-we-expect-to-store-carbon-through-irrigation-and-photosynthesis-in-arid-land)
+
+- 0 Recommendations
+
+[![Umberto Baresi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Umberto-Baresi)
+
+[Umberto Baresi](profile/Umberto-Baresi)
+
+- asked a question related to Carbon Footprint
+
+[Talking about urban built environment, what approach would you suggest to measure the 'footprint' of existing buildings?](post/Talking_about_urban_built_environment_what_approach_would_you_suggest_to_measure_the_footprint_of_existing_buildings)
+
+Question
+
+8 answers
+
+- 26 Jan 2016
+
+Energy efficiency is just one of the many criteria that could be used, as 'footprints' are being adapted to measure the impacts of buildings in terms of carbon emissions, water and energy consumption.
+
+In other words, how distant we are from considering all the aspects related to the consumption of resources in the 'sustainability' equation of our building stock? Could this be delivered through a unified indicator?
+
+Are you aware of cases where these techniques have been applied in real urban and regional planning policies, plans, and programs?
+
+Thank you for your suggestions.
+
+Relevant answer
+
+[![Chloe Hendricks](https://i1.rgstatic.net/ii/profile.image/467198549467137-1488400222716_Q64/Chloe-Hendricks.jpg)](profile/Chloe-Hendricks)
+
+[Chloe Hendricks](profile/Chloe-Hendricks)
+
+- 29 Jan 2016
+
+Answer
+
+I am afraid that I may not be able to contribute completely in this matter but I feel like I could add a suggestion or another way of thinking on the topic.
+
+Something else to consider would be the relation to decay. Materials off gas and fall apart or they combine with the conditions of the area to speed up the process or to create a poison. Sometimes the materials actually used in the architecture, although great for long lasting built environments, are actually toxic to the people living on the located site.
+
+I also feel that the "footprint" could be measured by usage. Was every part of the space utilized to the fullest? If the building changed functions, how has it coped with the new usage despite the original purpose? Was the "footprint" economical in design? Would it be worth it in the long run to upkeep a building because it works so well or is it necessary to upkeep it to modify? (I hope this made sense).
+
+[View](post/Talking_about_urban_built_environment_what_approach_would_you_suggest_to_measure_the_footprint_of_existing_buildings)
+
+- 12 Recommendations
+
+[![Alfredo J. Escribano](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Alfredo-Escribano)
+
+[Alfredo J. Escribano](profile/Alfredo-Escribano)
+
+- asked a question related to Carbon Footprint
+
+[Seaweeds: an enviromentally sustainable value chain?](post/Seaweeds-an-enviromentally-sustainable-value-chain)
+
+Question
+
+10 answers
+
+- 20 Jan 2016
+
+An increasing number number of papers are showing the positive effects (either potential or already tested) of seaweed/algae on ruminants production.
+
+However, thinking about the carbon footprint of the whole process (extraction, shipment, drying, ... farm gate), it is a sustainable feedstuff?
+
+Is there any paper assessing its footprint (LCA)?
+
+What your views?
+
+Relevant answer
+
+[![Douglas Nuttall](https://i1.rgstatic.net/ii/profile.image/467662179442690-1488510760955_Q64/Douglas-Nuttall.jpg)](profile/Douglas-Nuttall)
+
+[Douglas Nuttall](profile/Douglas-Nuttall)
+
+- 26 Jan 2016
+
+Answer
+
+Intuitively, I shudder.  Lets compare the processes:
+
+Extract plant matter from the ocean, in a manner that does not significantly alter the local ecosystem, using underwater equipment.  Treat it in some way to remove the salt (unless osmotic pressure is maintained by a very high sugar content, instead).  Ensure that the pollution that we release into the oceans does not accumulate in the animals that eat the vegetation, probably by an extraction process that removes just the wanted chemistry from the vegetation..  Dump the waste vegetation into a composting facility, to ensure that the remaining cellulose and hemi-cellulose doesn't degrade to methane. Mix the extracted chemistry with the animals' food stock, testing it to ensure there is the targeted balance of nutrients and sugars.  Dump the remains back into the ocean to become the next generation of plants.
+
+OR
+
+Let animals eat the vegetation that grows in places where we can't use efficient planting and harvesting techniques (eg, pasture land).
+
+One of these things is simpler than the other, with a much lower embodied energy, waste products, and with far fewer unknowns.  I don't know how you would be able to predict the 'shadow' of this process, eg, identifying all of the aspects of the ecosystem that would be negatively affected by the process - maybe this is simpler than it appears. But I'm not seeing it.
+
+[View](post/Seaweeds-an-enviromentally-sustainable-value-chain)
+
+- 15 Recommendations
+
+[![Umberto Baresi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Umberto-Baresi)
+
+[Umberto Baresi](profile/Umberto-Baresi)
+
+- asked a question related to Carbon Footprint
+
+[Is there a 'best' way to introduce footprints (carbon, ecological, water, etc.) in urban and regional planning?](post/Is-there-a-best-way-to-introduce-footprints-carbon-ecological-water-etc-in-urban-and-regional-planning)
+
+Question
+
+12 answers
+
+- 5 Jan 2016
+
+Depending on national institutional framework and planning tradition, can 'footprints' be better implemented:
+
+\- directly in the urban and regional planning schemes (policies, plans, programs), or
+
+\- in Sustainability Assessments used to measure the sustainability of the aforementioned planing schemes?
+
+Could you provide some evidence referring to relevant case studies or publications?
+
+Relevant answer
+
+[![Janet Ranganathan](https://i1.rgstatic.net/ii/profile.image/303967995662337-1449483025825_Q64/Janet-Ranganathan-2.jpg)](profile/Janet-Ranganathan-2)
+
+[Janet Ranganathan](profile/Janet-Ranganathan-2)
+
+- 25 Jan 2016
+
+Answer
+
+Please check out the GPC - Greenhouse Gas Protocol for community based GHG accounting and reporting.
+
+[http://ghgprotocol.org/files/ghgp/GHGP\_GPC.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fghgprotocol.org%2Ffiles%2Fghgp%2FGHGP_GPC.pdf)
+
+For spatial information on water risk you may find the following site helpful:
+
+[http://www.wri.org/our-work/project/aqueduct](https://www.researchgate.net/deref/http%3A%2F%2Fwww.wri.org%2Four-work%2Fproject%2Faqueduct)
+
+[View](post/Is-there-a-best-way-to-introduce-footprints-carbon-ecological-water-etc-in-urban-and-regional-planning)
+
+- 7 Recommendations
+
+[![Manohar Patole](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Manohar-Patole)
+
+[Manohar Patole](profile/Manohar-Patole)
+
+- asked a question related to Carbon Footprint
+
+[How will the global agricultural trade impact the available water resources in countries with limited resources?](post/How-will-the-global-agricultural-trade-impact-the-available-water-resources-in-countries-with-limited-resources)
+
+Question
+
+4 answers
+
+- 28 Dec 2015
+
+Is it possible to quantify this in terms of the water footprint method, similar to the carbon footprint, and how will it make exporting countries even more worse off environmentally.
+
+Relevant answer
+
+[![John Kazer](https://i1.rgstatic.net/ii/profile.image/281145158717440-1444041637393_Q64/John-Kazer.jpg)](profile/John-Kazer)
+
+[John Kazer](profile/John-Kazer)
+
+- 7 Jan 2016
+
+Answer
+
+it is a simple fact that some watersheds have less water available than others.  those with less water should be the subject of more active water management - at the watershed level at least.  This moves quickly beyond simply counting the litres used although this is a good start.
+
+See also the ISO 14046 standard, which deals with water inventory and management. This standard is quite technical, so there is at least one working group investigating ways to interpret and use it: [http://wulca-waterlca.org/](https://www.researchgate.net/deref/http%3A%2F%2Fwulca-waterlca.org%2F)
+
+[View](post/How-will-the-global-agricultural-trade-impact-the-available-water-resources-in-countries-with-limited-resources)
+
+- 0 Recommendations
+
+[![Gurpreet Singh](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gurpreet-Singh-185)
+
+[Gurpreet Singh](profile/Gurpreet-Singh-185)
+
+- asked a question related to Carbon Footprint
+
+[Can anyone provide me a good reference for the statement Life Cycle Inventory analysis is more region-specific to represent the local conditions?](post/Can-anyone-provide-me-a-good-reference-for-the-statement-Life-Cycle-Inventory-analysis-is-more-region-specific-to-represent-the-local-conditions)
+
+Question
+
+1 answer
+
+- 7 Nov 2015
+
+I am trying to find carbon footprint for ready mixed concrete
+
+Relevant answer
+
+[![Edwin Zea Escamilla](https://i1.rgstatic.net/ii/profile.image/11431281200533697-1697986492479_Q64/Edwin-Zea-Escamilla.jpg)](profile/Edwin-Zea-Escamilla)
+
+[Edwin Zea Escamilla](profile/Edwin-Zea-Escamilla)
+
+- 17 Nov 2015
+
+Answer
+
+The impact from the production of concrete is mainly driven by the production of clinker (used in cement). The impact from the production of clinker is driven by the energy source used. So if you can model those two factors on your LCI according to the local practices you can represent the local conditions. More details on production efficiency of the used plants can improve the accuarcy of your calculation
+
+[View](post/Can-anyone-provide-me-a-good-reference-for-the-statement-Life-Cycle-Inventory-analysis-is-more-region-specific-to-represent-the-local-conditions)
+
+- 0 Recommendations
+
+[![Ingvar Bogdahn](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Ingvar-Bogdahn)
+
+[Ingvar Bogdahn](profile/Ingvar-Bogdahn)
+
+- asked a question related to Carbon Footprint
+
+[What is the current state of the art of hydrogen supply via methane decomposition, regarding energy recovery/EROI, ergonomics and economics?](post/What_is_the_current_state_of_the_art_of_hydrogen_supply_via_methane_decomposition_regarding_energy_recovery_EROI_ergonomics_and_economics)
+
+Question
+
+2 answers
+
+- 22 Oct 2015
+
+Hello,
+
+For an environmental-biotechnological application, I'm investigating the state of the art of hydrogen production by methane decomposition / "carbon black". I have invested some time to read in the literature, but it has been inconclusive so far.
+
+I'd highly appreciate if somebody could help me answer some of the following questions or point me to relevant and up-to-date literature:
+
+1. EROI: how much energy is gained per energy invested in an actual process and/or how much energy of the methane can be practically recovered as H2? My understanding is that the process has an upper bound of about 64%, since CH4 has about 890 kj/mol enthalphy of combustion whereas two H2 have 572 kg/mol. However, I'm uncertain for example, how much energy of the required heating can be reclaimed in heat exchangers or how much energy has to be invested for catalyst regeneration (if catalysts are worth the trouble?). How does energy efficiency compare to steam reforming or water electrolysis?
+2. Assuming my process does not require a pure stream of hydrogen and can tolerate or even use residual methane to some extent: How are the ergonomics and economics of CH4 decomposition? How difficult is it to operate such a plant? To which value would you estimate the capital cost and average cost per H2 produced? How would that compare to water electrolysis?
+3. While the "carbon black" process is said to operate in industries for a long time, reading in the literature it seems to me there are fundamental challenges (i.e. catalyst inactivation). Are there actually commercial plants producing hydrogen via CH4 composition and what are their setups? And if not, what are the prime reasons it is not done?
+
+Thank you very much for your answers.
+
+regards,
+
+Ingvar
+
+Relevant answer
+
+[![Paul Gateau](https://i1.rgstatic.net/ii/profile.image/279651206352907-1443685452016_Q64/Paul-Gateau.jpg)](profile/Paul-Gateau)
+
+[Paul Gateau](profile/Paul-Gateau)
+
+- 26 Oct 2015
+
+Answer
+
+I agree with Deepak Kumar Ojha.
+
+But there is an industrial process based on decomposition of  CH4 to carbon black.
+
+The process is to produce carbon black (with a special characteristic) so the EROI of the process is based on the economical value of carbon black.
+
+I suggest to you to read a good general bibliography (and old)  on the hydrogen production or even on ammonia production  : Ullman Encylopedy
+
+[View](post/What_is_the_current_state_of_the_art_of_hydrogen_supply_via_methane_decomposition_regarding_energy_recovery_EROI_ergonomics_and_economics)
+
+- 0 Recommendations
+
+[![Carolyn Mcgibbon](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Carolyn-Mcgibbon-2)
+
+[Carolyn Mcgibbon](profile/Carolyn-Mcgibbon-2)
+
+- asked a question related to Carbon Footprint
+
+[How can carbon footrprinting be integrated into the curriculum?](post/How_can_carbon_footrprinting_be_integrated_into_the_curriculum)
+
+Question
+
+18 answers
+
+- 18 Sept 2015
+
+We are working on integrating carbon footprinting into the Information Systems curriculum at the University of Cape Town in South Africa, and keen to hear about other initiatives elsewhere in the world.
+
+Relevant answer
+
+[![Zainura Zainon Noor](https://i1.rgstatic.net/ii/profile.image/273712565977095-1442269569508_Q64/Zainura-Zainon-Noor.jpg)](profile/Zainura-Zainon-Noor)
+
+[Zainura Zainon Noor](profile/Zainura-Zainon-Noor)
+
+- 21 Sept 2015
+
+Answer
+
+I taught the concept as part of environmentally-related I was teaching by introducing  defining it first and then move on to a few case study I conducted myself (as I did a lot of projects on carbon reporting and accounting for companies/agencies). I would say in  teaching about carbon footprint, the essential matter is to emphasise on the importance of knowing the footprint or baseline for that matter for any actions to manage and reduce can be taken from there.
+
+[View](post/How_can_carbon_footrprinting_be_integrated_into_the_curriculum)
+
+- 4 Recommendations
+
+[![Alejandro Gallego Schmid](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Alejandro-Gallego-Schmid)
+
+[Alejandro Gallego Schmid](profile/Alejandro-Gallego-Schmid)
+
+- asked a question related to Carbon Footprint
+
+[Does anyone have electric production profile predictions for 2020 for Poland, France and Austria?](post/Does-anyone-have-electric-production-profile-predictions-for-2020-for-Poland-France-and-Austria)
+
+Question
+
+9 answers
+
+- 9 Mar 2015
+
+I’m looking for electric production profile predictions for 2020 (% of coal, natural gas, wind, solar, etc….) for some specific European countries (Poland, France and Austria).
+
+If predictions from other European Union countries with high % of hydroelectric (like Austria), fossil fuels (Poland) or nuclear (like France) for 2020 are available, I will appreciate them also.
+
+Many thanks in advance
+
+Kind regards
+
+Relevant answer
+
+[![Yuri Yegorov](https://i1.rgstatic.net/ii/profile.image/272512575602710-1441983470316_Q64/Yuri-Yegorov.jpg)](profile/Yuri-Yegorov)
+
+[Yuri Yegorov](profile/Yuri-Yegorov)
+
+- 16 Jul 2015
+
+Answer
+
+I think that exact number are difficult to get because thy depend on the scenario.
+
+International Energy Agency in its World Energy Outlook 2014 suggests several scenarios for electricity production in 2020 in OECD Europe. The values are in Mtoe.
+
+In 450 scenario there will be: coal 176, oil 11, gas 137, nuclear 224, hydro 51, bioenergy 68, other renewables 63.
+
+In current policies scenarios there will be more coal (209) and gas (147).
+
+You may find current country data in Eurostat but I do not know where to find forecast for those countries. I would use current composition and the trend suggested by IAE to figure out that.
+
+[View](post/Does-anyone-have-electric-production-profile-predictions-for-2020-for-Poland-France-and-Austria)
+
+- 10 Recommendations
+
+[![Mohammad Yousefi](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Mohammad-Yousefi-3)
+
+[Mohammad Yousefi](profile/Mohammad-Yousefi-3)
+
+- asked a question related to Carbon Footprint
+
+[How do you calculate the Carbon footprint for agricultural production? For example, in wheat production.](post/How-do-you-calculate-the-Carbon-footprint-for-agricultural-production-For-example-in-wheat-production)
+
+Question
+
+11 answers
+
+- 3 Jan 2015
+
+How do you calculate the Carbon footprint for agricultural production, For example, in wheat production?
+
+Relevant answer
+
+[![Rico Hübner](https://i1.rgstatic.net/ii/profile.image/766751390326785-1559819185850_Q64/Rico-Huebner-2.jpg)](profile/Rico-Huebner-2)
+
+[Rico Hübner](profile/Rico-Huebner-2)
+
+- 6 Jul 2015
+
+Answer
+
+THANX Ali!
+
+[View](post/How-do-you-calculate-the-Carbon-footprint-for-agricultural-production-For-example-in-wheat-production)
+
+- 12 Recommendations
+
+[![Yudhish Rohee](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Yudhish-Rohee)
+
+[Yudhish Rohee](profile/Yudhish-Rohee)
+
+- asked a question related to Carbon Footprint
+
+[Is there any way of calculating embodied carbon related to SIDS countries?](post/is_there_any_way_of_calculating_embodied_carbon_related_to_SIDS_countries)
+
+Question
+
+3 answers
+
+- 22 May 2015
+
+I want to know if there exist a methodology for calculating embodied carbon in a tropical SIDs country, that takes into account all the aspects
+
+Relevant answer
+
+[![Vanessa Meloni Massara](https://i1.rgstatic.net/ii/profile.image/11431281280045794-1727289415679_Q64/Vanessa-Massara.jpg)](profile/Vanessa-Massara)
+
+[Vanessa Meloni Massara](profile/Vanessa-Massara)
+
+- 24 May 2015
+
+Answer
+
+Dear Yudhish,
+
+There are 2 good books about:
+
+**Trade, climate change and sustainable development: key issues for small states, least developed countries and vulnerable economies** Prevention web, 2010
+
+by Moustapha Gueye,Malena Sell,Janet R. Strachan
+
+and,
+
+**Carbon Markets or Climate Finance?: Low Carbon and Adaptation Investment Choices for the Developing World** Paperback, 2013
+
+by Axel Michaelowa
+
+Best Regards,
+
+Vanessa
+
+[View](post/is_there_any_way_of_calculating_embodied_carbon_related_to_SIDS_countries)
+
+- 9 Recommendations
+
+[![FC Prinsloo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Fc-Prinsloo)
+
+[FC Prinsloo](profile/Fc-Prinsloo)
+
+- asked a question related to Carbon Footprint
+
+[On water evaporation control, anyone aware of studies/reports on evaporation rates for floating solar platforms, solar water blanket or water covers ?](post/On_water_evaporation_control_anyone_aware_of_studies_reports_on_evaporation_rates_for_floating_solar_platforms_solar_water_blanket_or_water_covers2)
+
+Question
+
+17 answers
+
+- 19 May 2015
+
+Conducting environmental impact research on cleantech floating solar photovoltaic systems (FPV or FSPV) for sustainable agriculture at vineyards and wineries, in particular water savings in terms of water preservation and evaporation reduction due to installation of over water  floating solar systems on lakes, dams, irrigation ponds reservoirs, agricultural and mining ponds, hydroelectric reservoirs and canals.
+
+Would really appreciate links to reports where evaporation rates had been monitored or measured, or forecasted with mathematical modelling or environmental monitoring models are used to model or predict water evaporation rates of floatovoltaics on irrigation ponds or rivers or water canals.
+
+Formulas for calculating evaporation rates from weather station data for planned floatovoltaic installations would be most helpful, especially if related to water savings in hydropower hybrid floatovoltaic installations on irrigation dams lakes or reservoirs.
+
+Link to related paper and question:
+
+Article [Sustainability Assessment Framework and Methodology with Tra...](publication/353718769_Sustainability_Assessment_Framework_and_Methodology_with_Trans-disciplinary_Numerical_Simulation_Model_for_Analytical_Floatovoltaic_and_Floating_PV_Energy_System_Planning_Assessments)
+
+.
+
+[https://www.researchgate.net/post/Water\_evaporation\_model\_for\_floating\_photovoltaic\_system\_covers\_in\_reservoir\_installations\_estimating\_evaporation\_rates\_in\_litres\_hour\_or\_mm\_hour](https://www.researchgate.net/post/Water_evaporation_model_for_floating_photovoltaic_system_covers_in_reservoir_installations_estimating_evaporation_rates_in_litres_hour_or_mm_hour)
+
+Relevant answer
+
+[![Negin Minaei](https://i1.rgstatic.net/ii/profile.image/11431281174094739-1689136939607_Q64/Negin-Minaei.jpg)](profile/Negin-Minaei)
+
+[Negin Minaei](profile/Negin-Minaei)
+
+- 24 May 2015
+
+Answer
+
+You may find this project interesting, Roots Up's Dew Collector greenhouse provides veggies and water in Ethiopia
+
+[http://inhabitat.com/roots-ups-dew-collector-greenhouse-provides-veggies-and-water-in-ethiopia/](https://www.researchgate.net/deref/http%3A%2F%2Finhabitat.com%2Froots-ups-dew-collector-greenhouse-provides-veggies-and-water-in-ethiopia%2F)
+
+[View](post/On_water_evaporation_control_anyone_aware_of_studies_reports_on_evaporation_rates_for_floating_solar_platforms_solar_water_blanket_or_water_covers2)
+
+- 39 Recommendations
+
+[![Frederic Andres](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Frederic-Andres)
+
+[Frederic Andres](profile/Frederic-Andres)
+
+- asked a question related to Carbon Footprint
+
+[How do eGovernment services contribute to carbon footprint savings?](post/How-do-eGovernment-services-contribute-to-carbon-footprint-savings)
+
+Question
+
+3 answers
+
+- 12 Jun 2013
+
+What are the key indicators and targets that should be utilised to measure those contributions ?
+
+Relevant answer
+
+[![Frederic Andres](https://i1.rgstatic.net/ii/profile.image/910924760248322-1594192795759_Q64/Frederic-Andres.jpg)](profile/Frederic-Andres)
+
+[Frederic Andres](profile/Frederic-Andres)
+
+- 22 May 2015
+
+Answer
+
+Obrigado. could we develop a benchmark to assess eGovernment services  ?
+
+[View](post/How-do-eGovernment-services-contribute-to-carbon-footprint-savings)
+
+- 10 Recommendations
+
+[![Karim Maraqa](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Karim-Maraqa)
+
+[Karim Maraqa](profile/Karim-Maraqa)
+
+- asked a question related to Carbon Footprint
+
+[How are hydrocarbons (specifically isooctane) packaged?](post/How_are_hydrocarbons_specifically_isooctane_packaged)
+
+Question
+
+2 answers
+
+- 19 Apr 2015
+
+I am currently working on my design project and using Ccalc to determine the environmental impact that my process has. I need to know whether hydrocarbons of this sort are put into metal containers or barrels made of other materials. Please give me as much info as possible.
+
+Thanks in advance.
+
+Relevant answer
+
+[![Karim Maraqa](https://i1.rgstatic.net/ii/profile.image/279559082659840-1443663487057_Q64/Karim-Maraqa.jpg)](profile/Karim-Maraqa)
+
+[Karim Maraqa](profile/Karim-Maraqa)
+
+- 26 Apr 2015
+
+Answer
+
+@Hamida, Thank you very much. I've now figured it out and fund it in the Ccalc database.
+
+[View](post/How_are_hydrocarbons_specifically_isooctane_packaged)
+
+- 4 Recommendations
+
+[![Giok P Chua](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Giok-Chua)
+
+[Giok P Chua](profile/Giok-Chua)
+
+- asked a question related to Carbon Footprint
+
+[How can I calculate the water & fertilizer carbon footprint savings in cereal crops?](post/How-can-I-calculate-the-water-fertilizer-carbon-footprint-savings-in-cereal-crops)
+
+Question
+
+1 answer
+
+- 3 Apr 2015
+
+Theoretical Case for Analysis
+
+Assuming we need only 1% of the water use vs 100% for Rice Growing
+
+What will the 2014 total water Savings be?
+
+How much in terms of energy to irrigated the land?
+
+If we use 100% Organic instead of chemical fertilizer, how much is the global saving in cost + CO2
+
+Assuming no tilling and no flooding of the rice fields
+
+What other benefits could be achieved with this Organic Farming methods
+
+Relevant answer
+
+[![K. KANDIANNAN](https://i1.rgstatic.net/ii/profile.image/272195637215248-1441907905548_Q64/K-Kandiannan.jpg)](profile/K-Kandiannan)
+
+[K. KANDIANNAN](profile/K-Kandiannan)
+
+- 21 Apr 2015
+
+Answer
+
+Pl refer
+
+M. M. Mekonnen and A. Y. Hoekstra 2011. The green, blue and grey water footprint of crops and derived crop products.
+
+Hydrol. Earth Syst. Sci., 15, 1577–1600, 2011
+
+[www.hydrol-earth-syst-sci.net/15/1577/2011/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.hydrol-earth-syst-sci.net%2F15%2F1577%2F2011%2F)
+
+doi:10.5194/hess-15-1577-2011
+
+[View](post/How-can-I-calculate-the-water-fertilizer-carbon-footprint-savings-in-cereal-crops)
+
+- 0 Recommendations
+
+[![Kasanda Bunda](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Kasanda-Bunda)
+
+[Kasanda Bunda](profile/Kasanda-Bunda)
+
+- asked a question related to Carbon Footprint
+
+[How effective is carbon emission surtax in motor vehicles in mitigating climate change?](post/How_effective_is_carbon_emission_surtax_in_motor_vehicles_in_mitigating_climate_change)
+
+Question
+
+1 answer
+
+- 6 Feb 2013
+
+I am looking for research articles or any write-ups on the subject of ‘Effectiveness of Carbon Emission Surtax in Mitigating Climate Change’ to help better shape my research proposal on this subject matter.
+
+Relevant answer
+
+[![Boris Winterhalter](https://i1.rgstatic.net/ii/profile.image/272167250165813-1441901137484_Q64/Boris-Winterhalter.jpg)](profile/Boris-Winterhalter)
+
+[Boris Winterhalter](profile/Boris-Winterhalter)
+
+- 9 Feb 2015
+
+Answer
+
+The addition of a surtax to traffic fuels is just one of many means for governments to tax  people. If the tax is sufficiently high it may lower the consumption of automotive fuels and hence maybe improve the quality of air in congested urban areas, and thus have a positive effect on general health conditions.
+
+However, its biggest effect will be in impoverishing many citizens who rely on affordable fuel in their everyday life.  Regarding global climate this will have no or negligible affect, because an increase in emissions of carbon dioxide, will not have any appreciable effect on either regional nor global climate. CO2 is NOT the main climate driver - the SUN is!
+
+[View](post/How_effective_is_carbon_emission_surtax_in_motor_vehicles_in_mitigating_climate_change)
+
+- 0 Recommendations
+
+[![FC Prinsloo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Fc-Prinsloo)
+
+[FC Prinsloo](profile/Fc-Prinsloo)
+
+- asked a question related to Carbon Footprint
+
+[Any impact assesment studies available on carbon footprint implications for floatovoltaics or floating solar systems in vineyards for wineries ?](post/Any_impact_assesment_studies_available_on_carbon_footprint_implications_for_floatovoltaics_or_floating_solar_systems_in_vineyards_for_wineries)
+
+Question
+
+10 answers
+
+- 21 Jan 2015
+
+Impact assessment research on the techno-economic and enviro-economic implications of floating photovoltaic systems for wineries and vineyards (dam, lakes, canal, pond) are often characterized by interlinked complexities (see reference below). In these Floatovoltaic systems, photovoltaic solar panels can be mounted on floating pontoons on the winery's vineyard irrigation pond or irrigation dam to save land-space (Resilient Agriculture, Sustainable Agriculture and Sustainable Farming). I'm specifically interested in finding research reports that illustrate carbon footprint impact in international projects (even outside winelands applications) on floating renewable energy systems (RES) if anyone could share (including evaporation control and algal growth control)  #floatingsolar  #floatovoltaics #floatingrenewables.
+
+Reference:
+
+Article [Sustainability Assessment Framework and Methodology with Tra...](publication/353718769_Sustainability_Assessment_Framework_and_Methodology_with_Trans-disciplinary_Numerical_Simulation_Model_for_Analytical_Floatovoltaic_and_Floating_PV_Energy_System_Planning_Assessments)
+
+Relevant answer
+
+[![Santosh Krishnatrao Deshmukh](https://i1.rgstatic.net/ii/profile.image/279324667203589-1443607598185_Q64/Santosh-Deshmukh.jpg)](profile/Santosh-Deshmukh)
+
+[Santosh Krishnatrao Deshmukh](profile/Santosh-Deshmukh)
+
+- 29 Jan 2015
+
+Answer
+
+Dear Sir,
+
+You can use LCA approach..
+
+Right from the production of PV Cell, Aluminum/ Steel Frames, Electrical eqiup./ Electronics used., and other accessories..
+
+if you bring this electronics system to any factory gate then,
+
+for fabrication of this in factory it required 173 watt for producing a Solar PV system of 1 watt capacity, which can produce this power in 34 days when it is installed....
+
+now  for minor things of we calculate . GRR (Green Rate of Return) will be around 60-70 days in total..
+
+means, Solar PV can produce more power or emit less in its life cycle.
+
+thanks
+
+[View](post/Any_impact_assesment_studies_available_on_carbon_footprint_implications_for_floatovoltaics_or_floating_solar_systems_in_vineyards_for_wineries)
+
+- 60 Recommendations
+
+[![Gyem Dorji](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gyem-Dorji)
+
+[Gyem Dorji](profile/Gyem-Dorji)
+
+- asked a question related to Carbon Footprint
+
+[Anyone know of articles on carbon footprint for sand mining dredging in seabed?](post/Anyone-know-of-articles-on-carbon-footprint-for-sand-mining-dredging-in-seabed)
+
+Question
+
+7 answers
+
+- 20 Jan 2015
+
+Could anyone suggest me the source and best site for the information?
+
+Location-north sea
+
+Particularly Voordelta sea
+
+Relevant answer
+
+[![Maarten F. de Jong](https://i1.rgstatic.net/ii/profile.image/1178855389835264-1658072435012_Q64/Maarten-De-Jong-4.jpg)](profile/Maarten-De-Jong-4)
+
+[Maarten F. de Jong](profile/Maarten-De-Jong-4)
+
+- 24 Jan 2015
+
+Answer
+
+I think you are looking for other reports, more on the carbon footprint right?
+
+I couldn't find the report in first instance but I think I found more appropriate reports, the language however is Dutch...
+
+What are you working on, maybe I can help you. I'm investigating the ecological effects of large-scale and deep sand extraction on the NCS.
+
+Article [Impact on demersal fish of a large-scale and deep sand extra...](publication/262601440_Impact_on_demersal_fish_of_a_large-scale_and_deep_sand_extraction_site_with_ecosystem-based_landscaped_sandbars)
+
+- [Blueconomy - Financiele uitwerking zandwinstrategie - prijsopbouw van belangen\_8\\
+\\
+04.pdf](profile/Maarten-De-Jong-4/post/Anyone-know-of-articles-on-carbon-footprint-for-sand-mining-dredging-in-seabed/attachment/59d64452c49f478072eac920/AS%3A273681773727757%401442262227499/download/Blueconomy+-+Financiele+uitwerking+zandwinstrategie+-+prijsopbouw+van+belangen_804.pdf) 9.72 MB
+
+[View](post/Anyone-know-of-articles-on-carbon-footprint-for-sand-mining-dredging-in-seabed)
+
+- 6 Recommendations
+
+[![Raja Shazrin Shah Raja Ehsan Shah](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Raja-Shazrin-Shah-Raja-Ehsan-Shah)
+
+[Raja Shazrin Shah Raja Ehsan Shah](profile/Raja-Shazrin-Shah-Raja-Ehsan-Shah)
+
+- asked a question related to Carbon Footprint
+
+[What is the emission factor used to estimate carbon footprint for solid waste?](post/What-is-the-emission-factor-used-to-estimate-carbon-footprint-for-solid-waste)
+
+Question
+
+3 answers
+
+- 11 Nov 2014
+
+Fate of solid waste:
+
+1) For landfil.
+
+2) For incineration.
+
+Relevant answer
+
+[![Philippe Pernstich](https://i1.rgstatic.net/ii/profile.image/272217854443522-1441913202094_Q64/Philippe-Pernstich.jpg)](profile/Philippe-Pernstich)
+
+[Philippe Pernstich](profile/Philippe-Pernstich)
+
+- 14 Nov 2014
+
+Answer
+
+The emissions will depend on a number of factors including the composition of the waste, climate, landfill conditions and methane capture. The IPCC ( [http://www.ipcc-nggip.iges.or.jp/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.ipcc-nggip.iges.or.jp%2F)) provides the methodology and also an Excel tool to calculate emissions, although this is more aimed at total national waste emissions.
+
+For incineration, the main question is whether there is any energy recovery, in which case the emissions are attributed to the energy, rather than the waste.
+
+[View](post/What-is-the-emission-factor-used-to-estimate-carbon-footprint-for-solid-waste)
+
+- 5 Recommendations
+
+[![Afizah Ayob](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Afizah-Ayob)
+
+[Afizah Ayob](profile/Afizah-Ayob)
+
+- asked a question related to Carbon Footprint
+
+[Can anyone help with life cycle impact assessment in the construction industry?](post/Can_anyone_help_with_life_cycle_impact_assessment_in_the_construction_industry)
+
+Question
+
+4 answers
+
+- 23 Apr 2014
+
+Looking for an expert in carbon footprint of building material.
+
+Relevant answer
+
+[![Sadiq Ali](https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg)](profile/Sadiq-Ali-5)
+
+[Sadiq Ali](profile/Sadiq-Ali-5)
+
+- 1 Oct 2014
+
+Answer
+
+Life cycle impact assessment of buildings with respect to carbon footprint is the scope or canvas that harnesses the production of carbon footprint from the extraction of that material from the ore to manufacturing, delivery (transportation), fabrication to use (if a labor uses a machines to fix or fit the product and uses energy that has been produced from fossil fuel, performance during  its useful life, demolition, disposal (return to disposal area including transportation) and any natural or artificial reaction that may cause a carbon footprint; all the activities will be included in the question asked.
+
+This will require a carbon footprint flowchart to calculate the impact on each stage and of each and every product, activity and embodied carbon of the machines that have been used to construct that building.
+
+Obviously, many theses can be written on each and many other aspects that I may have overlooked.
+
+[View](post/Can_anyone_help_with_life_cycle_impact_assessment_in_the_construction_industry)
+
+- 10 Recommendations
+
+[![FC Prinsloo](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Fc-Prinsloo)
+
+[FC Prinsloo](profile/Fc-Prinsloo)
+
+- asked a question related to Carbon Footprint
+
+[Is anyone aware of studies investigating methane clathrate formations around South Africa?](post/Is-anyone-aware-of-studies-investigating-methane-clathrate-formations-around-South-Africa)
+
+Question
+
+4 answers
+
+- 12 Jun 2014
+
+Potential environmental impact and climate change risk.
+
+Relevant answer
+
+[![Gustavo Garzon](https://i1.rgstatic.net/ii/profile.image/11431281220432413-1706405898847_Q64/Gustavo-Garzon.jpg)](profile/Gustavo-Garzon)
+
+[Gustavo Garzon](profile/Gustavo-Garzon)
+
+- 15 Jul 2014
+
+Answer
+
+Dear FC:  using RG platform ask for Rolando di Primio scientific papers in this interested for you theme.
+
+[View](post/Is-anyone-aware-of-studies-investigating-methane-clathrate-formations-around-South-Africa)
+
+- 27 Recommendations
+
+[![Choen Krainara](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Choen-Krainara)
+
+[Choen Krainara](profile/Choen-Krainara)
+
+- asked a question related to Carbon Footprint
+
+[What is a carbon footprint? And what are its implications for mitigation and adaptation to climate change?](post/What-is-a-carbon-footprint-And-what-are-its-implications-for-mitigation-and-adaptation-to-climate-change)
+
+Question
+
+5 answers
+
+- 11 May 2014
+
+Mitigation and adaptation to climate change.
+
+Relevant answer
+
+[![Rogerio Maestri](https://i1.rgstatic.net/ii/profile.image/276948279414786-1443041023657_Q64/Rogerio-Maestri.jpg)](profile/Rogerio-Maestri)
+
+[Rogerio Maestri](profile/Rogerio-Maestri)
+
+- 8 Jun 2014
+
+Answer
+
+Theoretically the carbon footprint would indicate the ability of a country or region to live sustainably ad infinitum.
+
+.
+
+However the carbon footprint (or ecological footprint) is an index that alone says nothing, or worse is an index that while others celebrate because Haitians, Pakistanis or has a carbon footprint much smaller than the Americans and Danes. However Haitians and Pakistanis may wish to have a high carbon footprint.
+
+.
+
+I consider that the mere quantification of carbon footprint as sustainability index is a real nonsense, because it is an index that is strongly correlated with the GDR per capita than anything else. (countries with higher Carbon footprint: United Arab Emirates, Qatar, Denmark, United States of America, Belgium, Estonia, Canada, Australia, Kuwait - countries with lower Carbon footprint: Bangladesh, Afghanistan, Haiti, Malawi, Democratic Republic of Congo, Pakistan , Mozambique, Eritrea, Burundi 2010 data), and how countries with lower carbon present current conditions of high infant mortality rate, diseases and poor quality of life, they now live under conditions of sustainability!
+
+.
+
+Calculating the Carbon footprint is coordinated by a team of researchers from countries belonging to the OECD ( [http://www.footprintnetwork.org/en/index.php/GFN/page/our\_team/](https://www.researchgate.net/deref/http%3A%2F%2Fwww.footprintnetwork.org%2Fen%2Findex.php%2FGFN%2Fpage%2Four_team%2F)) and the calculation method are established by groups of same origin through standards and methodologies established by the same ( [http://www.footprintnetwork.org/images/uploads/Ecological\_Footprint\_Standards\_2009.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fwww.footprintnetwork.org%2Fimages%2Fuploads%2FEcological_Footprint_Standards_2009.pdf) and [http://www.footprintnetwork.org/images/uploads/National\_Footprint\_Accounts\_Method\_Paper\_2010.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fwww.footprintnetwork.org%2Fimages%2Fuploads%2FNational_Footprint_Accounts_Method_Paper_2010.pdf)).
+
+.
+
+[View](post/What-is-a-carbon-footprint-And-what-are-its-implications-for-mitigation-and-adaptation-to-climate-change)
+
+- 5 Recommendations
+
+[![Jennifer Monahan](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Jennifer-Monahan-2)
+
+[Jennifer Monahan](profile/Jennifer-Monahan-2)
+
+- asked a question related to Carbon Footprint
+
+[Can anyone suggest a reference for freight vehicles primary energy factors on a tonne per km basis?](post/Can-anyone-suggest-a-reference-for-freight-vehicles-primary-energy-factors-on-a-tonne-per-km-basis)
+
+Question
+
+3 answers
+
+- 23 May 2014
+
+Can anyone suggest a source reference for vehicle primary energy conversion factors for freight (road and shipping) on a tonne per km basis (MJ / [t.km](https://www.researchgate.net/deref/http%3A%2F%2Ft.km))?
+
+Relevant answer
+
+[![Raghu KC](https://i1.rgstatic.net/ii/profile.image/963542693986342-1606737888696_Q64/Raghu-Kc-2.jpg)](profile/Raghu-Kc-2)
+
+[Raghu KC](profile/Raghu-Kc-2)
+
+- 3 Jun 2014
+
+Answer
+
+Check
+
+[http://lipasto.vtt.fi/indexe.htm](https://www.researchgate.net/deref/http%3A%2F%2Flipasto.vtt.fi%2Findexe.htm)
+
+[View](post/Can-anyone-suggest-a-reference-for-freight-vehicles-primary-energy-factors-on-a-tonne-per-km-basis)
+
+- 0 Recommendations
+
+[![Golam Kibria](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Golam-Kibria)
+
+[Golam Kibria](profile/Golam-Kibria)
+
+- asked a question related to Carbon Footprint
+
+[How cities will achieve better environmental performance in terms of carbon pollution and water pollution loads in the coming years?](post/How-cities-will-achieve-better-environmental-performance-in-terms-of-carbon-pollution-and-water-pollution-loads-in-the-coming-years)
+
+Question
+
+35 answers
+
+- 29 Apr 2014
+
+Cities play an important role in social and economic activities. Cities generally perform poorly in terms of environmental performance (compared to social and economic activities). One of the main reasons behind this poor environmental performance appears to be due to population pressure and its impacts on the environment. Currently, about 50% population live in cities which is projected to rise in the coming years (by 2050 it could 6 out of 10 people will live in cities). Most of world megacities (> 10 million people) are in developing countries (e.g. Guangzhou, Shanghai, Jakarta, Seoul, Delhi, Mexico, Karachi, Manila, Sao Paulo, Mumbai, Beijing, Moscow, Dhaka, Cairo, Kolkata, Buenos Aires, Bangkok, Istanbul, Lagos, Tehran, Rio de Janeiro, Shenzhen and Tanjin) and few are in developed countries (Tokyo, New York, Los Angeles, Osaka, London, Rhine-Ruhr, Paris). The dense population in cities generate huge volume of solid and soluble wastes, the demand for electricity, water and traffic in cities will cause significant carbon footprints and water footprints. What measures would be needed so that cities remain a healthy place to live on in terms of managing carbon pollution and water pollution in the future?
+
+Relevant answer
+
+[![Herbert Gratzl](https://i1.rgstatic.net/ii/profile.image/498260175486976-1495805891938_Q64/Herbert-Gratzl.jpg)](profile/Herbert-Gratzl)
+
+[Herbert Gratzl](profile/Herbert-Gratzl)
+
+- 5 May 2014
+
+Answer
+
+Dear Rogerio,
+
+it is also my opinion, that the agriculture in industrial countries is not social and not sustainable , therefore I cited the tiny group of organic farmers who are often opposed and get difficulties.
+
+The western lifestyle uses resources of more than one planet.
+
+Moreover, cities perform badly in many repects.
+
+Nearly half the world population are small farmers mainly in Asia and Africa. Education and health services for them are more difficult to establish, but not impossible and need not increase the low GHG emissions in these countries.
+
+The Global Report (Agriculture at the Crossroads) critisizes inappropriate policy interventions, socioeconomic exclusion and the failure to address the real needs of poor people, recommending agro-ecological small-scalle farming, balancing beetwen economy and ecology - scaling up socially and environmentally sustainable practices.
+
+Large cities are also more vulnerable, if the supply should be interrupted.
+
+Their rapid growth is not well planned. Why not favor cities of more moderate extension ?
+
+If cities are planned completely, they may perform perfectly for a while ecologically, but only for the period of time, where the planning conditions are not changed to much.
+
+Thus, many aspects are important - also the balance between a sufficient size of the population and the impact on the environment.
+
+[View](post/How-cities-will-achieve-better-environmental-performance-in-terms-of-carbon-pollution-and-water-pollution-loads-in-the-coming-years)
+
+- 20 Recommendations
+
+[![Pier Paolo Danieli](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Pier-Paolo-Danieli)
+
+[Pier Paolo Danieli](profile/Pier-Paolo-Danieli)
+
+- asked a question related to Carbon Footprint
+
+[Does anyone have experience with the Life Cycle Impact Assessment with GABI?](post/Does_anyone_have_experience_with_the_Life_Cycle_Impact_Assessment_with_GABI)
+
+Question
+
+4 answers
+
+- 19 Aug 2013
+
+I am dealing with LCA in the agro-food sector. I found an educational version of the GABI software but in the downloaded database some processes are not included. I found some processes of interest (e.g., baley seed IP at farm) in Ecoinvent 2.0 database but when I try to import and use the relevant Ecospold XML files into GABI these processes were not included in the automated procedure for performing LCIA.
+
+Has any one some suggestions about that? How can I use the Ecospold files?
+
+In the attachment you can see a simulated plan.
+
+- [simula gabi\\
+\_1.pdf](profile/Pier-Paolo-Danieli/post/Does_anyone_have_experience_with_the_Life_Cycle_Impact_Assessment_with_GABI/attachment/59d61dba6cda7b8083a16ca6/AS%3A272138810920960%401441894356024/download/simula+gabi_1.pdf) 247 kB
+
+Relevant answer
+
+[![Maria Lisa Clodoveo](https://i1.rgstatic.net/ii/profile.image/446378586447874-1483436356388_Q64/Maria-Clodoveo.jpg)](profile/Maria-Clodoveo)
+
+[Maria Lisa Clodoveo](profile/Maria-Clodoveo)
+
+- 5 Mar 2014
+
+Answer
+
+Did you read this review paper?
+
+- [Review of methods addressing freshwater use in life cyc\\
+\\
+le.pdf](profile/Maria-Clodoveo/post/Does_anyone_have_experience_with_the_Life_Cycle_Impact_Assessment_with_GABI/attachment/59d61dba79197b8077979aca/AS%3A272534619000841%401441988724895/download/Review+of+methods+addressing+freshwater+use+in+life+cycle.pdf) 659 kB
+
+[View](post/Does_anyone_have_experience_with_the_Life_Cycle_Impact_Assessment_with_GABI)
+
+- 5 Recommendations
+
+[![Cheng-ying Lin](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Cheng-Ying-Lin)
+
+[Cheng-ying Lin](profile/Cheng-Ying-Lin)
+
+- asked a question related to Carbon Footprint
+
+[Where can I get Life-Cycle assessment database of natural rubber?](post/Where-can-I-get-Life-Cycle-assessment-database-of-natural-rubber)
+
+Question
+
+3 answers
+
+- 14 Jan 2014
+
+I have a study of Life-cycle assessment about natural rubber, so need database of natural rubber, scope of this study is Cradle to the Gate.
+
+I had tried to search the database on ecoinvent and SimaPro, but they only have "natural rubber based sealing" this one, or should I try to do study by material flow?
+
+Relevant answer
+
+[![John K Davis](https://i1.rgstatic.net/ii/profile.image/272674349907972-1442022039110_Q64/John-Davis-80.jpg)](profile/John-Davis-80)
+
+[John K Davis](profile/John-Davis-80)
+
+- 30 Jan 2014
+
+Answer
+
+Perhaps your inquiry needs to be re-framed? natural rubber is a substance at the cradle. it will enter many different "life cycles" in the industries which use it. so the task becomes almost impossible to execute. to start with natural rubber is to open up a life-web, rather than a cycle. Perhaps it would be good to start with a major manufactured use of natural rubber. If the biggest use is in tyres, perhaps that would be a useful case to examine.
+
+[View](post/Where-can-I-get-Life-Cycle-assessment-database-of-natural-rubber)
+
+- 0 Recommendations
+
+[![Victor Manuel Hernández Lizárraga](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Victor-Hernandez-Lizarraga)
+
+[Victor Manuel Hernández Lizárraga](profile/Victor-Hernandez-Lizarraga)
+
+- asked a question related to Carbon Footprint
+
+[Does anyone know of a source of data to study the issue of CO2 emission, global warming, extreme weather conditions and deaths?](post/Does_anyone_know_of_a_source_of_data_to_study_the_issue_of_CO2_emission_global_warming_extreme_weather_conditions_and_deaths)
+
+Question
+
+2 answers
+
+- 8 Nov 2013
+
+I am afraid there is no data focused on this theme in what I am interested: deaths as consequences of the carbon footprint.
+
+Article [Carbono, Calentamiento y Mortandad Globales](publication/258210250_Carbono_Calentamiento_y_Mortandad_Globales)
+
+Relevant answer
+
+[![Frances Moore](https://i1.rgstatic.net/ii/profile.image/277075639455768-1443071388681_Q64/Frances-Moore-3.jpg)](profile/Frances-Moore-3)
+
+[Frances Moore](profile/Frances-Moore-3)
+
+- 6 Jan 2014
+
+Answer
+
+Hi Victor,
+
+A source for natural disaster information are the databases maintained by the reinsurances companies MunichRe and SwissRe:
+
+[http://www.munichre.com/en/reinsurance/business/non-life/georisks/natcatservice/default.aspx](https://www.researchgate.net/deref/http%3A%2F%2Fwww.munichre.com%2Fen%2Freinsurance%2Fbusiness%2Fnon-life%2Fgeorisks%2Fnatcatservice%2Fdefault.aspx)
+
+[http://www.swissre.com/clients/client\_tools/about\_catnet.html](https://www.researchgate.net/deref/http%3A%2F%2Fwww.swissre.com%2Fclients%2Fclient_tools%2Fabout_catnet.html)
+
+CO2 emissions data you can get from the World Resources Institute Earthtrends database and temperature data from a number of sources such as University of Delaware:
+
+[http://climate.geog.udel.edu/~climate/](https://www.researchgate.net/deref/http%3A%2F%2Fclimate.geog.udel.edu%2F~climate%2F)
+
+Hope this is helpful.
+
+Best,
+
+Fran
+
+[View](post/Does_anyone_know_of_a_source_of_data_to_study_the_issue_of_CO2_emission_global_warming_extreme_weather_conditions_and_deaths)
+
+- 4 Recommendations
+
+[![Dr Ahmed AbdelMonteleb Mohammed Ali](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Dr-Ahmed-Ali)
+
+[Dr Ahmed AbdelMonteleb Mohammed Ali](profile/Dr-Ahmed-Ali)
+
+- asked a question related to Carbon Footprint
+
+[I need to use the Energy Input-Output Analysis approach to calculate CO2 emissions from building LCA in Egypt. Could anyone help me for this subject?](post/I-need-to-use-the-Energy-Input-Output-Analysis-approach-to-calculate-CO2-emissions-from-building-LCA-in-Egypt-Could-anyone-help-me-for-this-subject)
+
+Question
+
+9 answers
+
+- 5 Dec 2013
+
+Energy Input-Output Analysis
+
+Relevant answer
+
+[![Benyamin Khoshnevisan](https://i1.rgstatic.net/ii/profile.image/1026531501539329-1621755590298_Q64/Benyamin-Khoshnevisan.jpg)](profile/Benyamin-Khoshnevisan)
+
+[Benyamin Khoshnevisan](profile/Benyamin-Khoshnevisan)
+
+- 7 Dec 2013
+
+Answer
+
+because it works like a black box. It is a big question whether or not its database completely is trustable and so forth. But forget about this negative aspect of this software. It has been used in different studies. I have also applied it in my several studies.
+
+[View](post/I-need-to-use-the-Energy-Input-Output-Analysis-approach-to-calculate-CO2-emissions-from-building-LCA-in-Egypt-Could-anyone-help-me-for-this-subject)
+
+- 5 Recommendations
+
+[![Dr Ahmed AbdelMonteleb Mohammed Ali](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Dr-Ahmed-Ali)
+
+[Dr Ahmed AbdelMonteleb Mohammed Ali](profile/Dr-Ahmed-Ali)
+
+- asked a question related to Carbon Footprint
+
+[Are ISO standards useful in building life cycle assessment studies?](post/Are_ISO_standards_useful_in_building_life_cycle_assessment_studies)
+
+Question
+
+16 answers
+
+- 28 Nov 2013
+
+I am on the verge of buying ISO standards (14040, 14044 and 14049), and need to ask. I am working on estimating CO2 emissions from Building LCA.
+
+Relevant answer
+
+[![Joost Vogtlander](https://i1.rgstatic.net/ii/profile.image/277150017048584-1443089121524_Q64/Joost-Vogtlander.jpg)](profile/Joost-Vogtlander)
+
+[Joost Vogtlander](profile/Joost-Vogtlander)
+
+- 4 Dec 2013
+
+Answer
+
+Reading this discussion, I have the feeling that the question of Ahmed has not been answered yet. One of the easiest ways to calculate CO2 (equivalent) emissions of a building is to use the data in the excel tables which an be found at [www.ecocostsvalue.com](https://www.researchgate.net/deref/http%3A%2F%2Fwww.ecocostsvalue.com) tab data. The tables contain the kg CO2 euqivalent of materials from cradle to gate, applying LCIs from Ecoinvent and Idemat, calculated by Simapro. For the use phase data for electricity, oil and gas are given as well. the way how to make these "fast track LCA" calculations is explained at the same website
+
+[View](post/Are_ISO_standards_useful_in_building_life_cycle_assessment_studies)
+
+- 10 Recommendations
+
+[![Dr Ahmed AbdelMonteleb Mohammed Ali](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Dr-Ahmed-Ali)
+
+[Dr Ahmed AbdelMonteleb Mohammed Ali](profile/Dr-Ahmed-Ali)
+
+- asked a question related to Carbon Footprint
+
+[Are there mathematical equations/models to calculate CO2 emissions from Building Life Cycle Assessment?](post/Are_there_mathematical_equations_models_to_calculate_CO2_emissions_from_Building_Life_Cycle_Assessment)
+
+Question
+
+2 answers
+
+- 25 Nov 2013
+
+All stages of building LCA.
+
+Relevant answer
+
+[![Dr Ahmed AbdelMonteleb Mohammed Ali](https://i1.rgstatic.net/ii/profile.image/11431281229594087-1710519896268_Q64/Dr-Ahmed-Ali.jpg)](profile/Dr-Ahmed-Ali)
+
+[Dr Ahmed AbdelMonteleb Mohammed Ali](profile/Dr-Ahmed-Ali)
+
+- 27 Nov 2013
+
+Answer
+
+Thanks for your reply:
+
+1- Can it these algorithms from the SimaPro?
+
+2- Which the better (SimaPro or GaBi)?
+
+3- Can i input my Inventory database in Egypt in SimaPro or it is closed to the some countries only?
+
+[View](post/Are_there_mathematical_equations_models_to_calculate_CO2_emissions_from_Building_Life_Cycle_Assessment)
+
+- 0 Recommendations
+
+[![Dr Ahmed AbdelMonteleb Mohammed Ali](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Dr-Ahmed-Ali)
+
+[Dr Ahmed AbdelMonteleb Mohammed Ali](profile/Dr-Ahmed-Ali)
+
+- asked a question related to Carbon Footprint
+
+[Can anyone recommend me a tool to predict carbon emissions from life cycle assessment in Egyptian building?](post/Can-anyone-recommend-me-a-tool-to-predict-carbon-emissions-from-life-cycle-assessment-in-Egyptian-building)
+
+Question
+
+4 answers
+
+- 5 Nov 2013
+
+Life cycle assessment from construction materials and carbon emissions in this cycle.
+
+Relevant answer
+
+[![Henrikke Baumann](https://i1.rgstatic.net/ii/profile.image/903764508692482-1592485658467_Q64/Henrikke-Baumann.jpg)](profile/Henrikke-Baumann)
+
+[Henrikke Baumann](profile/Henrikke-Baumann)
+
+- 8 Nov 2013
+
+Answer
+
+try the free and open source software Open LCA
+
+[http://www.openlca.org](https://www.researchgate.net/deref/http%3A%2F%2Fwww.openlca.org)
+
+[View](post/Can-anyone-recommend-me-a-tool-to-predict-carbon-emissions-from-life-cycle-assessment-in-Egyptian-building)
+
+- 10 Recommendations
+
+[![GR Vallamsetty](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Gr-Vallamsetty)
+
+[GR Vallamsetty](profile/Gr-Vallamsetty)
+
+- asked a question related to Carbon Footprint
+
+[Carbon footprint in Cloud computing?](post/Carbon-footprint-in-Cloud-computing)
+
+Question
+
+7 answers
+
+- 11 Sept 2013
+
+I want to measure the carbon footprint depending upon the policies or methods used in cloud environment. Can anyone suggest on how to start this study and is there any suitable simulator for the purpose?
+
+(CloudSim, GreenCloud,etc did't support this functionality as of my knowledge.) Is there any way out? Kindly suggest.
+
+Relevant answer
+
+[![Benoît Parrein](https://i1.rgstatic.net/ii/profile.image/286181578297344-1445242413288_Q64/Benoit-Parrein.jpg)](profile/Benoit-Parrein)
+
+[Benoît Parrein](profile/Benoit-Parrein)
+
+- 27 Sept 2013
+
+Answer
+
+hello,
+
+the policies of the cloud environment and its implication in the carboon footprint are not always so tenuous from my point. Consider by example distributed file systems (DFS) -that are part of clouds- if you manage infinite number of replications of your files to be fault tolerant you are no more so transparent in the energy consumption.
+
+best
+
+[View](post/Carbon-footprint-in-Cloud-computing)
+
+- 6 Recommendations
+
+[![Frederic Andres](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Frederic-Andres)
+
+[Frederic Andres](profile/Frederic-Andres)
+
+- asked a question related to Carbon Footprint
+
+[Measurement data collection regarding the carbon footprint savings?](post/Measurement-data-collection-regarding-the-carbon-footprint-savings)
+
+Question
+
+2 answers
+
+- 12 Jun 2013
+
+Do public organisations in your country gather measurement data regarding the carbon footprint savings as a result of eGovernment Services? How is this done and what sort of data is collected?
+
+Relevant answer
+
+[![Frederic Andres](https://i1.rgstatic.net/ii/profile.image/910924760248322-1594192795759_Q64/Frederic-Andres.jpg)](profile/Frederic-Andres)
+
+[Frederic Andres](profile/Frederic-Andres)
+
+- 30 Jun 2013
+
+Answer
+
+thank you for the interesting links. I will check the data set.
+
+[View](post/Measurement-data-collection-regarding-the-carbon-footprint-savings)
+
+- 2 Recommendations
+
+[![Florian Glodeanu](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Florian-Glodeanu)
+
+[Florian Glodeanu](profile/Florian-Glodeanu)
+
+- asked a question related to Carbon Footprint
+
+[Do we need nuclear renaissance to help decarbonization?](post/Do_we_need_nuclear_renaissance_to_help_decarbonization)
+
+Question
+
+3 answers
+
+- 18 Apr 2013
+
+The average unit of energy produced today is basically as dirty as it was 20 years ago.
+
+[http://www.iea.org/newsroomandevents/pressreleases/2013/april/name,36789,en.html](https://www.researchgate.net/deref/http%3A%2F%2Fwww.iea.org%2Fnewsroomandevents%2Fpressreleases%2F2013%2Fapril%2Fname%2C36789%2Cen.html)
+
+Relevant answer
+
+[![Adam Szewczyk](https://i1.rgstatic.net/ii/profile.image/272675528507396-1442022320460_Q64/Adam-Szewczyk.jpg)](profile/Adam-Szewczyk)
+
+[Adam Szewczyk](profile/Adam-Szewczyk)
+
+- 26 May 2013
+
+Answer
+
+We have enough energy from the sun and hydro to satisfy our (and our future generation) energy demands. The reason we do not have that is because of very poor infrastructure and very bad energy management. We are at primordial stage as a collective entity. Nuclear physicist should never ever consider themselves energy experts or any other physicists specializing in particular energy technology say geothermal or solar. Energy experts are those who study energy in any (and all) forms that are available and use those with the minimum effort and footprint. Therefore I do not see nuclear technology as energy source to be needed when looking from practical point of view. Regarding your question of renaissance, nuclear technology definitely needs a breakthrough in innovation (not in mass production of reactors) and should be a fusion in form of He-3 = He-3 reaction. It leaves the lowest footprint in terms of radiation and modest amount of energy output when compared to other fusion reaction. Of course, academia must figure out how to make this fusion happen and make it practical and economical.
+
+[View](post/Do_we_need_nuclear_renaissance_to_help_decarbonization)
+
+- 4 Recommendations
+
+[![Leila Tavallali](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Leila-Tavallali)
+
+[Leila Tavallali](profile/Leila-Tavallali)
+
+- asked a question related to Carbon Footprint
+
+[What do you think about the Carbon Market future? Do you think REDD+ and VCS could help at all?](post/What-do-you-think-about-the-Carbon-Market-future-Do-you-think-REDD-and-VCS-could-help-at-all)
+
+Question
+
+4 answers
+
+- 15 May 2013
+
+VCS: Voluntary Carbon Standard
+
+Relevant answer
+
+[![Silvia Lozeva](https://i1.rgstatic.net/ii/profile.image/272583325122587-1442000337925_Q64/Silvia-Lozeva.jpg)](profile/Silvia-Lozeva)
+
+[Silvia Lozeva](profile/Silvia-Lozeva)
+
+- 23 May 2013
+
+Answer
+
+The experiment is on in Australia, where it was introduced last year.
+
+[View](post/What-do-you-think-about-the-Carbon-Market-future-Do-you-think-REDD-and-VCS-could-help-at-all)
+
+- 0 Recommendations
+
+[![Vijay Bhatt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Vijay-Bhatt)
+
+[Vijay Bhatt](profile/Vijay-Bhatt)
+
+- asked a question related to Carbon Footprint
+
+[How to calculate emission (CO2) reduction by Electric Vehicles ?](post/How-to-calculate-emission-CO2-reduction-by-Electric-Vehicles)
+
+Question
+
+5 answers
+
+- 8 Dec 2012
+
+What will be the appropriate method to calculate emission (CO2) reduction by EVs?
+
+Relevant answer
+
+[![Gerhard Swart](https://i1.rgstatic.net/ii/profile.image/273706891083784-1442268216489_Q64/Gerhard-Swart-2.jpg)](profile/Gerhard-Swart-2)
+
+[Gerhard Swart](profile/Gerhard-Swart-2)
+
+- 25 Apr 2013
+
+Answer
+
+You have to consider the full "well-to-wheel" energy path, starting at the raw fuel (typically fossil-based) and get to 1km traveled on the road. So for Petrol/Diesel also consider the roughly 25% of C02 from the manufacturing process before the vehicle C02 emissions. For electric consider the electric generation CO2 mix. Much nuclear (e.g. France) or much solar/wind (e.g. Spain) means low C02 (100g/kWh for France) but mostly goal/gas means very high CO2 (e.g. 1000g/kWh for South Africa). There are several studies done by industry but not many academically robust ones.
+
+For Europe Battery Electrical Vehicles typically come out best by a good margin, even when compared to the latest high-efficiency petrol/diesel vehicles.
+
+[View](post/How-to-calculate-emission-CO2-reduction-by-Electric-Vehicles)
+
+- 5 Recommendations
+
+[![Graham C Smith](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Graham-Smith-30)
+
+[Graham C Smith](profile/Graham-Smith-30)
+
+- asked a question related to Carbon Footprint
+
+[What is your response to climate change as an individual?](post/What_is_your_response_to_climate_change_as_an_individual)
+
+Question
+
+45 answers
+
+- 11 Oct 2012
+
+I have for a number of years been following the slow but continuing concensus by scientists that the current climate change is caused by human activity. This question is therefore aimed at those people that hold this belief, regardless of their occupation.
+
+Do you have any idea of your personal carbon footprint and what activities have you done, if any, to reduce it in recent years? I am just as interested in those people who have not changed their behaviour as in those who have adopted change.
+
+Relevant answer
+
+[![Tanya Carey](https://i1.rgstatic.net/ii/profile.image/281801126891520-1444198032518_Q64/Tanya-Carey.jpg)](profile/Tanya-Carey)
+
+[Tanya Carey](profile/Tanya-Carey)
+
+- 17 Dec 2012
+
+Answer
+
+Similar to Maria I have tried to make small changes to my lifestyle to reduce the energy I use. I use the bicycle where possible for work. I have changed my energy supplier to one that uses much more renewable energy, and I am very aware of the energy I use in the house. I save energy where I can (lower wattage and energy efficient lightbulbs), only running applicances when they are full. I never use a tumble dryer as clothes dry naturally, I odn't understand why is there such a need in our society to have clothes dried instantly! My house has cavity wall insulation and full loft insualtion, so keeps the heat in well. In the winter I often use the wood cut down from my garden to heat the room (in my real fire), rather than using gas. I often only heat one room instead of the whole house when only I am in. I recycle everything I can including taking things from work home if they are not recyclable there. I collect water for the garden and very rarely use the hose. I save water in the home my having bricks in the toilet cisterns and special devices on the shower to reduce water use (and never have a bath). I also think it is important to buy less and use goods for longer, we need to go back to how life was 50+ years ago when clothes were sewn instead of thrown away, electrical items were fixed rather than put in the bin for landfill. My car is 19 years old and still works fine, I don't need a new car every two years. I get annoyed with insurance companies that are willing to write off a car so easily, what happens to this car afterwards, it just gets left to rot? I also use biodegradable detergents (and sometimes little balls in the washing meaning no need for detergent at all!). I never use the standby on the TV or other devices and only have lights on when I need them.I try to buy local and buy British, althuogh this is less easy when it comes to electrical goods. I only use the brand of toilet paper that plants 3 trees for every tree they use in making it. Having less children than the average means I'm not contributing to the growth in population, which possibly contributes to another slight reduction in resource use. If we all make some small changes, it has to help the future of our planet for the next generation!
+
+[View](post/What_is_your_response_to_climate_change_as_an_individual)
+
+- 6 Recommendations
+
+[![Novita Rini Wardani](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Novita-Wardani-2)
+
+[Novita Rini Wardani](profile/Novita-Wardani-2)
+
+- asked a question related to Carbon Footprint
+
+[How can I estimate the trend of carbon emission, in particular carbon footprint?](post/How_can_I_estimate_the_trend_of_carbon_emission_in_particular_carbon_footprint)
+
+Question
+
+7 answers
+
+- 9 Oct 2012
+
+I would like to doing research about household carbon footprint. I want to measure the amount of carbon emission related to household activity and also measure the trend of carbon emission.
+
+Relevant answer
+
+[![Michael Clark](https://c5.rgstatic.net/m/4671872220764/images/template/default/profile/profile_default_m.jpg)](profile/Michael-Clark-33)
+
+[Michael Clark](profile/Michael-Clark-33)
+
+- 25 Oct 2012
+
+Answer
+
+You can do the same with the mass increase in the volume of the oceans as the
+
+height of the oceans has increased by about 100 meters in the last 10,000 years, so the mass of the oceans has increased. Since water and Carbon Dioxide are products of combustion, both will increase in volume and mass as the rate of consumption
+
+of all combustibles increases with time. It should plot as an exponentially increasing
+
+curve as our abilities to extract and consume increase, and our population increases,
+
+and the number of people with access to more advanced technologies increases.
+
+[View](post/How_can_I_estimate_the_trend_of_carbon_emission_in_particular_carbon_footprint)
+
+- 0 Recommendations
+
+[![Asim Kaygusuz](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN89OjNfwAJDwOxHEacwgAAAABJRU5ErkJggg==)](profile/Asim-Kaygusuz)
+
+[Asim Kaygusuz](profile/Asim-Kaygusuz)
+
+- asked a question related to Carbon Footprint
+
+[Is energy efficiency important in carbon reduction and increasing energy prices?](post/Is_energy_efficiency_important_in_carbon_reduction_and_increasing_energy_prices)
+
+Question
+
+5 answers
+
+- 11 Sept 2012
+
+Energy Efficiency.
+
+Relevant answer
+
+[![Tom N. Ligthart](https://i1.rgstatic.net/ii/profile.image/272475342766088-1441974592109_Q64/Tom-Ligthart.jpg)](profile/Tom-Ligthart)
+
+[Tom N. Ligthart](profile/Tom-Ligthart)
+
+- 18 Sept 2012
+
+Answer
+
+Energy efficiency is crucial for the carbon footprint when using energy from non-renewable energy sources. Energy efficiency is not expected to lead to higher energy proces as the energy demand decreases. In contrary a (relative) decrease in energy prices could be expected due to the lesser demand.
+
+Many energy efficiency measures are cost effective leading to lower life cycle energy costs. See e.g. Understanding Cost-Effectiveness of Energy Efficiency Programs ...
+
+[www.epa.gov/cleanrgy/documents/suca/cost-effectiveness.pdf](https://www.researchgate.net/deref/http%3A%2F%2Fwww.epa.gov%2Fcleanrgy%2Fdocuments%2Fsuca%2Fcost-effectiveness.pdf)
+
+[View](post/Is_energy_efficiency_important_in_carbon_reduction_and_increasing_energy_prices)
+
+- 6 Recommendations
+
+[2](https://www.researchgate.net/topic/Carbon-Footprint/2)

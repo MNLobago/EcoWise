@@ -1,0 +1,364 @@
+Global Warming / Climate Change Frequently Asked Questions (FAQ)
+================================================================
+
+1.  [Home](/)
+    
+2.  Global Warming / Climate Change Frequently Asked Questions (FAQ)
+
+[**1\. What is global warming?**](#what-is-global-warming)
+  
+[**2\. What causes global warming?**](#what-causes-global-warming)
+  
+[**3\. What is climate change? Is it different from global warming?**](#what-is-climate-change)
+  
+[**4\. What is a climate change impact?**](#what-is-climate-impact)
+  
+[**5\. What does global warming have to do with severe weather, like storms, heat waves, droughts, and hurricanes?**](#global-warming-severe-weather)
+  
+[**6\. If global warming is real, why is it so cold and snowy this winter? (The difference between climate and weather.)**](#why-is-it-still-cold-snowy)
+  
+[**7\. What does global warming have to do with rising sea levels?**](#rising-sea-levels)
+  
+[**8\. What is ocean acidification?**](#ocean-acidification)
+  
+[**9\. What does production of meat and dairy products have to do with climate change?**](#climate-change-and-dairy-meat)
+  
+[**10\. What does climate change have to do with health?**](#climate-change-and-spreading-disease)
+  
+[**11\. How does climate change affect the food supply?**](#climate-change-and-food-supply)
+  
+[**12\. What is a carbon footprint, and how can I reduce my carbon footprint?**](#carbon-footprint)
+  
+[**13\. What are renewable sources of energy?**](#renewable-energy)
+  
+[**14\. What is energy efficiency?**](#what-is-energy-efficiency)
+  
+[**15\. What is climate change adaptation?**](#what-is-climate-change-adaptation)
+  
+[**16\. What is climate change mitigation?**](#what-is-climate-change-mitigation)
+  
+[**17\. What is climate change resilience?**](#what-is-climate-change-resilience)
+  
+[**18\. What is the United States doing to address climate change?**](#climate-action-usa)
+  
+[**19\. What are corporations doing to combat climate change?**](#climate-action-business)
+  
+[**20\. What is the United Nations doing to combat climate change?**](#climate-action-un)
+  
+[**21\. What is climate finance?**](#what-is-climate-finance)
+  
+[**22\. Is there hope that we will be able to address climate change before it is too late?**](#hope)
+  
+[**Other recommended climate change FAQs elsewhere on the web**](#more-climate-change-faqs)
+
+**This FAQ was last updated in February 2021**
+
+|     |
+| --- |
+| [![Climate-Change-FAQ-Cover-2021-cropped.jpg](https://www.eesi.org/images/content/Climate-Change-FAQ-Cover-2021-cropped.jpg)](https://www.eesi.org/files/FactSheet_Climate_Change_FAQ_2021.pdf) |
+| [**Download this FAQ  <br>(PDF with endnotes)**](https://www.eesi.org/files/FactSheet_Climate_Change_FAQ_2021.pdf) |
+
+### 1\. What is global warming?
+
+[Global warming](https://climate.nasa.gov/resources/global-warming-vs-climate-change/)
+ refers to the increase in average global temperature since the Industrial Revolution. The [average global temperature](https://earthobservatory.nasa.gov/world-of-change/decadaltemp.php)
+ has increased by about one degree Celsius (1.8 degrees Fahrenheit) since 1880. Global warming is an [ongoing process](https://www.ipcc.ch/site/assets/uploads/2018/02/WG1AR5_Chapter11_FINAL.pdf)
+; scientists expect the average global temperature to rise an additional 0.3 to 0.7 degrees Celsius (0.54–1.26 degrees Fahrenheit) through 2035.
+
+[![Climate-Change-FAQ-Figure-1-Global-Temperature-Mean-Estimates.png](https://www.eesi.org/images/content/Climate-Change-FAQ-Figure-1-Global-Temperature-Mean-Estimates.png)](/images/content/Climate-Change-FAQ-Figure-1-Global-Temperature-Mean-Estimates.png)
+
+**Land and ocean temperature index from 1880 to 2020, using 1951-1980 as the base period.**
+
+**Source:** [**NASA Goddard Institute for Space Studies**](https://data.giss.nasa.gov/gistemp/graphs/)
+
+### 2\. What causes global warming?
+
+[![The-Greenhouse-Effect-EESI-Graphic-Web.png](https://www.eesi.org/images/content/The-Greenhouse-Effect-EESI-Graphic-Web.png)](/images/content/The-Greenhouse-Effect-EESI-Graphic-Web.png)
+
+[Certain gases](https://www.epa.gov/ghgemissions/overview-greenhouse-gases)
+, such as carbon dioxide and methane, trap the sun's heat in Earth’s atmosphere. These greenhouse gases (GHGs) exist naturally in the atmosphere and help keep the Earth’s surface warm enough to sustain life. [Without greenhouse gases](https://www.giss.nasa.gov/research/briefs/ma_01/)
+, the average temperature on Earth would be zero degrees Fahrenheit, instead of today's roughly 58.3 degrees Fahrenheit.
+
+[Human activities](https://climate.nasa.gov/causes/)
+, notably the burning of fossil fuels (i.e., coal, natural gas, and oil) to power vehicles, factories, and homes, release carbon dioxide and other greenhouse gases into the atmosphere. [Other activities](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
+, including deforestation (cutting down trees) and raising livestock, also emit greenhouse gases.
+
+Higher concentrations of these greenhouse gases in the atmosphere trap more heat on Earth, causing an anthropogenic (i.e., human-caused) rise in global temperatures. Climate scientists agree that human activity is the main driver behind the global warming we are experiencing.
+
+### 3\. What is climate change? Is it different from global warming?
+
+The [terms](http://www.wmo.int/pages/prog/wcp/ccl/faq/faq_doc_en.html)
+ climate change and global warming are often used interchangeably, but climate change broadly refers to persistent changes in average weather (e.g., temperature, precipitation, humidity, wind, atmospheric pressure, ocean temperature, etc.) while global warming narrowly refers to a rise in the Earth’s average global temperature.
+
+Climate change can refer to natural fluctuations in the Earth’s average temperature throughout [geologic time](https://www.ncdc.noaa.gov/abrupt-climate-change/Glacial-Interglacial%20Cycles)
+, between cold periods (glacial periods, known as ice ages) and warm periods (interglacial periods).
+
+The climate change we are currently experiencing, however, is caused by human activity (see question 2). Scientists have concluded that, over the last 50 years, the Earth’s surface should have been cooling slightly based on natural factors, like solar intensity and volcano activity; instead, the [increased burning of fossil fuels](https://climate.nasa.gov/causes/)
+ has led to global warming—and at a significantly faster rate than at any time over the last 800,000 years.
+
+### 4\. What is a climate change impact?
+
+The rise in average global temperatures because of human activities has many [impacts](https://www.globalchange.gov/climate-change/impacts-society)
+ on the planet, including more intense and frequent droughts and storms, melting glaciers and ice sheets, rising sea levels, warming oceans, and ocean acidification (see question 8). People around the world are already feeling the impact of climate change on the environment. Changing weather patterns can [ruin crops](https://www.climatehubs.usda.gov/climate-impacts/growing-season)
+ and cause [serious water shortages](https://www.climatehubs.usda.gov/climate-impacts/drought)
+. [Rising sea levels](https://coast.noaa.gov/digitalcoast/tools/slr.html)
+ are threatening low-lying islands and coastal cities. [Tropical and insect-borne diseases](https://www.cdc.gov/climateandhealth/effects/vectors.htm)
+ are spreading as their hosts move into new habitats that were previously too cold for them to survive.
+
+Climate change represents a significant threat to the health and well-being of human societies, especially in communities that lack resources and are therefore ill-equipped to deal with the effects of a warmer climate.
+
+### 5\. What does global warming have to do with severe weather, like storms, heat waves, droughts, and hurricanes?
+
+[A rise in global temperatures](https://19january2017snapshot.epa.gov/climate-change-science/understanding-link-between-climate-change-and-extreme-weather_.html)
+ increases the severity and likelihood of storms, floods, wildfires, droughts, and heat waves. In a warmer climate, the atmosphere can collect, retain, and drop more water, leading to changing precipitation patterns. [Increased precipitation](https://19january2017snapshot.epa.gov/climate-indicators/climate-change-indicators-heavy-precipitation_.html)
+ can help support agriculture, but precipitation is increasingly coming in the form of more intense single-day storms, which damage property, infrastructure, and lead to loss of life in impacted areas. Over the past few decades, the United States has experienced [more heat waves](https://www.globalchange.gov/browse/indicators/us-heat-waves)
+ and fewer cold waves. Since the 1960s, the length of the heat wave season has increased in many cities by more than 40 days. Today, major U.S. cities average more than six heat waves per year, while in the 1960s, the average was two heat waves per year. Global warming also results in [warmer sea surface temperatures](https://www.globalchange.gov/browse/indicator-details/3660)
+ because the majority of the heat trapped in the Earth’s atmosphere is absorbed by the ocean. Warmer sea surface temperatures make it easier for [hurricanes](https://e360.yale.edu/features/exploring_the_links_between_hurricanes_and_ocean_warming)
+ to form. Because of human-caused global warming, it is expected that the rainfall rates from [hurricanes](https://www.gfdl.noaa.gov/global-warming-and-hurricanes/)
+ will increase, the intensity of hurricanes will increase, and the proportion of storms that reach a Category 4 or 5 level will increase.
+
+It is difficult for researchers to attribute a specific weather event to global warming. Nevertheless, climate scientists are confident that higher average global temperatures are making extreme weather more likely and severe. The United States is seeing a clear increase in the number of destructive weather and climate disasters combined with increased development in coastal and river floodplains (i.e., more people and infrastructure in these areas to be impacted). The [table](https://www.ncdc.noaa.gov/billions/summary-stats)
+ below from National Oceanic and Atmospheric Administration (NOAA) shows the number and impact of billion-dollar disasters by decade from 1980-2019.
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Select Time Period Comparisons of United States Billion-Dollar All Disasters**<br><br>**Inflation-adjusted cost of droughts, flooding, freezes, severe storms, tropical cyclones, wildfires, and winter storms.** |     |     |     |     |     |     |     |
+| **TIME PERIOD** | **BILLION-DOLLAR  <br>DISASTERS** | **EVENTS  <br>/YEAR** | **COST** | **PERCENT OF TOTAL COST** | **COST  <br>/YEAR** | **DEATHS** | **DEATHS  <br>/YEAR** |
+| **1980s**  <br>(1980-1989) | 29  | 2.9 | $178.1B | 9.7% | $17.8B | 2,870 | 287 |
+| **1990s**  <br>(1990-1999) | 53  | 5.3 | $273.8B | 15.0% | $27.4B | 3,045 | 305 |
+| **2000s**  <br>(2000-2009) | 62  | 6.2 | $518.1B | 28.4% | $51.8B | 3,091 | 309 |
+| **2010s**  <br>(2010-2019) | 119 | 11.9 | $810.3B | 44.4% | $81.0B | 5,217 | 522 |
+| **2020** | 22  | 22  | $95B | 5.1% | $95B | 262 | 262 |
+| **1980-2020** | **285** | **7.0** | **$1,876.6B** | **100.0%** | **$45.8B** | **14,485** | **353** |
+
+**_Source_**: [_National Centers for Environmental Information, National Oceanic and Atmospheric Administration_](https://www.ncdc.noaa.gov/billions/summary-stats)
+ _(NOAA)_
+
+### 6\. If global warming is real, why is it so cold and snowy this winter? (The difference between climate and weather.)
+
+The key to understanding the answer to this question is the [difference between weather and climate](https://www.ncei.noaa.gov/news/weather-vs-climate)
+. Weather is what is happening outside today, while climate is an area's typical weather. It might be raining in Los Angeles today, but typically the city's climate is dry. As the average global temperature increases, winters are more likely to be shorter and less snowy. However, there are still cold days and colder than average years due to changes in atmospheric circulation associated with weather patterns.
+
+For [snow](https://www.climate.gov/news-features/climate-qa/are-record-snowstorms-proof-global-warming-isn%E2%80%99t-happening)
+ to occur, moisture and freezing air temperatures must be present. Both these conditions are still likely in the winter, especially in areas that experience temperatures well below freezing (so even if you increase the average temperature of that location, many winter days will still be below freezing). Therefore, global warming does not prevent snowy winters. In fact, in some areas, global warming may result in [more intense winter storms](https://www.ncdc.noaa.gov/news/climate-change-and-extreme-snow-us)
+. For example, because the increase in sea surface temperature feeds more intense storms, it is likely that places like the Northeast United States will see more intense winter storms (although they may be more infrequent). Scientists expect, on average, winters to become shorter as global temperatures continue to rise, which is likely to result in fewer snowy days overall.
+
+### 7\. What does global warming have to do with rising sea levels?
+
+|     |
+| --- |
+| [![Climate-Change-FAQ-Figure-2-Sea-Level-Rise.png](https://www.eesi.org/images/content/Climate-Change-FAQ-Figure-2-Sea-Level-Rise.png)](/images/content/Climate-Change-FAQ-Figure-2-Sea-Level-Rise.png) |
+| **Cumulative changes in sea level for the world’s oceans since 1880. The blue line shows sea level as measured by tide gauges (1880-2013); the orange line shows sea level as measured by satellites (1993-2018).**<br><br>**Source:** [**U.S. Global Change Research Program**](https://www.globalchange.gov/browse/indicator-details/3977)<br> **(USGCRP). Data sources: Commonwealth Scientific and Industrial Research Organization (**[**CSIRO**](http://www.cmar.csiro.au/sealevel/sl_data_cmar.html)<br>**), National Oceanic and Atmospheric Administration (**[**NOAA**](http://www.star.nesdis.noaa.gov/sod/lsa/SeaLevelRise/LSA_SLR_timeseries_global.php)<br>**)** |
+
+Global warming contributes to rising sea levels in two main ways. First, warmer temperatures cause [glaciers and land-based ice sheets](https://science2017.globalchange.gov/chapter/1/)
+ to rapidly melt, which moves water from land to the ocean. Areas experiencing significant ice melt include Greenland, the Antarctic, and mountain glaciers around the world.
+
+Second, [thermal expansion](https://sealevel.nasa.gov/understanding-sea-level/global-sea-level/thermal-expansion)
+, the process by which warmer water takes up more space, is causing the ocean to increase in volume, which leads to rising sea levels.
+
+Other factors affect sea levels, and the combination of all these factors leads to [different rates of sea level rise](https://www.eesi.org/briefings/view/041320data)
+ across the planet. Local factors that can cause the sea level to rise faster in certain areas include ocean currents and sinking ground surfaces (known as [subsidence](https://oceanservice.noaa.gov/facts/subsidence.html)
+).
+
+Since 1880, [global average sea level](https://www.climate.gov/news-features/understanding-climate/climate-change-global-sea-level)
+ has increased by eight and nine inches. Under a low-emissions scenario, models project that sea level rise will increase about one foot above 2000 levels by the end of the century. Under a high-emissions scenario, sea level could rise more than eight feet above 2000 levels by 2100. In either case, this would increase the risk of coastal flooding and endanger millions of people living in low-lying coastal areas like New York, Los Angeles, and Miami.
+
+### 8\. What is ocean acidification?
+
+The ocean is a central component of the [carbon cycle](https://earthobservatory.nasa.gov/features/CarbonCycle)
+. Carbon constantly cycles between the ocean, land, and atmosphere (this is called the carbon flux). [Sea water](https://www.noaa.gov/education/resource-collections/ocean-coasts/ocean-acidification)
+ absorbs 25 to 30 percent of carbon dioxide emissions. As humans introduce more carbon dioxide into the atmosphere (see question 2), the ocean is absorbing a [greater volume of carbon dioxide](https://www.ncei.noaa.gov/news/global-ocean-absorbing-more-carbon)
+. This changes the ocean's chemical composition and is referred to as ocean acidification. The [pH value of the ocean](https://www.pmel.noaa.gov/co2/story/What+is+Ocean+Acidification%3F)
+ has decreased by 0.1 pH units, which is about a 30 percent increase in acidity. This change is enough to affect many marine organisms. For example, acidification stunts [shellfish shell formation](https://ocean.si.edu/planet-ocean/temperature-chemistry/searching-ocean-acidification-signal)
+ and can even cause shells to dissolve.
+
+### 9\. What does production of meat and dairy products have to do with climate change?
+
+[![Climate-Change-FAQ-Figure-3-US-Greenhouse-Gas-Emissions-by-Sector-2018.png](https://www.eesi.org/images/content/Climate-Change-FAQ-Figure-3-US-Greenhouse-Gas-Emissions-by-Sector-2018.png)](/images/content/Climate-Change-FAQ-Figure-3-US-Greenhouse-Gas-Emissions-by-Sector-2018.png)
+
+**Source:** [**EPA**](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
+
+Livestock contribute to climate change both directly, through their digestive processes, and indirectly, because of the vegetation that is cleared to make room for animal agriculture.
+
+[Agriculture](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
+ as a whole is responsible for 10 percent of U.S. greenhouse gas emissions. [Global agricultural emissions](https://www.wri.org/blog/2019/07/5-questions-about-agricultural-emissions-answered)
+ come from the digestive process of ruminant animals (such as cows, sheep, and goats), manure left on pastures, synthetic fertilizers, rice cultivation, burning to clear land, and soil and crop residue management.
+
+Livestock, especially cattle, produce methane through their digestion. Livestock manure also emits methane. Taken together, [livestock and manure emissions](https://www.epa.gov/ghgemissions/overview-greenhouse-gases#methane)
+ are responsible for 38 percent of total U.S. methane emissions. Methane is a potent greenhouse gas that has 25 times the heat trapping impact of carbon dioxide over a 100-year time period.
+
+[Forests](https://www.wri.org/blog/2019/04/6-pressing-questions-about-beef-and-climate-change-answered)
+ have often been cut down or burned to obtain land for livestock production, which releases carbon dioxide into the atmosphere and destroys a natural carbon absorber. Economic development and population growth are leading to greater meat and dairy consumption worldwide, making livestock a [rising contributor](https://www.wri.org/blog/2019/07/5-questions-about-agricultural-emissions-answered)
+ to climate change. There are ways to [reduce greenhouse gas emissions](https://www.epa.gov/agstar)
+ from livestock operations, including capturing methane from manure and changing animal feeding practices.
+
+### 10\. What does climate change have to do with health?
+
+Rising global temperatures exacerbate [heat-related diseases](https://www.ucsusa.org/resources/killer-heat-united-states-0)
+, such as heat exhaustion and heatstroke, as well as cardiovascular, respiratory, and kidney diseases. Extreme heat kills [about 618 people](https://www.cdc.gov/disasters/extremeheat/heat_guide.html)
+ in the United State every year. Since 1990, more people have [died of extreme heat](https://www.ucsusa.org/resources/killer-heat-united-states-0)
+ in the United States than from cold snaps, floods, hurricanes, or tornadoes.
+
+Climate change also impacts [food-borne diseases](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6587690/)
+ because higher temperatures can increase the abundance and range of many pathogens, as well as their growth rates and survivability.
+
+Water availability and water-borne illnesses are also impacted by climate change. Regions that depend on snow melt for drinking water may have less available water, since less snow is accumulating during the winter. Increased flooding caused by extreme weather events can intensify [water-borne diseases](https://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health)
+ by providing standing water that acts as a breeding ground for insects. Flooding can also lead to more contaminated water that is unsafe to drink or bathe in. Warmer temperatures have caused increased [toxic algae blooms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4667985/)
+ in lakes in some parts of the country.
+
+Changes in climate will also affect where disease vectors (such as insects, snails, and other cold-blooded animals) can live by extending or shifting their [ranges](https://www.cdc.gov/climateandhealth/effects/vectors.htm)
+ and the length of the [transmission season](https://www.who.int/en/news-room/fact-sheets/detail/climate-change-and-health)
+.
+
+### 11\. How does climate change affect the food supply?
+
+By increasing the frequency and intensity of droughts, floods, and storms, climate change can [impact farmers’](https://19january2017snapshot.epa.gov/climate-impacts/climate-impacts-agriculture-and-food-supply_.html)
+ ability to grow crops and the infrastructure necessary to transport and store food supplies. Changes in [seasonal weather patterns](https://www.climatehubs.usda.gov/climate-impacts/growing-season)
+ that farmers are accustomed to also make it more difficult for them to plan their plantings and harvests. Warming ocean temperatures are causing [range shifts](https://19january2017snapshot.epa.gov/climate-impacts/climate-impacts-agriculture-and-food-supply_.html)
+ for fish and shellfish species, which, in turn, impact fisheries.
+
+Though plants need carbon dioxide to grow, higher levels of carbon dioxide in the atmosphere are not necessarily beneficial for agriculture. Researchers have found that higher levels of carbon dioxide result in crops with [lower nutritional value](https://www.nature.com/articles/nature13179)
+.
+
+### 12\. What is a carbon footprint, and how can I reduce my carbon footprint?
+
+A [carbon footprint](https://www3.epa.gov/carbon-footprint-calculator/)
+ is the amount of carbon emitted by the actions of a person, group, household, organization, or activity over a given time period, primarily due to the consumption of fossil fuels. The more fossil fuels are consumed during an activity, the larger the carbon footprint (for example, flying results in a larger carbon footprint than taking a train to cover the same distance). Activities that are part of the natural carbon cycle, such as breathing, are not counted. A carbon footprint can also include emissions of other greenhouse gases, such as methane (in which case, their contribution is usually calculated based on their carbon equivalent).
+
+Reducing or offsetting greenhouse gas emissions by improving energy efficiency, using renewable energy, and adopting sustainable practices is the best way to reduce one's carbon footprint. Simple things like taking public transportation, using light emitting diode (LED) light bulbs, and reducing food waste are just a few of the many ways you can [reduce your carbon footprint](https://blogs.ei.columbia.edu/2018/12/27/35-ways-reduce-carbon-footprint/)
+ and fight climate change. For more easy ways to reduce your carbon footprint, see EESI's [Get Involved](https://www.eesi.org/get-involved#commit)
+ page.
+
+### 13\. What are renewable sources of energy?
+
+[![Climate-Change-FAQ-Figure-4-US-Electricity-from-Renewables-2019.png](https://www.eesi.org/images/content/Climate-Change-FAQ-Figure-4-US-Electricity-from-Renewables-2019.png)](/images/content/Climate-Change-FAQ-Figure-4-US-Electricity-from-Renewables-2019.png)
+
+**Source:** [**EIA**](https://www.eia.gov/tools/faqs/faq.php?id=427&t=3)
+ **(2019)**
+
+[Renewable sources of energy](https://www.energy.gov/eere/renewables)
+ come from natural resources—like sunlight, plant matter (biomass), geothermal activity, water, and wind—that are not depleted when used (or can be regrown, in the case of plant matter). In contrast, [nonrenewable sources of energy](https://www.eia.gov/energyexplained/)
+—like fossil fuels—are finite resources that cannot be easily replenished when consumed. Renewable energy is also a low- or zero-carbon source of energy.
+
+[Common sources](https://www.eia.gov/energyexplained/)
+ of renewable energy are solar, wind, geothermal, and hydro power as well as certain forms of biomass. Renewable technologies like wind turbines and solar panels have become increasingly [competitive in energy markets](https://www.bcse.org/factbook/)
+ as their production costs continue to fall. Renewable energy currently accounts for 17.6 percent of the electricity generated in the United States. Increasing global investment in renewable energy technologies has been acknowledged by the overwhelming majority of climate change experts and world leaders to be an essential strategy for reducing greenhouse gas emissions.
+
+### 14\. What is energy efficiency?
+
+[Energy efficiency](https://www.eesi.org/topics/energy-efficiency/description)
+ means using less energy to perform the same task or eliminating energy waste. Energy efficiency brings a variety of benefits: reducing greenhouse gas emissions, reducing demand for energy imports, and lowering costs on a household and economy-wide level. Improving energy efficiency is the cheapest–and often the most immediate–way to reduce the use of fossil fuels. There are enormous opportunities for efficiency improvements in every sector of the economy, whether it is buildings, transportation, industry, or energy generation.
+
+### 15\. What is climate change adaptation?
+
+[Climate adaptation](https://unfccc.int/topics/adaptation-and-resilience/the-big-picture/what-do-adaptation-to-climate-change-and-climate-resilience-mean)
+ means adjusting to the current and expected impacts of climate change. It can apply to habitats, but also to societies and economies. Adaptation usually involves preparing for harmful effects (such as rising sea levels and more frequent and intense extreme weather), but it can also prepare communities to benefit from climate change opportunities. [Examples of climate adaptations](https://nca2014.globalchange.gov/report/response-strategies/adaptation)
+ include changing crop planting and harvesting patterns to align with a new climatic zone, moving homes away from a coastline or putting those homes on stilts, and planting trees in cities to decrease intense heat made worse by the urban heat island effect. Nature-based solutions are an important form of climate adaptation. Examples of [nature-based solutions](https://www.eesi.org/papers/view/fact-sheet-nature-as-resilient-infrastructure-an-overview-of-nature-based-solutions)
+ include the tree example above, green roofs which absorb storm water and reduce temperatures, and living shorelines that can absorb storm surge during extreme weather events.
+
+### 16\. What is climate change mitigation?
+
+[Climate mitigation](https://climate.nasa.gov/solutions/adaptation-mitigation)
+ means reducing or stabilizing the level of greenhouse gases in the atmosphere. This can be done by removing carbon from the atmosphere, for example by expanding forested land, or by emitting fewer greenhouse gases.
+
+### 17\. What is climate change resilience?
+
+[Resilience](https://oceanservice.noaa.gov/facts/resilience.html)
+ is the ability of a system to absorb, withstand, and bounce back after an adverse event. In an environmental context, it is the collection of policies, infrastructure, services, transportation, energy systems, and planning that positions communities to prepare for and respond to the impacts of climate change.
+
+Communities that plan with resilience in mind are better able to adapt and thrive in the face of a changing climate. For the communities that are most vulnerable to climate impacts, planning for resilience can prevent displacement or facilitate planned relocation and reduce devastating financial losses and fatalities. Resilience measures are starting to be including in policies and designs by U.S. agencies like the [Federal Emergency Management Agency (FEMA)](https://www.fema.gov/resilience)
+ and the [U.S. Army Corps of Engineers](https://www.usace.army.mil/Missions/Sustainability/Building-Resilience/)
+.
+
+### 18\. What is the United States doing to address climate change?
+
+The United States has taken steps (both at the federal and state levels) to address climate change by increasing the nation’s use of renewable energy and curbing greenhouse gas emissions through energy efficiency initiatives and carbon pollution standards.
+
+The 116th Congress focused Capitol Hill’s attention on climate change. The leaders of the House of Representatives created the [House Select Committee on the Climate Crisis](https://climatecrisis.house.gov/)
+ to recommend climate policies, and House and Senate Standing Committees held at least [134 hearings](https://www.eesi.org/articles/view/a-breakdown-of-2019-climate-and-environment-congressional-hearings)
+ related to climate change and the environment in 2019 and at least [79 hearings](https://www.eesi.org/articles/view/a-breakdown-of-2020-climate-and-environment-congressional-hearings)
+ in 2020. However, the legislative branch has yet to pass significant legislation that will reduce greenhouse gas emissions and enhance resilience to climate impacts.
+
+Many states, including the 24 states that are members of the [U.S. Climate Alliance](http://www.usclimatealliance.org/governors-1)
+, are moving forward with policies to curb carbon emissions and favor renewable energy and energy efficiency. As of July 2019, 23 states and the District of Columbia have set their own [greenhouse gas reduction targets](https://www.c2es.org/document/greenhouse-gas-emissions-targets)
+.
+
+Economic trends have also helped the United States reduce its carbon emissions. Natural gas and renewable energy have become much cheaper, and are increasingly being used to generate electricity instead of coal (coal is a major source of carbon emissions). Thanks to this transition away from coal, [U.S. emissions from the power sector](https://www.eia.gov/todayinenergy/detail.php?id=37392)
+ are at their lowest point since 1987. The power sector has been replaced by the [transportation sector](https://www.epa.gov/ghgemissions/sources-greenhouse-gas-emissions)
+ as the largest source of U.S. greenhouse gas emissions, representing 28 percent of the total in 2018.
+
+In 2016, the United States signed and ratified the [Paris Agreement](https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement)
+ on climate change, joining with almost every country in the world to limit global warming to “well below 2 degrees Celsius” (3.6 Fahrenheit) in the 21st century. But in November 2019, the Trump Administration announced it was starting the process to [withdraw](https://2017-2021.state.gov/on-the-u-s-withdrawal-from-the-paris-agreement/index.html)
+ the United States from the Paris Agreement—a step completed in November 2020. President Joe Biden announced the United States would [rejoin the Paris Agreement](https://unfccc.int/news/un-welcomes-us-announcement-to-rejoin-paris-agreement)
+ on January 20, 2021, and the Paris Agreement will enter into force for the United States on February 19, 2021.
+
+### 19\. What are corporations doing to combat climate change?
+
+Investors and companies across the globe are embracing the shift from fossil fuels to cleaner energy. [Many large corporations](https://www.wearestillin.com/signatories?title=&field_sector_target_id=8&field_public_value=All&field_address_administrative_area=All&field_location_proximity=&field_location_proximity-lat=&field_location_proximity-lng=&geolocation_geocoder_google_geocoding_api=&geolocation_geocoder_google_geocoding_api_state=1)
+ have all stepped up to show their public support for U.S. carbon cutting efforts and have invested in projects combating climate change. More than 1,000 companies have signed a [letter](https://www.wemeanbusinesscoalition.org/)
+ that endorses the Paris Agreement on climate change.
+
+In 2016, [nearly 400 institutional investors](https://www.ceres.org/sites/default/files/Global-Investor-Letter-to-G20-Governments.pdf)
+, which collectively managed over $24 trillion in assets, also wrote in support of the Paris Agreement, encouraging governments to expand low-carbon fuel sources, establish carbon prices, and eliminate fossil fuel subsidies. By 2019, [this group](https://www.iigcc.org/media/2019/12/COP25-Global-Investor-Statement-Press-release.pdf)
+ grew to 631 institutional investors managing more than $37 trillion in assets. Moody's, whose ratings play an essential role in financial markets, now includes [climate risk in its corporate ratings](https://unfccc.int/news/moodys-to-use-paris-pledges-to-assess-corporate-financial-risk)
+.
+
+### 20\. What is the United Nations doing to combat climate change?
+
+The United Nations has been instrumental in facilitating international negotiations on efforts to combat climate change through the United Nations Framework Convention on Climate Change (UNFCCC) and the Intergovernmental Panel on Climate Change (IPCC). The [UNFCCC](https://unfccc.int/about-us/about-the-secretariat)
+ brings together 197 members, including all U.N. member states, for work sessions throughout the year. During the annual Conference of the Parties (COP), nations share information on emissions, policies, and practices, and attempt to develop strategies for addressing climate change. The [IPCC](https://www.ipcc.ch/)
+ consults experts to assess climate change science and presents policy-relevant information outlining how nations can mitigate greenhouse gas emissions and adapt to the impact and risks of this global threat.
+
+In 1997, the members of the UNFCCC negotiated the [Kyoto Protocol](https://unfccc.int/kyoto_protocol)
+, a legally binding agreement that compelled developed nations to reduce greenhouse emissions over the course of two commitment periods (2008-2012 and 2013-2020). At the 2015 Conference of the Parties, countries adopted the Paris Agreement on climate change. The Paris Agreement entered into force in November 2016, less than a year after it was adopted. As of August 2020, 189 parties (188 countries plus the European Union) have [ratified the Paris Agreement](https://unfccc.int/process/the-paris-agreement/status-of-ratification)
+. The parties agree to limit global warming to “well below 2 degrees Celsius” (3.6 Fahrenheit) this century. Participating countries are expected to submit their own country-specific emission reduction targets, known as [Nationally Determined Contributions](https://unfccc.int/nationally-determined-contributions-ndcs)
+.
+
+In 2015, the United Nations adopted [17 Sustainable Development Goals](https://sustainabledevelopment.un.org/sdgs)
+ (SDGs) that are meant to serve as a blueprint for action on critical development issues, such as ending poverty and hunger. Goal number 13 ([SDG 13](https://sustainabledevelopment.un.org/sdg13)
+) is "Climate Action," which calls on nations to reduce their greenhouse gas emissions and to prepare their communities for the impacts of climate change. The need to address climate change is also woven throughout the other goals_._
+
+### 21\. What is climate finance?
+
+[Climate finance](https://www.carbonbrief.org/interactive-how-climate-finance-flows-around-the-world)
+ is the investment of private or public money into programs, actions, and projects aimed at reducing greenhouse gas emissions and increasing resilience to climate impacts. Different entities exist at the international, national, and local levels to facilitate the mobilization and deployment of climate finance. For example, the Global Environment Facility and the Green Climate Fund are two major climate finance vehicles at the [international level](https://unfccc.int/topics/climate-finance/the-big-picture/introduction-to-climate-finance)
+, and green banks and infrastructure authorities play a similar role in states across the United States. These entities receive their funding from a variety of sources, including grants from governments, private organizations, public benefit funds, bonds, and carbon pricing mechanisms (e.g., the [Regional Greenhouse Gas Initiative](https://www.rggi.org/)
+ (RGGI) in the Northeast United States or California’s cap and trade program). Climate finance facilities use a variety of financing mechanisms to invest their funds, including loans, [public-private partnerships](https://www.c2es.org/site/assets/uploads/2017/05/guide-public-private-collaboration-city-climate-resilience-planning.pdf)
+, [power purchasing agreements](https://www.epa.gov/greenpower/solar-power-purchase-agreements)
+, and [on-bill financing](https://www.eesi.org/obf/main)
+. 
+
+[Climate finance](https://unfccc.int/topics/climate-finance/the-big-picture/introduction-to-climate-finance)
+ facilitates the deployment of the large-scale investments in energy efficiency and renewable energy needed to reduce emissions, as well as the investments in [climate adaptation and resilience needed to help communities prepare for the harmful impacts of climate change](https://www.frbsf.org/community-development/publications/community-development-investment-review/2019/october/hunting-for-money-u-s-cities-need-a-system-for-financing-climate-resilience-and-adaptation/)
+.
+
+EESI provides no-cost technical support for utilities and related stakeholders to develop, implement, and fund [on-bill financing](http://www.eesi.org/obf)
+ programs (a climate financing mechanism). This initiative helps families and businesses, particularly in rural areas, afford clean energy resources, such as solar energy and energy efficiency, to cut their energy bills and improve their comfort—all with no upfront costs. EESI accomplishes this by working with utilities and local and national partners, including green banks, to establish on-bill financing programs in which the utility or a partner organization pays for the clean energy upgrades. These costs are then repaid through a monthly charge on the recipient’s utility bill over time, using a portion of the savings generated by the upgrades. Installing these upgrades helps families reduce carbon emissions, generate clean energy, and create economic development, all while promoting a healthy environment.
+
+### 22\. Is there hope that we will be able to address climate change before it is too late?
+
+Even though climate change is a pressing threat that is not going away, we can have a significant impact on how it affects us in the near future. By investing in renewable energy and energy efficiency, people, communities, businesses, and governments can reduce the amount of greenhouse gas emissions reaching the atmosphere and slow global warming. This will help minimize the consequences of climate change in the present and for future generations.
+
+In addition, through adaptation and resilience efforts, we can and must prepare an infrastructure built to withstand the impacts of climate change, protecting the lives of millions of people currently living in vulnerable areas. Such investments will also greatly reduce the costs of extreme weather events and other disasters. We know what needs to be done, and that is a critical step in the right direction!
+
+**Author of 2021 Updates: [Anna McGinn](mailto:amcginn@eesi.org?subject=Climate%20Change%20FAQ)
+**
+
+**Editor: Amaury Laporte**
+
+**_Authors and editors of earlier versions of this FAQ:_**
+
+**_Ethan Anabel, Carol Werner, and Brian La Shier_**
+
+|     |     |
+| --- | --- |
+| ### More Climate Change FAQs |     |
+| [**Climate Change FAQs**](http://cgcs.mit.edu/education-outreach/climate-change-faqs) | Massachusetts Institute of Technology (MIT) Center for Global Change Science |
+| [**Global Climate Change – Frequently Asked Questions**](https://climate.nasa.gov/faq/) | National Aeronautics and Space Administration (NASA) |
+| [**Climate Monitoring – Frequently Asked Questions**](https://www.ncdc.noaa.gov/monitoring-references/faq/) | National Centers for Environmental Information at the National Oceanic and Atmospheric Administration (NOAA) |
+| [**Climate Change FAQs**](http://nca2014.globalchange.gov/report/appendices/faqs) | National Climate Assessment, U.S. Global Change Research Program |
+| [**Global Warming Frequently Asked Questions**](https://www.climate.gov/news-features/understanding-climate/global-warming-frequently-asked-questions) | National Oceanic and Atmospheric Administration (NOAA) |
+| [**Short Answers to Hard Questions About Climate Change**](https://www.nytimes.com/interactive/2015/11/28/science/what-is-climate-change.html?_r=3) | New York Times |
+| [**Global Warming FAQ**](http://www.ucsusa.org/global_warming/science_and_impacts/science/global-warming-faq.html) | Union of Concerned Scientists |
+| [**Frequently Asked Questions - Climate and Land Use Change**](https://www.usgs.gov/faq/climate-and-land-use-change) | U.S. Geological Survey (USGS), Department of the Interior |
+| [**Frequently asked questions about climate change and health linkages**](http://www.who.int/globalchange/faq/en/) | World Health Organization (WHO) |

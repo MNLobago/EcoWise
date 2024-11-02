@@ -1,0 +1,289 @@
+Opens in a new window Opens an external website Opens an external website in a new window
+
+This website utilizes technologies such as cookies to enable essential site functionality, as well as for analytics, personalization, and targeted advertising. [Privacy Policy](https://www.wri.org/about/privacy-policy)
+
+Accept Deny Manage Preferences
+
+Close Cookie Preferences
+
+[Skip to main content](#main-content)
+
+[Accessibility](/accessibility)
+
+[![Home](https://www.wri.org/sites/default/files/nav_logo_white_0.svg)](/)
+
+[Click to see more](#scroll)
+
+What can we help you find? 
+
+*   [Ways to Give](/support)
+    
+*   [Join us](/join-us)
+    
+*   [Contact an Expert](/about/experts-staff)
+    
+*   [Explore WRI Perspectives](/insights)
+    
+
+[Back](#)
+
+*   [All Topics Remove filter](/content-filter/remove)
+    
+*   [Climate filter site by Climate](/content-filter/53)
+    
+*   [Cities filter site by Cities](/content-filter/226)
+    
+*   [Energy filter site by Energy](/content-filter/222)
+    
+*   [Food filter site by Food](/content-filter/4422)
+    
+*   [Forests filter site by Forests](/content-filter/73)
+    
+*   [Freshwater filter site by Freshwater](/content-filter/56)
+    
+*   [Ocean filter site by Ocean](/content-filter/18861)
+    
+*   [Business filter site by Business](/content-filter/74)
+    
+*   [Economics filter site by Economics](/content-filter/10510)
+    
+*   [Finance filter site by Finance](/content-filter/9640)
+    
+*   [Equity & Governance filter site by Equity & Governance](/content-filter/227)
+    
+
+Search WRI.org
+--------------
+
+Not sure where to find something? Search all of the site's content.
+
+What can we help you find? 
+
+*   [Ways to Give](/support)
+    
+*   [Join us](/join-us)
+    
+*   [Contact an Expert](/about/experts-staff)
+    
+*   [Explore WRI Perspectives](/insights)
+    
+
+     ![Six cows grazing in an open field. ](https://files.wri.org/d8/s3fs-public/styles/500x300/s3/2021-07/cows-beef-climate-change-jakob-cotton.jpg?VersionId=_MdCOhnveBayeMaRxD3RRfSznNGQFbQ.&h=cfea4fea&itok=YhVWgef-)
+
+6 Pressing Questions About Beef and Climate Change, Answered
+============================================================
+
+March 7, 2022 By [Richard Waite](/profile/richard-waite)
+, [Tim Searchinger](/profile/tim-searchinger)
+, [Janet Ranganathan](/profile/janet-ranganathan)
+ and Jessica Zionts Cover Image by: Jakob Cotton/Unsplash
+
+Explainer
+
+Topic
+
+[Climate](/climate)
+
+[More on](#)
+
+*   [Food](/food)
+    
+*   [agriculture](/resources/tags/agriculture-8576)
+    
+*   [climate change](/resources/tags/climate-change-8563)
+    
+*   [food security](/resources/tags/food-security-8672)
+    
+
+More on
+
+*   [Food](/food)
+    
+*   [agriculture](/resources/tags/agriculture-8576)
+    
+*   [climate change](/resources/tags/climate-change-8563)
+    
+*   [food security](/resources/tags/food-security-8672)
+    
+
+Beef and climate change are in the news these days, from cows’ [alleged high-methane farts](https://www.businessinsider.com/bill-gates-warns-cow-farts-climate-change-2019-2)
+ (fact check: they’re actually mostly [high-methane burps](https://www.bloomberg.com/news/articles/2017-11-29/cutting-down-on-cow-burps-to-ease-climate-change)
+) to comparisons with [cars and airplanes](http://news.trust.org/item/20180918083629-d2wf0/)
+ (fact check: the world needs to reduce emissions [from fossil fuels _and_ agriculture](https://www.nytimes.com/2018/12/05/climate/agriculture-food-global-warming.html)
+ to sufficiently rein in global warming). And as with so many things in the public sphere, it’s easy for the conversation to get polarized.
+
+Animal-based foods are nutritious and especially important to livelihoods and diets [in developing countries](https://www.weforum.org/whitepapers/meat-the-future-series-options-for-the-livestock-sector-in-developing-and-emerging-economies-to-2030-and-beyond)
+, but they also [inefficiently use resources](/shiftingdiets)
+. Beef production is [becoming more efficient](https://www.politico.com/magazine/story/2019/04/01/meat-politics-226342)
+, but forests are [still being cut down](https://www.sciencedirect.com/science/article/pii/S0959378018314365)
+ for new pasture. People say they [want to eat more plants](https://www.foodnavigator-usa.com/Article/2018/06/20/Innovative-plant-based-food-options-outperform-traditional-staples-Nielsen-finds)
+, but meat consumption is [still rising](https://www.dtnpf.com/agriculture/web/ag/news/livestock/article/2019/02/25/another-record-year-meat-production)
+. Despite seeming contradictory, all these things are true. That’s what makes the beef and sustainability discussion so complicated — and so contentious.
+
+Drawing from our [_World Resources Report: Creating a Sustainable Food Future_](http://www.sustainablefoodfuture.org/)
+ and other research, here are six common questions about beef and climate change:
+
+### 1\. How does beef production cause greenhouse gas emissions?
+
+**_The short answer:_** Through the agricultural production process and through land-use change.
+
+**_The longer explanation:_** Cows and other ruminant animals (like goats and sheep) emit methane, a potent greenhouse gas, as they digest grasses and plants. This process is called “enteric fermentation,” and it’s the origin of cows’ burps. Methane is also emitted from manure. Additionally, nitrous oxide, another powerful greenhouse gas, is emitted from ruminant wastes on pastures and chemical fertilizers used on crops produced for cattle feed.
+
+More indirectly but also importantly, rising beef production requires increasing quantities of land. New pastureland is often created by cutting down trees, which releases carbon dioxide stored in forests.
+
+In 2017, the U.N. Food and Agriculture Organization (FAO) [estimated](https://www.fao.org/gleam/results/en/)
+ that total annual emissions from beef production, including agricultural production emissions plus land-use change, were about 3 billion tonnes of carbon dioxide equivalent in 2010. That means emissions from beef production in 2010 were roughly on par with those of [India](https://www.climatewatchdata.org/ghg-emissions?chartType=area&end_year=2018&start_year=1990)
+, and about 7% of [total](https://www.climatewatchdata.org/ghg-emissions?chartType=area&end_year=2018&start_year=1990)
+ global greenhouse gas emissions that year. Because FAO only modestly accounted for land-use-change emissions, this is a conservative estimate.
+
+Global demand for beef and other ruminant meats continues to grow, rising by 25% between 2000 and 2019. During the first two decades of this century, pastureland expansion was [the leading direct driver](/insights/just-7-commodities-replaced-area-forest-twice-size-germany-between-2001-and-2015)
+ of deforestation. Continued demand growth will put pressure on forests, biodiversity and the climate. Even after accounting for improvements in beef production efficiency, pastureland could expand by an estimated 400 million hectares, an area of land larger than the size of India, between 2010 and 2050. The resulting deforestation could increase global emissions enough to put the global goal of limiting temperature rise to 1.5-2 degrees C (2.7-3.6 degrees F) [out of reach](/blog/2018/10/we-cant-limit-global-warming-15c-without-changing-diets)
+.
+
+At COP26, global leaders pledged to [reduce methane emissions by 30%](https://unfccc.int/news/world-leaders-kick-start-accelerated-climate-action-at-cop26)
+ and [end deforestation](/insights/what-cop26-means-forests-climate)
+ by 2030. Addressing beef-related emissions could help countries meet both pledges.
+
+### 2\. Is beef more resource-intensive than other foods?
+
+**_The short answer:_** Yes.
+
+**_The longer explanation:_** Ruminant animals have [lower growth and reproduction rates](https://www.researchgate.net/publication/223885624_Efficiencies_and_biomass_appropriation_of_food_commodities_on_global_and_regional_levels)
+ than pigs and poultry, so they require a higher amount of feed per unit of meat produced. Animal feed requires land to grow, which has a carbon cost associated with it. All told, beef is more resource-intensive to produce than most other kinds of meat, and animal-based foods overall are more resource-intensive than plant-based foods. Beef requires [20 times more land and emits 20 times more GHG emissions](/shiftingdiets)
+ per gram of edible protein than common plant proteins, such as beans. And while the majority of the world’s grasslands cannot grow crops or trees, such “native grasslands” are already heavily used for livestock production, meaning additional beef demand will likely increase pressure on forests.
+
+     [![](https://files.wri.org/d8/s3fs-public/styles/455_wide/s3/uploads/food_beef_blog_fig1-01.png?VersionId=7aRfMJw7oxJBLic23hDUs4YvciwGLRD8&itok=u32RMwBJ)](https://wriorg.s3.amazonaws.com/s3fs-public/uploads/food_beef_blog_fig1-01.png)
+
+### 3. Why are some people saying beef production is only a small contributor to emissions?
+
+**_The short answer:_** Such estimates commonly leave out land-use impacts, such as cutting down forests to establish new pastureland.
+
+**_The longer explanation:_** There are a lot of statistics out there that account for emissions from beef production, but not from associated land-use change. For example, here are three common U.S. estimates:
+
+*   The U.S. Environmental Protection Agency [estimated](https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks)
+     total U.S. agricultural emissions in 2019 at only 10% of total U.S. emissions.
+*   A [2019 study](https://www.sciencedirect.com/science/article/pii/S0308521X18305675)
+     in Agricultural Systems estimated emissions from beef production at only 3% of total U.S. emissions.
+*   A [2017 study](https://www.pnas.org/content/114/48/E10301)
+     published in the Proceedings of the National Academy of Sciences estimated that removing all animals from U.S. agriculture would reduce U.S. emissions by only 3%.
+
+While all of these estimates account for emissions from U.S. agricultural production, they leave out a crucial element: emissions associated with devoting land to agriculture. An acre of land devoted to food production is often an acre that could store far more carbon if allowed to grow forest or its native vegetation. And when considering the emissions associated with domestic beef production, estimates must look beyond national borders, especially since global beef demand is on the rise.
+
+Because food is a global commodity, what is consumed in one country can drive land use impacts and emissions in another. An increase in U.S. beef consumption, for example, can result in deforestation to make way for pastureland in Latin America. Conversely, a decrease in U.S. beef consumption can avoid deforestation and land-use-change emissions abroad. As another example, [U.S. beef exports to China have been growing rapidly since 2020](https://www.reuters.com/world/china/china-gorges-american-grain-fed-beef-amid-shrinking-supplies-down-under-2021-10-01/)
+.
+
+When the land-use effects of beef production are accounted for, the GHG impacts associated with the average American-style diet actually [comes close to per capita U.S. energy-related emissions](/blog/2016/05/insider-responding-9-common-questions-about-shifting-diets-sustainable-food-future)
+. A [related analysis](/carbon-benefits-index)
+ found that the average European’s diet-related emissions, when accounting for land-use impacts, are similar to the per capita emissions typically assigned to each European’s consumption of all goods and services, including energy.
+
+### 4\. Can beef be produced more sustainably?
+
+**_The short answer:_** Yes, although beef will always be resource-intensive to produce.
+
+**_The longer explanation:_** The emissions intensity of beef production varies widely across the world, and [improvements in the efficiency of livestock production](/insights/opportunities-reduce-emissions-beef-production)
+ can greatly reduce land use and emissions per pound of meat. Improving feed quality and veterinary care, raising improved animal breeds that convert feed into meat and milk more efficiently, and using improved management practices like rotational grazing can boost productivity and soil health while reducing emissions. Boosting productivity, in turn, can take pressure off tropical forests by reducing the need for more pastureland.
+
+Examples of such improved practices abound. For example, [some beef production in Colombia](https://www.npr.org/2019/03/13/702908768/fighting-global-warming-requires-changes-in-how-cows-are-fed)
+ integrates trees and grasses onto pasturelands, helping the land produce a higher quantity and quality of feed. This can enable farmers to quadruple the number of cows per acre while greatly reducing methane emissions per pound of meat, as the cows grow more quickly. A [study of dairy farms in Kenya](https://link.springer.com/article/10.1007/s10584-012-0640-0)
+ found that supplementing typical cattle diets with high-quality feeds like napier grass and high-protein Calliandra shrubs — which can lead to faster cattle growth and greater milk production — could reduce methane emissions per liter of milk by 8% to 60%.
+
+     [![](https://files.wri.org/d8/s3fs-public/styles/455_wide/s3/uploads/food_beef_blog_fig2-01.png?VersionId=8Hngt4YSFu27hEIv67l5cBjk0cBBuRQx&itok=o8mN2mv5)](https://wriorg.s3.amazonaws.com/s3fs-public/uploads/food_beef_blog_fig2-01.png)
+
+There are also emerging technologies that can further reduce cows’ burping, such as through feed additives like [3-nitrooxypropan (3-NOP)](https://www.ncbi.nlm.nih.gov/pubmed/26229078)
+ or [seaweed](https://www.biorxiv.org/content/10.1101/2020.07.15.204958v1)
+. Improving manure management and using technologies that [prevent nitrogen in animal waste from turning into nitrous oxide](https://www.sciencedirect.com/science/article/pii/S003807171630270X)
+ can also reduce agricultural emissions. Companies that purchase beef can also incentivize these types of [improvements in practices and technologies](/insights/opportunities-reduce-emissions-beef-production)
+ to drive down emissions.
+
+### 5. Do we all need to stop eating beef in order to curb climate change?
+
+**_The short answer:_** No.
+
+**_The longer explanation:_** Reining in climate change won’t require everyone to become vegetarian or vegan, or even to stop eating beef. If ruminant meat consumption in high-consuming countries declined to about 50 calories a day, or 1.5 burgers per person per week — about half of current U.S. levels and 25% below current European levels, but still well above the national average for most countries — it would nearly eliminate the need for additional agricultural expansion and associated deforestation. This is true even in a world with 10 billion people, which is projected to happen by 2050.
+
+Diets are already shifting away from beef in some places. Per capita beef consumption has [fallen by one-third](/blog/2018/01/2018-will-see-high-meat-consumption-us-american-diet-shifting)
+ in the United States since the 1970s. [Plant-based burgers](https://www.fooddive.com/news/alternative-proteins-could-become-a-food-staple-for-more-us-consumers/550738/)
+ and [blended meat-plant alternatives](/blog/2018/02/flavor-packed-burger-saves-many-emissions-taking-2-million-cars-road)
+ are [increasingly competing](https://www.politico.com/magazine/story/2019/04/01/meat-politics-226342)
+ with conventional meat products on important attributes like taste, price and convenience. The market for plant-based alternatives is [growing at a high rate](https://www.marketsandmarkets.com/PressReleases/meat-substitutes.asp)
+, albeit from a low baseline. Still, while per capita ruminant meat consumption is falling across the Americas, Europe and Oceania, the decline would need to be [1.5 times faster](/research/state-climate-action-2021)
+ in high-consuming regions to reach the 50 calorie per day target by 2050.
+
+There are also other compelling reasons for people to shift toward plant-based foods. [Some studies](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(18)31788-4/fulltext)
+ have shown that red meat consumption is associated with increased risk of heart disease, type 2 diabetes, stroke and colorectal cancer, and that diets higher in healthy plant-based foods (such as whole grains, fruits, vegetables, nuts and legumes) are associated with lower risks. In high-income regions like North America and Europe, people also [consume more protein than they need](/shiftingdiets)
+ to meet their dietary requirements.
+
+     [![](https://files.wri.org/d8/s3fs-public/styles/455_wide/s3/uploads/food_beef_blog_fig3-01.png?VersionId=.t0jCcNhkS_B8BSuSUUZZCqPaC_Hocvp&itok=Q9VDaEAY)](https://wriorg.s3.amazonaws.com/s3fs-public/uploads/food_beef_blog_fig3-01.png)
+
+### 6. Would eating less beef be bad for jobs in the food and agriculture sector?
+
+**_The short answer:_** Not necessarily.
+
+**_The longer explanation:_** Given projected future growth in meat demand across the developing world, even if people in higher-income countries eat less beef, the global market for beef will likely continue to grow in the coming decades. The scenario in the chart above leads to a 32% growth in global ruminant meat consumption between 2010 and 2050. In the United States, despite declining per capita beef consumption, total beef production [has held steady](/blog/2018/01/2018-will-see-high-meat-consumption-us-american-diet-shifting)
+ since the 1970s. Burgeoning demand in [emerging markets like China](https://www.reuters.com/world/china/china-gorges-american-grain-fed-beef-amid-shrinking-supplies-down-under-2021-10-01/)
+ will lead to more export opportunities in leading beef-producing countries, although building such markets [takes time](https://www.drovers.com/article/beef-consumption-and-growing-beef-imports-china)
+.
+
+In addition, major meat companies are [investing](https://fortune.com/2021/05/03/tyson-plant-based-meat-beyond-meat-impossible-foods-vegan/)
+ in the alternative protein market. They’re positioning themselves more broadly as “protein companies,” even as they work to reduce emissions from beef production in their supply chains through [improved production practices](/insights/opportunities-reduce-emissions-beef-production)
+.
+
+### Moving Toward a Sustainable Food Future
+
+Beef is more resource-intensive than most other foods and has a substantial impact on the climate. A sustainable food future will require a range of strategies from farm to plate. Food producers and consumers alike have a role to play in reducing beef’s emissions as the global population continues to grow. And as the world works on strategies to curb climate change — whether in the agriculture sector, the energy sector or beyond — it’s important to make decisions with the best available information.
+
+_This article was updated in March 2022 to reflect the latest research. It was originally published in 2019._
+
+Relevant Work
+-------------
+
+[Food](/food)
+
+### [INSIDER: Responding to 9 Common Questions About Shifting Diets for a Sustainable Food Future](/technical-perspectives/insider-responding-9-common-questions-about-shifting-diets-sustainable-food-future)
+
+Technical Perspectives May 20, 2016
+
+[Food](/food)
+
+### [2018 Will See High Meat Consumption in the U.S., but the American Diet is Shifting](/insights/2018-will-see-high-meat-consumption-us-american-diet-shifting)
+
+Insights January 24, 2018
+
+[Food](/food)
+
+### [Sustainable Diets: What You Need to Know in 12 Charts](/insights/sustainable-diets-what-you-need-know-12-charts)
+
+Insights April 20, 2016
+
+[Food](/food)
+
+### [How to Manage the Global Land Squeeze? Produce, Protect, Reduce, Restore](/insights/manage-global-land-squeeze-produce-protect-reduce-restore)
+
+Insights July 20, 2023
+
+### How You Can Help
+
+WRI relies on the generosity of donors like you to turn research into action. You can support our work by making a gift today or exploring other ways to give.
+
+Stay Informed
+-------------
+
+Email 
+
+  
+
+[![Home](https://www.wri.org/sites/default/files/nav_logo_white_0.svg)](/)
+
+**World Resources Institute**  
+10 G Street NE  
+Suite 800  
+Washington DC 20002  
++1 (202) 729-7600
+
+© 2024 World Resources Institute
+
+Happy Earth Day
+
+Envision a world where everyone can enjoy clean air, walkable cities, vibrant landscapes, nutritious food and affordable energy.
+
+[Donate today](https://giving.wri.org/give/581214/#!/donation/checkout?c_src=website)
