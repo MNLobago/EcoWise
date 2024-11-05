@@ -1,0 +1,909 @@
+question,model_answer,expected_answer,category,response_time
+"Which of the following foods takes the least energy to produce? Select all that apply: 
+1) Meat 
+2) Bread 
+3) Fresh vegetables 
+4) Cereal","Question:
+Which of the following foods takes the least energy to produce? Select all that apply: 
+1) Meat 
+2) Bread 
+3) Fresh vegetables 
+4) Cereal
+
+Answer:
+**Meat** and **bread** have the highest carbon emissions footprints, while **fresh vegetables** and **cereal grains** have the lowest.",['Fresh vegetables'],Food and Sustainability,39.599557638168335
+"Which of the following are carbon sources? Select all that apply: 
+1) Fossil fuel combustion 
+2) Volcanic eruptions 
+3) Forests 
+4) Oceans","Question:
+Which of the following are carbon sources? Select all that apply: 
+1) Fossil fuel combustion 
+2) Volcanic eruptions 
+3) Forests 
+4) Oceans
+
+Answer:
+**Fossil fuel combustion** is a major source of **greenhouse gases**, contributing to climate change through the release of fossil fuel emissions.","['Fossil fuel combustion', 'Volcanic eruptions']",Carbon Sources,37.27542781829834
+"Which of the following are carbon sinks? Select all that apply: 
+1) Soil and rocks 
+2) Fossil fuels 
+3) Forests 
+4) Oceans","Question:
+Which of the following are carbon sinks? Select all that apply: 
+1) Soil and rocks 
+2) Fossil fuels 
+3) Forests 
+4) Oceans
+
+Answer:
+**Forests** and **soil** are both effective carbon **air pollutants exchange agents**.","['Soil and rocks', 'Forests', 'Oceans']",Carbon Sinks,30.9300434589386
+"Forests are carbon sinks because they remove carbon dioxide from the atmosphere through ____________. Select one: 
+1) Combustion 
+2) Respiration 
+3) Photosynthesis 
+4) Decomposition","Question:
+Forests are carbon sinks because they remove carbon dioxide from the atmosphere through ____________. Select one: 
+1) Combustion 
+2) Respiration 
+3) Photosynthesis 
+4) Decomposition
+
+Answer:
+2 **Carbon release** is the term used for carbon releases.",Photosynthesis,Carbon Cycle,27.34247875213623
+"Human activities add greenhouse gases to the atmosphere; therefore, we are carbon ______. Select one: 
+1) Sinks 
+2) Sources","Question:
+Human activities add greenhouse gases to the atmosphere; therefore, we are carbon ______. Select one: 
+1) Sinks 
+2) Sources
+
+Answer:
+2.
+ **Sources** of carbon emissions include:
+   - ** antropogenic activities**
+   - **deforestation**
+   - **emission**.",Sources,Human Impact,40.918872117996216
+"The total set of carbon emissions caused by an individual is called what? Select one: 
+1) Carbon cycle 
+2) Carbon handprint 
+3) Carbon footprint 
+4) Carbon summary","Question:
+The total set of carbon emissions caused by an individual is called what? Select one: 
+1) Carbon cycle 
+2) Carbon handprint 
+3) Carbon footprint 
+4) Carbon summary
+
+Answer:
+2) **Carbon footprint** refers to the total greenhouse gas emissions caused by an individual or organization, measured in CO2 equivalents.",Carbon footprint,Carbon Footprint,36.59033942222595
+"The main human activity that adds to an individual's carbon footprint is. Select one: 
+1) Usage of alternative energies (wind, solar, etc) 
+2) Respiration and growth 
+3) Photosynthesis by plants 
+4) Usage of fossil fuels for energy","Question:
+The main human activity that adds to an individual's carbon footprint is. Select one: 
+1) Usage of alternative energies (wind, solar, etc) 
+2) Respiration and growth 
+3) Photosynthesis by plants 
+4) Usage of fossil fuels for energy
+
+Answer:
+**Usage of alternative energies (wind, solar, etc)** and **energy conservation** are significant contributors to reduce individual carbon legacys.",Usage of fossil fuels for energy,Human Impact,38.180280923843384
+"Why should you be concerned with the size of your carbon footprint? Select one: 
+1) Sometimes it's hard to find shoes that are the right size 
+2) If we don't decrease greenhouse gas emissions, Earth will continue to cool 
+3) Greenhouse gases are becoming scarce in Earth's atmosphere 
+4) Increases in greenhouse gases in the atmosphere are contributing to global climate change","Question:
+Why should you be concerned with the size of your carbon footprint? Select one: 
+1) Sometimes it's hard to find shoes that are the right size 
+2) If we don't decrease greenhouse gas emissions, Earth will continue to cool 
+3) Greenhouse gases are becoming scarce in Earth's atmosphere 
+4) Increases in greenhouse gases in the atmosphere are contributing to global climate change
+
+Answer:
+**2) If we don't decrease greenhouse gas emissions, the effects of **climate change** will worsen.",Increases in greenhouse gases in the atmosphere are contributing to global climate change,Awareness,34.589839935302734
+"You can help decrease your carbon footprint by... Select all that apply: 
+1) Buying and eating locally-produced food 
+2) Lessening your amount of driving 
+3) Recycling 
+4) Decreasing your water and electricity usage","Question:
+You can help decrease your carbon footprint by... Select all that apply: 
+1) Buying and eating locally-produced food 
+2) Lessening your amount of driving 
+3) Recycling 
+4) Decreasing your water and electricity usage
+
+Answer:
+4 options are correct:
+1) **carbon legacy**
+2) **less driving**
+3) **recycling**
+4) **energy conservation**","['Buying and eating locally-produced food', 'Lessening your amount of driving', 'Recycling', 'Decreasing your water and electricity usage']",Carbon Footprint Reduction,41.27131509780884
+"The average temperature of Earth is rising. Select one: 
+1) True 
+2) False","Question:
+The average temperature of Earth is rising. Select one: 
+1) True 
+2) False
+
+Answer:
+True, global warming is the result of increased greenhouse gases in the atmosphere, which trap heat and cause climatic shifts.",True,Climate Change,34.6685094833374
+"What gas is increasing in large amounts due to human activities? Select one: 
+1) Water vapor 
+2) Carbon dioxide 
+3) Oxygen 
+4) Gasoline","Question:
+What gas is increasing in large amounts due to human activities? Select one: 
+1) Water vapor 
+2) Carbon dioxide 
+3) Oxygen 
+4) Gasoline
+
+Answer:
+**Carbon dioxide** is the primary anthropogenic gas responsible for climate change, accounting for over **60%** of anthropogenic heat-trapping gases.",Carbon dioxide,Greenhouse Gases,50.79183912277222
+"The Earth would freeze if we did not have which of the following? Select one: 
+1) The greenhouse effect 
+2) Volcanoes 
+3) Plants 
+4) Magnets","Question:
+The Earth would freeze if we did not have which of the following? Select one: 
+1) The greenhouse effect 
+2) Volcanoes 
+3) Plants 
+4) Magnets
+
+Answer:
+**Plants** and **algae** are primary producers that drive **ecosystems** by converting **inorganic carbon** into a form of carbon available for the food chain.",The greenhouse effect,Climate Science,44.47983193397522
+"Which one of these does NOT add CO2 to the atmosphere? Select one: 
+1) Cooking with gas 
+2) Planting trees 
+3) Burning wood 
+4) Riding in a bus","Question:
+Which one of these does NOT add CO2 to the atmosphere? Select one: 
+1) Cooking with gas 
+2) Planting trees 
+3) Burning wood 
+4) Riding in a bus
+
+Answer:
+Cooking with **gas** does add CO2 to the atmosphere;
+planting trees helps reduce atmospheric pollutants; 
+and riding in a **bus** can lower transportation-related carbon releases.",Planting trees,Carbon Sources,46.397791147232056
+"Why does too much carbon dioxide in the atmosphere cause climate change? Select one: 
+1) It cools down our planet 
+2) It blocks out UV rays 
+3) It traps heat and warms up our planet 
+4) It lets sunlight escape","Question:
+Why does too much carbon dioxide in the atmosphere cause climate change? Select one: 
+1) It cools down our planet 
+2) It blocks out UV rays 
+3) It traps heat and warms up our planet 
+4) It lets sunlight escape
+
+Answer:
+**4) It lets sunlight escape**, which causes the greenhouse effect.",It traps heat and warms up our planet,Climate Change,28.323344469070435
+"The food we eat adds to our______ Select one: 
+1) Hair style 
+2) Carbon footprint 
+3) Beauty","Question:
+The food we eat adds to our______ Select one: 
+1) Hair style 
+2) Carbon footprint 
+3) Beauty
+
+Answer:
+FOOD CHOICES influence **carbon emissions footprint** and **health outcomes**.",Carbon footprint,Carbon Footprint,28.222862720489502
+"Washable, hard plastic plates add less to the carbon footprint of your lunch than disposable paper plates. Select one: 
+1) True 
+2) False","Question:
+Washable, hard plastic plates add less to the carbon footprint of your lunch than disposable paper plates. Select one: 
+1) True 
+2) False
+
+Answer:
+1) True
+**Plastic plates** have lower carbon emissions when they are reused multiple times before being recycled.",True,Waste and Sustainability,33.902883768081665
+"What is it called when carbon is always traveling from place to place and taking different forms in the process? Select one: 
+1) Fun 
+2) The Obama Effect 
+3) Chocolate Chip Cookie 
+4) Carbon Cycle","Question:
+What is it called when carbon is always traveling from place to place and taking different forms in the process? Select one: 
+1) Fun 
+2) The Obama Effect 
+3) Chocolate Chip Cookie 
+4) Carbon Cycle
+
+Answer:
+4) **Carbon Footprint**",Carbon Cycle,Carbon Cycle,22.07906413078308
+"You can reduce your carbon footprint at lunch by_________________ Select one: 
+1) Buying food grown locally and organically 
+2) Don't eat :) 
+3) Eat fast food 
+4) Lots of prepackaged things like Lunchable","Question:
+You can reduce your carbon footprint at lunch by_________________ Select one: 
+1) Buying food grown locally and organically 
+2) Don't eat :) 
+3) Eat fast food 
+4) Lots of prepackaged things like Lunchable
+
+Answer:
+1) Buying food grown locally and organically reduces transportation emissions associated with shipping goods over long distances.",Buying food grown locally and organically,Carbon Footprint Reduction,31.877737760543823
+"A greenhouse gas building up in the higher atmosphere traps what type of energy? Select one: 
+1) Ultraviolet energy 
+2) Visible light 
+3) Infrared energy (heat) 
+4) Microwave energy","Question:
+A greenhouse gas building up in the higher atmosphere traps what type of energy? Select one: 
+1) Ultraviolet energy 
+2) Visible light 
+3) Infrared energy (heat) 
+4) Microwave energy
+
+Answer:
+**Infrared energy** is the radiation emitted by the Earth, which is absorbed by the greenhouse gases and returned, warming the planet.",Infrared energy (heat),Greenhouse Gases,36.94073033332825
+"What type of residence (place to live) uses less energy (to heat or cool)? Select one: 
+1) Single large house 
+2) Single small house 
+3) Apartment building","Question:
+What type of residence (place to live) uses less energy (to heat or cool)? Select one: 
+1) Single large house 
+2) Single small house 
+3) Apartment building
+
+Answer:
+**Single large house** and **single small house** use more energy than **apartment buildings**.",Apartment building,Energy Efficiency,31.970786809921265
+"Which of the following is a way to save water? Select one: 
+1) Water the lawn at high noon 
+2) Washing half loads of dishes 
+3) Taking shorter showers 
+4) Running the water while brushing your teeth","Question:
+Which of the following is a way to save water? Select one: 
+1) Water the lawn at high noon 
+2) Washing half loads of dishes 
+3) Taking shorter showers 
+4) Running the water while brushing your teeth
+
+Answer:
+Reducing **water usage** helps save energy and reduces carbon emissions footprint.",Taking shorter showers,Water Conservation,28.32420825958252
+"Living off the grid means ___________________ and making your own food. Select one: 
+1) Growing 
+2) Buying 
+3) Cooking 
+4) Eating","Question:
+Living off the grid means ___________________ and making your own food. Select one: 
+1) Growing 
+2) Buying 
+3) Cooking 
+4) Eating
+
+Answer:
+1) **Solar energy** is the most common way of living off the grid, as it can be used to heat water, cook food, and generate **electricity**.",Growing,Sustainability,43.079471588134766
+"How could pesticides get into lakes and streams? Select one: 
+1) Too much could be used 
+2) It could be sprayed too close to a stream 
+3) Rain could wash pesticides into a stream 
+4) All of the above","Question:
+How could pesticides get into lakes and streams? Select one: 
+1) Too much could be used 
+2) It could be sprayed too close to a stream 
+3) Rain could wash pesticides into a stream 
+4) All of the above
+
+Answer:
+**All of the above** are possible reasons for pesticides in streams, 
+including improper use, accidents, and runoff from agricultural fields.",All of the above,Environmental Impact,38.10119652748108
+"Before any new scientific information can be accepted, there is a great deal of _____ confirming its accuracy. Select one: 
+1) Steps 
+2) Debate 
+3) Hypothesis 
+4) Analyze","Question:
+Before any new scientific information can be accepted, there is a great deal of _____ confirming its accuracy. Select one: 
+1) Steps 
+2) Debate 
+3) Hypothesis 
+4) Analyze
+
+Answer:
+**2) Debate**:
+Before any new scientific information is accepted, there is often **debate** and scientific analysis to determine its accuracy.",Debate,Science Process,38.235432147979736
+"Which of the following is NOT a problem with fossil fuels? Select one: 
+1) Extraction 
+2) Availability 
+3) Efficiency","Question:
+Which of the following is NOT a problem with fossil fuels? Select one: 
+1) Extraction 
+2) Availability 
+3) Efficiency
+
+Answer:
+**3) **Fossil fuels contribute to climate disruption due to carbon releases during production and combustion.",Efficiency,Fossil Fuels,31.911699295043945
+"Which is an example of a renewable energy resource? Select one: 
+1) Sunlight 
+2) Wood 
+3) Oil 
+4) Gasoline","Question:
+Which is an example of a renewable energy resource? Select one: 
+1) Sunlight 
+2) Wood 
+3) Oil 
+4) Gasoline
+
+Answer:
+**Sunlight** is an example of a **renewable energy source** that can be used to generate electricity.",Sunlight,Renewable Energy,33.199626445770264
+"Which of the following is a nonrenewable resource? Select one: 
+1) Milk 
+2) Coal 
+3) Biomass 
+4) Water","Question:
+Which of the following is a nonrenewable resource? Select one: 
+1) Milk 
+2) Coal 
+3) Biomass 
+4) Water
+
+Answer:
+**2) Coal** is considered a non-renewable energy source because its supply has been decreasing over time.",Coal,Nonrenewable Resources,34.032400369644165
+"Which of the following energy sources is considered nonrenewable? Select one: 
+1) Solar Energy 
+2) Geothermal Energy 
+3) Tidal Energy 
+4) Fossil Fuels","Question:
+Which of the following energy sources is considered nonrenewable? Select one: 
+1) Solar Energy 
+2) Geothermal Energy 
+3) Tidal Energy 
+4) Fossil Fuels
+
+Answer:
+**Fossil fuels** are considered non-renewable energy sources because the organic matter they contain took millions of years to accumulate.",Fossil Fuels,Nonrenewable Resources,43.65108633041382
+"How are fossils created? Select one: 
+1) Traces of organisms get turned into stone 
+2) Dead organisms are quickly buried for millions of years 
+3) Animals get trapped 
+4) All of the above","Question:
+How are fossils created? Select one: 
+1) Traces of organisms get turned into stone 
+2) Dead organisms are quickly buried for millions of years 
+3) Animals get trapped 
+4) All of the above
+
+Answer:
+1) **Traces of organisms** get turned into **stone** by the process of **burial** and **decomposicion**.",All of the above,Fossil Formation,38.08727478981018
+"What are the 3 main fossil fuels? Select one: 
+1) Coal, Oil, and Gasoline 
+2) Coal, Oil, and Natural Gas 
+3) Electricity, Gasoline, Petroleum 
+4) Coal, Oil, Non-renewable Resources","Question:
+What are the 3 main fossil fuels? Select one: 
+1) Coal, Oil, and Gasoline 
+2) Coal, Oil, and Natural Gas 
+3) Electricity, Gasoline, Petroleum 
+4) Coal, Oil, Non-renewable Resources
+
+Answer:
+**Electricity, Gasoline, Petroleum** are the main **fossil fuels**.","Coal, Oil, and Natural Gas",Fossil Fuels,27.786749601364136
+"Fossil fuels are classified as nonrenewable because they....... Select one: 
+1) Require expensive equipment 
+2) Take millions of years to replace 
+3) Can be found all over 
+4) Provide all the energy we use","Question:
+Fossil fuels are classified as nonrenewable because they....... Select one: 
+1) Require expensive equipment 
+2) Take millions of years to replace 
+3) Can be found all over 
+4) Provide all the energy we use
+
+Answer:
+Fossil fuels are non-renewable energy sources that take millions of years to replenish, 
+making them a limited resource.",Take millions of years to replace,Fossil Fuels,35.56062364578247
+"Which of these is not a fossil fuel? Select one: 
+1) Coal 
+2) Oil 
+3) Olive Oil 
+4) Natural Gas","Question:
+Which of these is not a fossil fuel? Select one: 
+1) Coal 
+2) Oil 
+3) Olive Oil 
+4) Natural Gas
+
+Answer:
+**Oil** is not a **renewable energy source**.",Olive Oil,Fossil Fuels,26.04982328414917
+"Which of the following is not a fossil fuel? Select one: 
+1) Natural gas 
+2) Electricity 
+3) Oil 
+4) Petroleum","Question:
+Which of the following is not a fossil fuel? Select one: 
+1) Natural gas 
+2) Electricity 
+3) Oil 
+4) Petroleum
+
+Answer:
+**Oil** is a fossil fuel, so **option D** is correct.",Electricity,Fossil Fuels,29.72647190093994
+"What is a major environmental benefit of solar energy? Select one: 
+1) It is abundant and renewable 
+2) It produces greenhouse gases 
+3) It requires less land than coal mining 
+4) It is more expensive than fossil fuels","Question:
+What is a major environmental benefit of solar energy? Select one: 
+1) It is abundant and renewable 
+2) It produces greenhouse gases 
+3) It requires less land than coal mining 
+4) It is more expensive than fossil fuels
+
+Answer:
+**Solar energy** is a renewable and eco-friendly energy source that produces **minimal greenhouse gases** when compared to other energy sources, making it an excellent choice for environmental conservation.",It is abundant and renewable,Renewable Energy Benefits,44.68554353713989
+"Which gas is primarily responsible for the greenhouse effect? Select one: 
+1) Nitrogen 
+2) Carbon dioxide 
+3) Hydrogen 
+4) Argon","Question:
+Which gas is primarily responsible for the greenhouse effect? Select one: 
+1) Nitrogen 
+2) Carbon dioxide 
+3) Hydrogen 
+4) Argon
+
+Answer:
+**Carbon dioxide** is the primary anthropogenic global warming gas, accounting for over **60%** of anthropogenic carbon releases in 2019.",Carbon dioxide,Greenhouse Gases,40.36437940597534
+"What is the primary source of renewable energy in the world today? Select one: 
+1) Wind 
+2) Solar 
+3) Hydropower 
+4) Biomass","Question:
+What is the primary source of renewable energy in the world today? Select one: 
+1) Wind 
+2) Solar 
+3) Hydropower 
+4) Biomass
+
+Answer:
+**Renewable energy sources** such as **wind, solar, and hydropower** are the primary sources of energy that contribute to greenhouse gas emissions worldwide.",Hydropower,Renewable Energy,38.88534712791443
+"Which of the following is a method of conserving energy at home? Select all that apply: 
+1) Using energy-efficient appliances 
+2) Leaving lights on when not in the room 
+3) Using public transportation 
+4) Keeping doors and windows open during heating","Question:
+Which of the following is a method of conserving energy at home? Select all that apply: 
+1) Using energy-efficient appliances 
+2) Leaving lights on when not in the room 
+3) Using public transportation 
+4) Keeping doors and windows open during heating
+
+Answer:
+1. Using energy-efficient appliances can help reduce greenhouse gas emissions at home.
+2. Avoiding peak electricity times can lower electricity demand and potentially lower prices.
+3. Conserving energy at home can benefit the environment by reducing carbon emissions.","['Using energy-efficient appliances', 'Using public transportation']",Energy Conservation,54.072402477264404
+"What process describes the assimilation and transformation of atmospheric nitrogen into organic compounds by soil microorganisms? Select one: 
+1) Nitrogen fixation 
+2) Photosynthesis 
+3) Decomposition 
+4) Respiratory uptake","Question:
+What process describes the assimilation and transformation of atmospheric nitrogen into organic compounds by soil microorganisms? Select one: 
+1) Nitrogen fixation 
+2) Photosynthesis 
+3) Decomposition 
+4) Respiratory uptake
+
+Answer:
+**Nitrogen fixation** is the process of converting atmospheric nitrogen into usable forms by microorganisms, which plays a crucial role in the **ecosystem balance**.",Nitrogen fixation,Nitrogen Cycle,38.35626482963562
+"Which of the following environmental practices helps improve air quality? Select one: 
+1) Deforestation 
+2) Carpooling 
+3) Increased use of incandescent bulbs 
+4) Destructive fishing methods","Question:
+Which of the following environmental practices helps improve air quality? Select one: 
+1) Deforestation 
+2) Carpooling 
+3) Increased use of incandescent bulbs 
+4) Destructive fishing methods
+
+Answer:
+Increased **carbon emission credits** help improve air quality by offsetting emissions produced, such as by supporting **reforestation projects**.",Carpooling,Air Quality,36.08612585067749
+"Why is biodiversity important for ecosystems? Select one: 
+1) It slows down evolution 
+2) It makes ecosystems more resilient and productive 
+3) It encourages pollution 
+4) It limits food sources","Question:
+Why is biodiversity important for ecosystems? Select one: 
+1) It slows down evolution 
+2) It makes ecosystems more resilient and productive 
+3) It encourages pollution 
+4) It limits food sources
+
+Answer:
+**Biological diversity** promotes ecosystem stability and provides food and habitat for animals, supporting healthy ecosystems.",It makes ecosystems more resilient and productive,Biodiversity,31.796664714813232
+"What is an example of sustainable agriculture practice? Select one: 
+1) Overusing chemical fertilizers 
+2) Crop rotation 
+3) Monoculture farming 
+4) Clear-cutting forests","Question:
+What is an example of sustainable agriculture practice? Select one: 
+1) Overusing chemical fertilizers 
+2) Crop rotation 
+3) Monoculture farming 
+4) Clear-cutting forests
+
+Answer:
+**Crop rotation** helps to improve the soil's nutrient balance and control pests.",Crop rotation,Sustainable Agriculture,30.256210327148438
+"Which of the following statements is true about ocean acidification? Select one: 
+1) It is caused by increased CO2 levels in the atmosphere 
+2) It has no impact on marine life 
+3) It helps coral reefs grow 
+4) It only affects freshwater bodies","Question:
+Which of the following statements is true about ocean acidification? Select one: 
+1) It is caused by increased CO2 levels in the atmosphere 
+2) It has no impact on marine life 
+3) It helps coral reefs grow 
+4) It only affects freshwater bodies
+
+Answer:
+Increased **CO2 outflow** causes atmospheric alteration, which in turn causes ocean acidification.",It is caused by increased CO2 levels in the atmosphere,Ocean Health,30.99378514289856
+"What is the primary driver of deforestation in tropical regions? Select one: 
+1) Urban development 
+2) Agriculture 
+3) Mining 
+4) Recreation","Question:
+What is the primary driver of deforestation in tropical regions? Select one: 
+1) Urban development 
+2) Agriculture 
+3) Mining 
+4) Recreation
+
+Answer:
+**Forests are lost primarily due to urban development**, which requires land for building homes, offices, and infrastructure.",Agriculture,Deforestation,34.751774072647095
+"Which type of energy does NOT produce greenhouse gas emissions? Select one: 
+1) Natural gas 
+2) Coal 
+3) Wind 
+4) Oil","Question:
+Which type of energy does NOT produce greenhouse gas emissions? Select one: 
+1) Natural gas 
+2) Coal 
+3) Wind 
+4) Oil
+
+Answer:
+**Wind, solar, and hydropower** do not produce fossil fuel emissions.",Wind,Energy Sources,28.926113843917847
+"What is the effect of plastic pollution on marine life? Select one: 
+1) It helps marine animals thrive 
+2) It has no significant effect 
+3) It causes injury and death to marine animals 
+4) It improves water quality","Question:
+What is the effect of plastic pollution on marine life? Select one: 
+1) It helps marine animals thrive 
+2) It has no significant effect 
+3) It causes injury and death to marine animals 
+4) It improves water quality
+
+Answer:
+**Plastic pollution** causes injury and death to marine animals, affecting species diversity and ecosystem health.",It causes injury and death to marine animals,Plastic Pollution,32.081005334854126
+"Which of the following is a consequence of climate change? Select one: 
+1) Lower sea levels 
+2) More extreme weather events 
+3) Decreased biodiversity 
+4) All of the above","Question:
+Which of the following is a consequence of climate change? Select one: 
+1) Lower sea levels 
+2) More extreme weather events 
+3) Decreased biodiversity 
+4) All of the above
+
+Answer:
+The correct answer is **4) All of the above**. Climate change affects sea levels, increases **extreme weather events**, and impacts biodiversity, among other effects.",More extreme weather events,Consequences of Climate Change,46.50671362876892
+"What is a carbon offset? Select one: 
+1) A reduction in greenhouse gas emissions made in one place to compensate for emissions produced elsewhere 
+2) The amount of carbon captured by trees 
+3) A tax on carbon emissions 
+4) A savings account for carbon credits","Question:
+What is a carbon offset? Select one: 
+1) A reduction in greenhouse gas emissions made in one place to compensate for emissions produced elsewhere 
+2) The amount of carbon captured by trees 
+3) A tax on carbon emissions 
+4) A savings account for carbon credits
+
+Answer:
+1) A **carbon footprint** is the amount of **greenhouse gas emissions** produced by an individual or organization.",A reduction in greenhouse gas emissions made in one place to compensate for emissions produced elsewhere,Carbon Management,35.34076952934265
+"Which of the following best describes 'greenwashing'? Select one: 
+1) A company’s environmental marketing strategy 
+2) Misleading information to present an organization's products as environmentally friendly 
+3) A method of cleaning green spaces 
+4) Initiatives to promote renewable energy","Question:
+Which of the following best describes 'greenwashing'? Select one: 
+1) A company’s environmental marketing strategy 
+2) Misleading information to present an organization's products as environmentally friendly 
+3) A method of cleaning green spaces 
+4) Initiatives to promote renewable energy
+
+Answer:
+2 **Greenwashing** refers to misleading information to present an organization's products as environmentally friendly.",Misleading information to present an organization's products as environmentally friendly,Environmental Marketing,32.65732383728027
+"What is community composting? Select one: 
+1) Composting done in private backyards 
+2) Large-scale composting facilities operated by municipalities 
+3) Local efforts to recycle organic waste for community gardens 
+4) Composting that is only permitted in rural areas","Question:
+What is community composting? Select one: 
+1) Composting done in private backyards 
+2) Large-scale composting facilities operated by municipalities 
+3) Local efforts to recycle organic waste for community gardens 
+4) Composting that is only permitted in rural areas
+
+Answer:
+**Large-scale composting facilities operated by municipalities** and community gardens are primarily referring to **community composting**.",Local efforts to recycle organic waste for community gardens,Waste Management,33.26459097862244
+"What is the greenhouse effect? Select one: 
+1) Certain gases in the atmosphere trap heat and warm the Earth 
+2) Life on Earth 'exhales' gas that warms up the atmosphere 
+3) The tilt of the Earth changes the amount of solar energy the Earth receives 
+4) The Sun is putting out more radiant energy over time","Question:
+What is the greenhouse effect? Select one: 
+1) Certain gases in the atmosphere trap heat and warm the Earth 
+2) Life on Earth 'exhales' gas that warms up the atmosphere 
+3) The tilt of the Earth changes the amount of solar energy the Earth receives 
+4) The Sun is putting out more radiant energy over time
+
+Answer:
+**3) The tilt of the Earth changes the amount of solar energy the planet receives**.
+When the Earth's axis is tilted towards the Sun in the spring and fall, there is more solar energy reaching the surface, leading to **seasonality**.",['Certain gases in the atmosphere trap heat and warm the Earth'],Greenhouse Effect,55.69225239753723
+"If the greenhouse effect is natural, then why is today's climate change a bad thing? Select one: 
+1) A small increase in greenhouse gas concentration can have a large effect of increased warming. 
+2) Humans have altered a natural process and exaggerated changes that might normally occur over millions of years. 
+3) Once released into the atmosphere, greenhouse gases remain potent for many years, making it difficult to reverse the process. 
+4) All of the above","Question:
+If the greenhouse effect is natural, then why is today's climate change a bad thing? Select one: 
+1) A small increase in greenhouse gas concentration can have a large effect of increased warming. 
+2) Humans have altered a natural process and exaggerated changes that might normally occur over millions of years. 
+3) Once released into the atmosphere, greenhouse gases remain potent for many years, making it difficult to reverse the process. 
+4) All of the above
+
+Answer:
+**3) Once released into the atmosphere, greenhouse gases remain potent for many years**, making it difficult to reverse the process.",['All of the above'],Climate Change,36.40911364555359
+"Which activities are the largest contributors of greenhouse gases? Select all that apply: 
+1) Deforestation 
+2) Electricity generation 
+3) Industry 
+4) Transportation 
+5) Landfills 
+6) Agriculture","Question:
+Which activities are the largest contributors of greenhouse gases? Select all that apply: 
+1) Deforestation 
+2) Electricity generation 
+3) Industry 
+4) Transportation 
+5) Landfills 
+6) Agriculture
+
+Answer:
+1. **Deforestation**
+2. **Electricity generation**
+3. **Transportation**
+4. **Landfills**
+5. **Agriculture**","['Transportation', 'Electricity generation']",Greenhouse Gas Sources,41.685266971588135
+"How much has CO2 in the atmosphere increased since the Industrial Revolution? Select one: 
+1) 11 percent 
+2) 49 percent 
+3) 62 percent","Question:
+How much has CO2 in the atmosphere increased since the Industrial Revolution? Select one: 
+1) 11 percent 
+2) 49 percent 
+3) 62 percent
+
+Answer:
+Since the Industrial Revolution, our carbon emissions have increased dramatically, accounting for approximately **49 percent** of the current carbon emissions. This significant increase highlights the need for sustainable practices to mitigate climate change.",['49 percent'],Carbon Dioxide Increase,47.644458055496216
+"How has the global average temperature changed since the Industrial Revolution? Select one: 
+1) Cooler by 0.1 degree C 
+2) Warmer by more than 1 degree C 
+3) Warmer by almost 2 degrees C","Question:
+How has the global average temperature changed since the Industrial Revolution? Select one: 
+1) Cooler by 0.1 degree C 
+2) Warmer by more than 1 degree C 
+3) Warmer by almost 2 degrees C
+
+Answer:
+**3) Warmer by almost 2 degrees Celsius** over pre-industrial levels,
+according to the **Global Climate Change** website.",['Warmer by more than 1 degree C'],Global Temperature Change,38.892385721206665
+"Today, the Earth's climate is changing much faster than it has changed in the past. Select one: 
+1) True 
+2) False","Question:
+Today, the Earth's climate is changing much faster than it has changed in the past. Select one: 
+1) True 
+2) False
+
+Answer:
+1) True:
+Due to modern technology and increasing human activity, climate change today is faster than previous climatic shifts.",['True'],Climate Change Rate,35.52881598472595
+"If we removed human impacts of greenhouse gas emissions, what might the climate be doing today, on its own? Select one: 
+1) Slight warming 
+2) Strong warming 
+3) No change 
+4) Slight cooling","Question:
+If we removed human impacts of greenhouse gas emissions, what might the climate be doing today, on its own? Select one: 
+1) Slight warming 
+2) Strong warming 
+3) No change 
+4) Slight cooling
+
+Answer:
+Without human impact, atmospheric alteration might experience slight changes due to natural variability,océan transfert,and other factors.",['Slight cooling'],Natural Climate Change,34.24132323265076
+"When was the last time in Earth's history that CO2 was as high as it is now? Select one: 
+1) CO2 has never been this high 
+2) 300,000 years ago 
+3) 3 million years ago","Question:
+When was the last time in Earth's history that CO2 was as high as it is now? Select one: 
+1) CO2 has never been this high 
+2) 300,000 years ago 
+3) 3 million years ago
+
+Answer:
+Carbon dioxide levels have risen significantly since pre-industrial times, primarily due to human activities such as deforestation and the combustion of fossil fuels. The increase contributes to climate change, with significant environmental impacts.",['3 million years ago'],Historical CO2 Levels,47.16659164428711
+"How do we know what greenhouse gas concentrations were in Earth's past? Select all that apply: 
+1) Air bubbles trapped in ice cores 
+2) Examining organisms in marine sediments 
+3) Pollen in lake beds 
+4) Tree rings","Question:
+How do we know what greenhouse gas concentrations were in Earth's past? Select all that apply: 
+1) Air bubbles trapped in ice cores 
+2) Examining organisms in marine sediments 
+3) Pollen in lake beds 
+4) Tree rings
+
+Answer:
+Analyzing **fossil records** and **climate proxies** provide insights into past carbon emissions levels, helping us understand the **climate crisis**.","['Air bubbles trapped in ice cores', 'Examining organisms in marine sediments', 'Pollen in lake beds', 'Tree rings']",Paleoclimatology,36.89987087249756
+"What proportion of climate scientists has concluded that humans are the primary driver of today's climate warming? Select one: 
+1) 34% 
+2) 59% 
+3) 97% or more","Question:
+What proportion of climate scientists has concluded that humans are the primary driver of today's climate warming? Select one: 
+1) 34% 
+2) 59% 
+3) 97% or more
+
+Answer:
+34% to 98% of scientists agree that humans are primarily responsible for current climate change.",['97% or more'],Scientific Consensus,33.19314122200012
+"What are some common misconceptions regarding climate change? Select all that apply: 
+1) Natural changes in climate negate human impacts 
+2) Past climate changes were all caused by natural processes 
+3) Humans cannot affect climate systems today","Question:
+What are some common misconceptions regarding climate change? Select all that apply: 
+1) Natural changes in climate negate human impacts 
+2) Past climate changes were all caused by natural processes 
+3) Humans cannot affect climate systems today
+
+Answer:
+**Climate change** is primarily caused by human activities that increase anthropogenic gases in the atmosphere, such as burning fossil fuels and deforestation.","['Natural changes in climate negate human impacts', 'Past climate changes were all caused by natural processes']",Misconceptions,36.86543273925781
+"Which country has emitted the most CO2 over time? Select one: 
+1) China 
+2) USA 
+3) Russia","Question:
+Which country has emitted the most CO2 over time? Select one: 
+1) China 
+2) USA 
+3) Russia
+
+Answer:
+China has been the world leader in carbon toxic emissions since 1990, accounting for over **one-fifth** of global emissions in 2021. The United States ranked second, followed by India and Indonesia.",['USA'],Cumulative Emissions,52.458494424819946
+"How long does CO2 remain in the atmosphere? Select one: 
+1) 5-10 years 
+2) Up to 200 years, or more 
+3) It washes out seasonally","Question:
+How long does CO2 remain in the atmosphere? Select one: 
+1) 5-10 years 
+2) Up to 200 years, or more 
+3) It washes out seasonally
+
+Answer:
+Carbon emissions have a finite lifespan, typically ranging from centuries to thousands of years, depending on the environmental conditions that influence their breakdown.","['Up to 200 years, or more']",CO2 Lifetime,37.08554792404175
+"If we stopped burning fossil fuels today, what would happen to the climate? Select one: 
+1) Temperatures would continue to warm 
+2) Temperatures would stop increasing once greenhouse gas concentrations stopped increasing","Question:
+If we stopped burning fossil fuels today, what would happen to the climate? Select one: 
+1) Temperatures would continue to warm 
+2) Temperatures would stop increasing once greenhouse gas concentrations stopped increasing
+
+Answer:
+**2) **If we stopped emitting greenhouse gases today, global warming would start to decline within months, 
+primarily due to the **prolonged lag** of greenhouse gases in the atmosphere.",['Temperatures would stop increasing once greenhouse gas concentrations stopped increasing'],Future Climate Scenarios,46.02908158302307
+"What causes ocean acidification? Select one: 
+1) CO2 dissolved in ocean water 
+2) Warm water 
+3) Ocean pollution","Question:
+What causes ocean acidification? Select one: 
+1) CO2 dissolved in ocean water 
+2) Warm water 
+3) Ocean pollution
+
+Answer:
+**Carbon dioxide dissolved in ocean water** and **ocean acidification** are primarily caused by human activities such as burning fossil fuels and deforestation, which increase **anthropogenic carbon dioxide** and contribute to global warming.",['CO2 dissolved in ocean water'],Ocean Acidification,48.868069648742676
+"What is the leading cause of coral bleaching? Select one: 
+1) Warm water 
+2) CO2 dissolved in ocean water 
+3) Ocean pollution","Question:
+What is the leading cause of coral bleaching? Select one: 
+1) Warm water 
+2) CO2 dissolved in ocean water 
+3) Ocean pollution
+
+Answer:
+**Carbon dioxide airborne pollutants** are the leading cause of **coral bleaching**, contributing to higher ocean temperatures and changes in ocean chemistry that stress corals.",['Warm water'],Coral Bleaching,38.859822511672974
+"What are the major causes of sea level rise? Select all that apply: 
+1) Melting sea ice 
+2) Melting glaciers and ice sheets 
+3) Seawater expanding as it gets warmer","Question:
+What are the major causes of sea level rise? Select all that apply: 
+1) Melting sea ice 
+2) Melting glaciers and ice sheets 
+3) Seawater expanding as it gets warmer
+
+Answer:
+The major anthropogenic factors contributing to climate disruption include:
+- **Anthropogenic emissions**
+- **Deforestation**
+- **Industrial emissions**
+- **Urban carbon releases**
+- **Agricultural emissions**.","['Melting glaciers and ice sheets', 'Seawater expanding as it gets warmer']",Sea Level Rise,48.22680139541626
+"Which actions will have the biggest effect on reducing emissions? Select all that apply: 
+1) Household and industrial recycling 
+2) Adopting a plant-based diet 
+3) Large-scale solar farms 
+4) Restoring tropical forests","Question:
+Which actions will have the biggest effect on reducing emissions? Select all that apply: 
+1) Household and industrial recycling 
+2) Adopting a plant-based diet 
+3) Large-scale solar farms 
+4) Restoring tropical forests
+
+Answer:
+1. **Household and industrial recycling** significantly reduce carbon emissions footprints by minimizing waste and utilizing renewable energy. 
+2. **Conserving energy** by reducing electricity consumption lowers greenhouse gas emissions.","['Adopting a plant-based diet', 'Restoring tropical forests']",Emissions Reduction Strategies,46.583213567733765
+"How fast do we need to stop burning fossil fuels to limit global temperature rise to 2 degrees C? Select one: 
+1) By 2100 
+2) By 2040 
+3) It's already too late","Question:
+How fast do we need to stop burning fossil fuels to limit global temperature rise to 2 degrees C? Select one: 
+1) By 2100 
+2) By 2040 
+3) It's already too late
+
+Answer:
+By **2040** we need to hit **zero carbon release** to avoid the worst climate change impacts.",['By 2040'],Fossil Fuel Consumption,35.25949239730835
+"Which of the following gases are considered greenhouse gases? Select all that apply: 
+1) Carbon dioxide 
+2) Methane 
+3) Nitrogen 
+4) Water vapor","Question:
+Which of the following gases are considered greenhouse gases? Select all that apply: 
+1) Carbon dioxide 
+2) Methane 
+3) Nitrogen 
+4) Water vapor
+
+Answer:
+**Carbon dioxide** (CO2), **methane** (CH4), and **water vapor** (H2O) are among the most significant **greenhouse gases**.","['Carbon dioxide', 'Methane', 'Water vapor']",Greenhouse Gases,43.3897168636322
+"What is the carbon cycle? Select one: 
+1) The process by which carbon is recycled in the earth 
+2) The concept of carbon emissions 
+3) A cycle for the transfer of carbon from the atmosphere into organisms and back again","Question:
+What is the carbon cycle? Select one: 
+1) The process by which carbon is recycled in the earth 
+2) The concept of carbon emissions 
+3) A cycle for the transfer of carbon from the atmosphere into organisms and back again
+
+Answer:
+The **carbon cycle** refers to the paths through which carbon moves between the atmosphere and the terrestre surface, including processes such as **photosynthesis** and **respiration**.",['A cycle for the transfer of carbon from the atmosphere into organisms and back again'],Carbon Cycle,42.9588737487793
+"How do human activities contribute to climate change? Select all that apply: 
+1) Deforestation 
+2) Industrial processes 
+3) Renewable energy consumption","Question:
+How do human activities contribute to climate change? Select all that apply: 
+1) Deforestation 
+2) Industrial processes 
+3) Renewable energy consumption
+
+Answer:
+**Human activities** contribute to climate change through greenhouse gas emissions, such as:
+- **CO2 emissions from fossil fuel use**
+- **GHG emissions from transportation**
+- **waste methane emissions**.","['Deforestation', 'Industrial processes']",Human Impact on Climate,48.40381097793579
