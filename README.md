@@ -1,29 +1,66 @@
 # MNLobago Repository
 
-Welcome to the **MNLobago** repository, which houses the development of the **EcoWise** chatbot—a project aimed at providing users with information and insights related to environmental sustainability and climate change.
+Welcome to the MNLobago repository, which houses the EcoWise chatbot—a project designed to provide users with valuable insights and information on environmental sustainability and climate change. The EcoWise chatbot aims to educate and engage users on pressing environmental issues, promoting awareness and fostering sustainable practices.
 
 ## Repository Structure
 
-### 1. EcoWise
-This folder includes all relevant code and materials related to the EcoWise chatbot.
+1. **EcoWise**  
+   Code and materials related to the EcoWise chatbot.
 
-### 2. ChatBotEvaluation
-Scripts and documentation for evaluating the performance and effectiveness of the EcoWise chatbot, ensuring it meets user needs and expectations.
+2. **ChatBotEvaluation**  
+   Scripts and documentation for assessing the chatbot's performance and effectiveness.
 
-### 3. Data_Collection || Creation
-Contains resources and tools used for collecting and creating datasets necessary for training and fine-tuning the EcoWise chatbot.
+3. **Data_Collection_Creation**  
+   Tools and resources for collecting and creating datasets for training and fine-tuning the chatbot.
 
-### 4. Data_Formats_CSV's
-This section is completed for Phase 1 and includes properly formatted CSV files that are ready for use within the project.
+4. **Data_Formats_CSVs**  
+   Formatted CSV files ready for use in Phase 1 of the project.
 
-### 5. Data_Quality
-Documentation on the data quality checks performed to ensure high-quality datasets are utilized for model training.
+5. **Data_Quality**  
+   Documentation of data quality checks to ensure high-quality datasets.
 
-### 6. Gemma_ModelFineTuning
-Details and scripts for fine-tuning the Gemma-2B language model to enhance its capabilities in generating responses relevant to environmental topics.
+6. **Gemma_ModelFineTuning**  
+   Scripts for fine-tuning the Gemma-2B language model for environmental topic responses.
 
-### 7. Project Workflow
-A diagram outlining the project workflow (updated on 2024-11-05) illustrating the processes and components involved in the development of the EcoWise chatbot.
+7. **Project Workflow**  
+   A diagram illustrating the project's workflow, updated on 2024-11-05.
 
-### 8. app.py
-The main script for deploying the EcoWise chatbot, facilitating user interaction with the model through an easy-to-use interface.
+8. **app.py**  
+   The main deployment script for the EcoWise chatbot, enabling user interaction with the model via an interface.
+
+## How to Use `app.py`
+
+`app.py` is the main script for running the EcoWise chatbot, providing an interactive interface for users.
+
+### Prerequisites
+
+Before you start, make sure you have:
+
+- **Python 3.6 or higher**: Ensure Python is installed on your machine. Download it from [python.org](https://www.python.org/downloads/).
+- **Required Libraries**: Install the necessary Python libraries by running:
+
+  ```bash
+  pip install gradio keras-nlp huggingface-hub psutil
+  ```
+
+- **Hugging Face API Key**: Sign up at [Hugging Face](https://huggingface.co/join) and obtain your API token.
+
+### Execute the Script
+
+Run the `app.py` script using Python, supplying your Hugging Face API key as an argument:
+
+```bash
+python app.py <Hugging_face_api_key>
+```
+
+Replace `Hugging_face_api_key>` with your actual API key.
+
+### Interact with the Chatbot
+
+Upon successful execution, an interactive Gradio interface will open in your default web browser. You can start chatting with the EcoWise chatbot by typing your questions related to environmental sustainability and climate change.
+
+### Example Command
+
+```bash
+python app.py API_KEY_HERE
+```
