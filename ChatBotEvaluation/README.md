@@ -1,6 +1,6 @@
 # ChatBot Evaluation Repository
 
-This repository contains the code and data used for evaluating various chatbot models. The evaluation process includes both automated scoring (Using Script With Human FeedBack) and human feedback.
+This repository contains the code and data used for evaluating various chatbot models. The evaluation process includes both automated scoring (using scripts with human feedback) and human feedback.
 
 ## Contents
 
@@ -13,15 +13,18 @@ This repository contains the code and data used for evaluating various chatbot m
 - **model_scoring.py**: A Python script used by the `chatbotevaluation.ipynb` notebook for scoring the different chatbot models based on the performance metrics obtained.
 
 ### Data Files
-- **model_responses_with_time_tqdm\*.csv**: Contains the model responses along with evaluation scores collected during the evaluation phase.
-- **model_responses_with_time_tqdm\*S\*.csv**: A variant of the model responses CSV, potentially containing additional or refined data.
-- **model_responses_with_time_tqdm\*S\*.xlsx**: An Excel version of the evaluation scores and model responses for easy access and analysis.
+- **model_responses_with_time_tqdm*.csv**: Contains the model responses along with evaluation scores collected during the evaluation phase.
+- **model_responses_with_time_tqdm*S*.csv**: A variant of the model responses CSV, potentially containing additional or refined data.
+- **model_responses_with_time_tqdm*S*.xlsx**: An Excel version of the evaluation scores and model responses for easy access and analysis.
 
 ### Performance Metrics
 - **performance_metrics_by_category.png**: A graphical representation of performance metrics by category, summarizing the evaluation results visually.
 
 ### Model Folders
 We have three folders named **Model1**, **Model2**, and **Model3**, each containing the same content mentioned above. These folders allow for easy comparison between the different chatbot models.
+
+### LLM Evaluation
+- **LLM_Evaluation/**: A newly added folder containing files related to the evaluation of my three model variants using a language model (LLM). This folder includes methodologies and results pertaining to the LLM's performance comparison against the human evaluation process.
 
 ## Data Sources
 Here are the sources of the data collected for the quiz:
