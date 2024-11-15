@@ -53,7 +53,7 @@ Run the `app.py` script using Python, supplying your Hugging Face API key as an 
 python app.py <Hugging_face_api_key>
 ```
 
-Replace `Hugging_face_api_key>` with your actual API key.
+Replace `Hugging_face_api_key>` with the actual API key.
 
 ### Interact with the Chatbot
 
