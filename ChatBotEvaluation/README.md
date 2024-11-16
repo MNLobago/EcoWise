@@ -23,7 +23,7 @@ This repository contains the code and data used for evaluating various chatbot m
 - **`model_scoring.py`**: A Python script used in the `ScoringINF.ipynb` notebook for scoring the different chatbot models based on performance metrics.
 
 ### Data Files
-- **`model_responses_with_time_tqdm/*.csv`**: Contains the model responses along with evaluation scores collected during the evaluation phase.
+- **`model_responses_with_time_tqdm*.csv`**: Contains the model responses along with evaluation scores collected during the evaluation phase.
 - **`model_responses_with_time_tqdm*S*.csv`**: A variant of the model responses CSV, potentially containing additional or refined data.
 - **`model_responses_with_time_tqdm*S*.xlsx`**: An Excel version of the evaluation scores and model responses for easy access and analysis.
 
