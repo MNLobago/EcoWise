@@ -26,7 +26,7 @@ Welcome to the MNLobago repository, which houses the EcoWise chatbot—a project
    A diagram illustrating the project's workflow, updated on 2024-11-05.
 
 8. **App**  
-# App Deployment
+### App Deployment
 
 #### Overview
 This application contains the code for deploying my chatbot on Hugging Face Spaces using Gradio. 
