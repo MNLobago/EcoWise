@@ -3,6 +3,14 @@
 
 This repository contains Python notebooks and scripts for evaluating and scoring AI-generated responses using Google's Generative AI models. The main focus is on processing CSV files and generating insights based on the evaluation of model outputs.
 
+## Model Evaluation Files
+
+The following CSV files contain the evaluation results for different model versions. Each file includes scores and insights from the evaluations based on the Generative AI models.
+
+- **`Final_evaluated_1.csv`**: Scores and insights for **Model Version 1**. This version's evaluation incorporated LLM (Gemini 1.5 Flash) feedback to refine response accuracy and relevance.
+- **`Final_evaluated_2.csv`**: Scores and insights for **Model Version 2**. Similar to Version 1, this evaluation utilized LLM feedback to assess performance and ensure comprehensive analysis.
+- **`Final_evaluated_3.csv`**: Scores and insights for **Model Version 3**. This last version also brought LLM evaluation into consideration, allowing for a consistent scoring methodology across all models.
+
 ### Contents
 
 1. **Notebooks**
