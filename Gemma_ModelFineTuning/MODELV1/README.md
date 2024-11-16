@@ -1,3 +1,4 @@
+![Fine-tuned Model Architecture](model_architecture.png)
 ### Components of the Model Architecture
 
 1. **Preprocessor Block**

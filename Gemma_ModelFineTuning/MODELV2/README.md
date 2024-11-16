@@ -1,3 +1,4 @@
+![Fine-tuned Model Architecture](model_architecture.png)
 ### Model Architecture Explained
 
 #### 1. **Preprocessor Block**
