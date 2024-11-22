@@ -109,3 +109,9 @@ This project is licensed under the MIT License.
 3. **Initialize** the `ModelScorer` instance with your desired parameters.
 4. **Call** the `compute_scores` method with your DataFrame containing `Human_EvaluatorScore`, `Max_Score`, and `response_time`.
 5. The method will return the DataFrame enriched with additional score columns.
+
+### Visualization
+
+This is the end result of this model category-wise, illustrating the Human Evaluation Score by category to Time Penalty by category:
+
+![Performance Metrics by Category](performance_metrics_by_category.png)
